@@ -1,0 +1,2200 @@
+[
+    {
+        "Name": "Large Fang",
+        "Item": "IR5",
+        "From": "DireWolf lvl 38",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Strong Animal Leather",
+        "Item": "IR5",
+        "From": "DireWolf lvl 38",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Beast Leather",
+        "Item": "IR9",
+        "From": "DireWolf lvl 38",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Lestania Herb",
+        "Item": "IR2",
+        "From": "Herb Spot (X248,Y503)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Deenan Hyssop",
+        "Item": "IR9",
+        "From": "Herb Spot (X248,Y503)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "White Wood ",
+        "Item": "IR7",
+        "From": "Logging Spot (X249,Y506)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Pine Lumber",
+        "Item": "IR6",
+        "From": "Logging Spot (X249,Y506)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Hard Wood ",
+        "Item": "IR3",
+        "From": "Logging Spot (X249,Y506)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Rosewood",
+        "Item": "IR8",
+        "From": "Logging Spot (X249,Y506)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ape Pelt",
+        "Item": "IR3",
+        "From": "Brute Ape lvl 35",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ape Fur",
+        "Item": "IR3",
+        "From": "Brute Ape lvl 35",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Sharp Claw",
+        "Item": "IR7",
+        "From": "Brute Ape lvl 35",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ent Branch",
+        "Item": "IR4",
+        "From": "Ent lvl 38",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ent Leaf",
+        "Item": "IR4",
+        "From": "Ent lvl 38",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Angelica ",
+        "Item": "IR4",
+        "From": "Water Spot (X240,Y523)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Clear Spring Water",
+        "Item": "IR3",
+        "From": "Water Spot (X240,Y523)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Angelica ",
+        "Item": "IR4",
+        "From": "Herb Spot (X249,Y521)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "IR7",
+        "From": "Herb Spot (X249,Y521)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Angelica ",
+        "Item": "IR4",
+        "From": "Herb Spot (X252,Y515)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Deenan Hyssop",
+        "Item": "IR9",
+        "From": "Herb Spot (X252,Y515)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Harpy lvl 38",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Harpy Flight Feather ",
+        "Item": "IR6",
+        "From": "Harpy lvl 38",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Bird Feather",
+        "Item": "IR1",
+        "From": "Harpy lvl 38",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "IR7",
+        "From": "Herb Spot (X263,Y510)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Deenan Hyssop",
+        "Item": "IR9",
+        "From": "Herb Spot (X263,Y510)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Rock Scale ",
+        "Item": "IR6",
+        "From": "Saurian lvl 39",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Saurian Tail ",
+        "Item": "IR2",
+        "From": "Saurian lvl 39",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Saurian lvl 39",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giant Apophyllite",
+        "Item": "IR85",
+        "From": "Saurian lvl 39",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Saurian Gland ",
+        "Item": "IR6",
+        "From": "Saurian lvl 39",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Saurian lvl 39",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Topaz",
+        "Item": "IR8",
+        "From": "Debrees Spot (X274,Y526)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Clear Spring Water",
+        "Item": "IR3",
+        "From": "Water Spot (X278,Y533)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Energy Liquid",
+        "Item": "IR8",
+        "From": "Water Spot (X278,Y533)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Large Fang",
+        "Item": "IR5",
+        "From": "Chest (X277,Y535)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "King Bay Leaf",
+        "Item": "IR8",
+        "From": "Chest (X277,Y535)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Clear Water",
+        "Item": "IR2",
+        "From": "Water Spot (X273,Y541)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Healing Drop ",
+        "Item": "IR7",
+        "From": "Water Spot (X273,Y541)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin's Flower",
+        "Item": "IR9",
+        "From": "Forest Goblin Fihgter lvl 39",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Forest Goblin Fihgter lvl 39",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin's Leaf ",
+        "Item": "IR4",
+        "From": "Forest Goblin Fihgter lvl 39",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Clear Spring Water",
+        "Item": "IR3",
+        "From": "Water Spot (X266,Y522)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Healing Drop ",
+        "Item": "IR7",
+        "From": "Water Spot (X266,Y522)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Gala Mushroom ",
+        "Item": "IR1",
+        "From": "Mushroom Spot (X257,Y523)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Quality Gala Mushroom",
+        "Item": "IR2",
+        "From": "Mushroom Spot (X257,Y523)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Baby Herb",
+        "Item": "IR1",
+        "From": "Herb Spot (X253,Y523)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "IR7",
+        "From": "Herb Spot (X284,Y519)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Baby Herb",
+        "Item": "IR1",
+        "From": "Herb Spot (X284,Y519)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Deenan Hyssop",
+        "Item": "IR9",
+        "From": "Herb Spot (X284,Y519)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Wild Herb ",
+        "Item": "IR3",
+        "From": "Herb Spot (X284,Y519)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "IR7",
+        "From": "Herb Spot (X305,Y518)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Sapphire",
+        "Item": "IR6",
+        "From": "Gathering Spot x273 y526",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Topaz",
+        "Item": "IR8",
+        "From": "Gathering Spot x273 y526",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Marbled Beast Steak",
+        "Item": "IR7",
+        "From": "Boar lvl 1 (x274 y514)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Animal Fur",
+        "Item": "IR1",
+        "From": "Wolf lvl 42",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Small Fang",
+        "Item": "IR2",
+        "From": "Wolf lvl 42",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Supple Fur",
+        "Item": "IR2",
+        "From": "Wolf lvl 42",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "IR8",
+        "From": "Grimwarg lvl 43",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Beast Claw",
+        "Item": "IR8",
+        "From": "Grimwarg lvl 43",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Beast Leather",
+        "Item": "IR9",
+        "From": "Grimwarg lvl 43",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Orc Aimer lvl 45",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Unrefined Demon Wine ",
+        "Item": "IR4",
+        "From": "Orc Soldier lvl43",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "IR7",
+        "From": "Herb Spot (X42,Y-34)",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Baby Herb",
+        "Item": "IR1",
+        "From": "Herb Spot (X42,Y-34)",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Magick Tinged Bone",
+        "Item": "IR5",
+        "From": "Create (X53,Y-63)",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ape Pelt",
+        "Item": "IR3",
+        "From": "Brute Ape lvl 45",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ape Fur",
+        "Item": "IR3",
+        "From": "Brute Ape lvl 45",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Sharp Claw",
+        "Item": "IR7",
+        "From": "Brute Ape lvl 45",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Silver Bristle",
+        "Item": "IR9",
+        "From": "Silver Roar lvl 50",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Mystery Organs",
+        "Item": "IR10",
+        "From": "Silver Roar lvl 50",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Sharp Claw",
+        "Item": "IR7",
+        "From": "Silver Roar lvl 50",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin's Flower",
+        "Item": "IR9",
+        "From": "Forest Goblin Fighter lvl 45",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Forest Goblin Fighter lvl 45",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin's Leaf ",
+        "Item": "IR4",
+        "From": "Forest Goblin Fighter lvl 45",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Mutated Bone Lump",
+        "Item": "IR7",
+        "From": "White Chimera lvl 50",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Pure White Mane",
+        "Item": "IR9",
+        "From": "White Chimera lvl 50",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "White Lion Pelt",
+        "Item": "IR9",
+        "From": "White Chimera lvl 50",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Emerald",
+        "Item": "IR9",
+        "From": "Mining Spot (X86,Y-62)",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Agate",
+        "Item": "IR7",
+        "From": "Mining Spot (X86,Y-62)",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Baby Herb",
+        "Item": "IR1",
+        "From": "Herb Spot (X34,Y-71)",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Wild Herb ",
+        "Item": "IR3",
+        "From": "Herb Spot (X34,Y-71)",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giant Fur",
+        "Item": "IR4",
+        "From": "Troll lvl 50",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giant's Horn",
+        "Item": "IR7",
+        "From": "Troll lvl 50",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Troll's Poisonous Moss",
+        "Item": "IR4",
+        "From": "Troll lvl 50",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Emerald ",
+        "Item": "IR9",
+        "From": "Chest (X42,Y-117)",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Smooth Leather ",
+        "Item": "IR7",
+        "From": "Chest (X42,Y-117)",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Seabird Syrink",
+        "Item": "IR60",
+        "From": "Siern lvl 43",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Strong Lizardscale Pelt ",
+        "Item": "IR60",
+        "From": "Giant Saurian Sage lvl 44",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Saurian Gland ",
+        "Item": "IR6",
+        "From": "Giant Saurian Sage lvl 44",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Giant Saurian Sage lvl 44",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Saurian Tail ",
+        "Item": "IR2",
+        "From": "Giant Saurian Sage lvl 44",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Giant Saurian Sage lvl 44",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "IR7",
+        "From": "Chest (X85,Y-122)",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Cerussite",
+        "Item": "IR8",
+        "From": "Chest (X85,Y-122)",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Dragon Hide",
+        "Item": "IR8",
+        "From": "Behemoth lvl 55",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Thick Dragonscale",
+        "Item": "IR9",
+        "From": "Behemoth lvl 55",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Behemoth Fang",
+        "Item": "IR9",
+        "From": "Behemoth lvl 55",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "Captin Orc lvl 46",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Pigeon Blood",
+        "Item": "IR9",
+        "From": "Captin Orc lvl 46",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Orcish Cloth",
+        "Item": "IR7",
+        "From": "Orc Soldier lvl43",
+        "Zone": "Divine Blossom Terrace lvl 43 (X259,Y508)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Skeleton Knight lvl 42",
+        "Zone": "Sacred Tree Terrace lvl 41 (X270,Y512)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Iron Ore Fargment",
+        "Item": "IR3",
+        "From": "Skeleton Knight lvl 42",
+        "Zone": "Sacred Tree Terrace lvl 41 (X270,Y512)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Rusted Plate",
+        "Item": "IR6",
+        "From": "Skeleton Knight lvl 42",
+        "Zone": "Sacred Tree Terrace lvl 41 (X270,Y512)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Blank Scroll ",
+        "Item": "IR2",
+        "From": "Skeleton Mage lvl 41",
+        "Zone": "Sacred Tree Terrace lvl 41 (X270,Y512)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Dry Bone",
+        "Item": "IR2",
+        "From": "Skeleton Mage lvl 41",
+        "Zone": "Sacred Tree Terrace lvl 41 (X270,Y512)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Magick Tinged Bone",
+        "Item": "IR5",
+        "From": "Skeleton Mage lvl 41",
+        "Zone": "Sacred Tree Terrace lvl 41 (X270,Y512)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Scroll Of Fire",
+        "Item": "IR5",
+        "From": "Flame Skeleton Brute lvl 44",
+        "Zone": "Sacred Tree Terrace lvl 41 (X270,Y512)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Bone Meal",
+        "Item": "IR10",
+        "From": "Flame Skeleton Brute lvl 44",
+        "Zone": "Sacred Tree Terrace lvl 41 (X270,Y512)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ancient Grimoire",
+        "Item": "IR7",
+        "From": "Skeleton Sorcerer lvl 43",
+        "Zone": "Sacred Tree Terrace lvl 41 (X270,Y512)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giant Bone ",
+        "Item": "IR3",
+        "From": "Skeleton Cyclops lvl 46",
+        "Zone": "Sacred Tree Terrace lvl 41 (X270,Y512)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Cyclops Tusk",
+        "Item": "IR5",
+        "From": "Skeleton Cyclops lvl 46",
+        "Zone": "Sacred Tree Terrace lvl 41 (X270,Y512)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Bone Meal",
+        "Item": "IR10",
+        "From": "Skeleton Cyclops lvl 46",
+        "Zone": "Sacred Tree Terrace lvl 41 (X270,Y512)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Bluecurrant",
+        "Item": "IR8",
+        "From": "Herb Spot (X76,Y-62)",
+        "Zone": "Sacred Tree Terrace lvl 41 (X270,Y512)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Deenan Hyssop",
+        "Item": "IR9",
+        "From": "Herb Spot (X76,Y-62)",
+        "Zone": "Sacred Tree Terrace lvl 41 (X270,Y512)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin's Flower",
+        "Item": "IR9",
+        "From": "Forest Goblin lvl 41",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Forest Goblin lvl 41",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin's Leaf ",
+        "Item": "IR4",
+        "From": "Forest Goblin lvl 41",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Pine Lumber",
+        "Item": "IR6",
+        "From": "Logging Spot (X67,Y-54)",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Harpy lvl 42",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Harpy Flight Feather ",
+        "Item": "IR6",
+        "From": "Harpy lvl 42",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Bird Feather",
+        "Item": "IR1",
+        "From": "Harpy lvl 42",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ape Pelt",
+        "Item": "IR3",
+        "From": "Brute Ape lvl 44",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ape Fur",
+        "Item": "IR3",
+        "From": "Brute Ape lvl 44",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Sharp Claw",
+        "Item": "IR7",
+        "From": "Brute Ape lvl 44",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Mutated Bone Lump",
+        "Item": "IR7",
+        "From": "White Chimera lvl 47",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "White Lion Pelt",
+        "Item": "IR9",
+        "From": "White Chimera lvl 47",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Rusted Plate",
+        "Item": "IR6",
+        "From": "Chest (X92,Y-42)",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Broken Dagger",
+        "Item": "IR7",
+        "From": "Chest (X92,Y-42)",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Gold Ore",
+        "Item": "IR9",
+        "From": "Mining Spot (X91,Y-57)",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Hematite",
+        "Item": "IR6",
+        "From": "Mining Spot (X91,Y-57)",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Blank Scroll",
+        "Item": "IR2",
+        "From": "Book Spot (X96,Y-60)",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Large Simian Thick Pelt",
+        "Item": "IR4",
+        "From": "Dread Ape lvl 47",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Crooked Fang",
+        "Item": "IR4",
+        "From": "Dread Ape lvl 47",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ape Fur",
+        "Item": "IR3",
+        "From": "Dread Ape lvl 47",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Necrophagous Bristle",
+        "Item": "IR7",
+        "From": "Dread Ape lvl 47",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Pine Lumber",
+        "Item": "IR6",
+        "From": "Logging Spot (X91,Y-79)",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Black Wood",
+        "Item": "IR9",
+        "From": "Logging Spot (X91,Y-79)",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Blank Scroll",
+        "Item": "IR2",
+        "From": "Book Spot (X94,Y-86)",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Gold Ore",
+        "Item": "IR9",
+        "From": "Mining Spot (X95,Y-80)",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Hematite Sand",
+        "Item": "IR4",
+        "From": "Mining Spot (X95,Y-80)",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Marbled Beast Steak",
+        "Item": "IR7",
+        "From": "Chest (X40,Y-113)",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Large Beast Steak",
+        "Item": "IR5",
+        "From": "Create (X42,Y-102)",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Large Beast Steak",
+        "Item": "IR5",
+        "From": "Create (X56,Y-122)",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ent Branch",
+        "Item": "IR4",
+        "From": "Ent lvl 43",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ent Leaf",
+        "Item": "IR4",
+        "From": "Ent lvl 43",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ent Seed",
+        "Item": "IR8",
+        "From": "Ent lvl 43",
+        "Zone": "Sunset Terrace lvl 41 (X233,Y531)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin's Flower",
+        "Item": "IR9",
+        "From": "Forest Goblin lvl 42",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Forest Goblin lvl 42",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin's Leaf ",
+        "Item": "IR4",
+        "From": "Forest Goblin lvl 42",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ape Pelt",
+        "Item": "IR3",
+        "From": "Brute Ape lvl 43",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ape Fur",
+        "Item": "IR3",
+        "From": "Brute Ape lvl 43",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Sharp Claw",
+        "Item": "IR7",
+        "From": "Brute Ape lvl 43",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Crooked Fang",
+        "Item": "IR4",
+        "From": "Dread Ape lvl 45",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ape Fur",
+        "Item": "IR3",
+        "From": "Dread Ape lvl 45",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Red Sage",
+        "Item": "IR6",
+        "From": "Herb Spot (X40,Y-52)",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "King Bay Leaf",
+        "Item": "IR8",
+        "From": "Herb Spot (X40,Y-52)",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Harpy lvl 45",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Harpy Flight Feather ",
+        "Item": "IR6",
+        "From": "Harpy lvl 45",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Bird Feather",
+        "Item": "IR1",
+        "From": "Harpy lvl 45",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Red Sage",
+        "Item": "IR6",
+        "From": "Herb Spot (X60,Y-105",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giant Fur",
+        "Item": "IR4",
+        "From": "Ent lvl 47",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Troll's Poisonous Moss",
+        "Item": "IR4",
+        "From": "Ent lvl 47",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giant's Horn",
+        "Item": "IR7",
+        "From": "Ent lvl 47",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giant Fur",
+        "Item": "IR4",
+        "From": "Troll lvl 46",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Troll's Poisonous Moss",
+        "Item": "IR4",
+        "From": "Troll lvl 46",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giant's Horn",
+        "Item": "IR7",
+        "From": "Troll lvl 46",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Gold Ore",
+        "Item": "IR9",
+        "From": "Mining Spot (X89,Y-63",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Hematite",
+        "Item": "IR6",
+        "From": "Mining Spot (X89,Y-63",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Hematite Sand",
+        "Item": "IR4",
+        "From": "",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Large Simian Thick Pelt",
+        "Item": "IR4",
+        "From": "Dread Ape lvl 45",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Crooked Fang",
+        "Item": "IR4",
+        "From": "Dread Ape lvl 45",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ape Fur",
+        "Item": "IR3",
+        "From": "Dread Ape lvl 45",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Necrophagous Bristle",
+        "Item": "IR7",
+        "From": "Dread Ape lvl 45",
+        "Zone": "Moonlight Terrace lvl 42 (X268,Y533)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Slime Liquid",
+        "Item": "IR1",
+        "From": "Slime lvl 30",
+        "Zone": "Deep Water's Edge (X88,Y-73)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Strong Viscous Liquid",
+        "Item": "IR4",
+        "From": "Dim Slime lvl 32",
+        "Zone": "Deep Water's Edge (X88,Y-73)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Blob Flesh",
+        "Item": "IR9",
+        "From": "Blob lvl 30",
+        "Zone": "Deep Water's Edge (X88,Y-73)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Clear Water",
+        "Item": "IR2",
+        "From": "Water Spot (X50,Y-43)",
+        "Zone": "Deep Water's Edge (X88,Y-73)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Healing Drop ",
+        "Item": "IR7",
+        "From": "Water Spot (X50,Y-43)",
+        "Zone": "Deep Water's Edge (X88,Y-73)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Strong Viscous Liquid ",
+        "Item": "IR4",
+        "From": "Ooze lvl 40",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Strong Acid Slime Piece",
+        "Item": "IR7",
+        "From": "Ooze lvl 40",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Magick Tinged Bone",
+        "Item": "IR5",
+        "From": "Create (X52,Y0)",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Saurian lvl 45",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Saurian lvl 45",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "IR6",
+        "From": "Saurian Sage lvl 46",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Saurian Sage lvl 46",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Blank Scroll",
+        "Item": "IR2",
+        "From": "Chest (X56,Y-41)",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Slime Liquid",
+        "Item": "IR1",
+        "From": "Eletric Slime lvl 40",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Magick Tinged Bone",
+        "Item": "IR5",
+        "From": "Create (X69,Y-71)",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Sapphire",
+        "Item": "IR6",
+        "From": "Mining Spot (X64,Y-74)",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Smooth Leather ",
+        "Item": "IR7",
+        "From": "Blue Newt lvl 46",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Superior Saurian Tail",
+        "Item": "IR6",
+        "From": "Blue Newt lvl 46",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "IR6",
+        "From": "Blue Newt lvl 46",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Water Dragon Fang",
+        "Item": "IR8",
+        "From": "Lindwurm lvl 53",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Dragon Hide",
+        "Item": "IR8",
+        "From": "Lindwurm lvl 53",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Dragon Beard",
+        "Item": "IR30",
+        "From": "Lindwurm lvl 53",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Long Dragon Beard",
+        "Item": "IR30",
+        "From": "Lindwurm lvl 53",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Smooth Leather ",
+        "Item": "IR7",
+        "From": "Create (X52,Y-95)",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Magick Tinged Bone",
+        "Item": "IR5",
+        "From": "Create (X52,Y-95)",
+        "Zone": "Blue Waterway lvl 43 (X62,Y-33)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Large Fang",
+        "Item": "IR5",
+        "From": "Direwolf lvl 41",
+        "Zone": "Forest People's Tunnel lvl 41 (X284.Y514)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Strong Animal Leather",
+        "Item": "IR5",
+        "From": "Direwolf lvl 41",
+        "Zone": "Forest People's Tunnel lvl 41 (X284.Y514)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Beast Leather",
+        "Item": "IR9",
+        "From": "Direwolf lvl 41",
+        "Zone": "Forest People's Tunnel lvl 41 (X284.Y514)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Sulfur Saurian lvl 41",
+        "Zone": "Forest People's Tunnel lvl 41 (X284.Y514)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Sulfur Saurian lvl 41",
+        "Zone": "Forest People's Tunnel lvl 41 (X284.Y514)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "IR6",
+        "From": "Sulfur Saurian lvl 41",
+        "Zone": "Forest People's Tunnel lvl 41 (X284.Y514)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Sulfur Saurian lvl 41",
+        "Zone": "Forest People's Tunnel lvl 41 (X284.Y514)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Pearl Mushroom ",
+        "Item": "IR9",
+        "From": "Chest (X37,Y-41)",
+        "Zone": "Forest People's Tunnel lvl 41 (X284.Y514)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Gold Ore",
+        "Item": "IR9",
+        "From": "Mining Spot (X68,Y-50)",
+        "Zone": "Forest People's Tunnel lvl 41 (X284.Y514)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Pyrite",
+        "Item": "IR5",
+        "From": "Mining Spot (X68,Y-50)",
+        "Zone": "Forest People's Tunnel lvl 41 (X284.Y514)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Healing Drop",
+        "Item": "IR7",
+        "From": "Water Spot (X46,Y-61)",
+        "Zone": "Forest People's Tunnel lvl 41 (X284.Y514)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Wild Herb ",
+        "Item": "IR3",
+        "From": "Herb Spot (X49,Y-4)",
+        "Zone": "Fairy's Withered Well (X38,Y-89)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Marbled Beast Steak",
+        "Item": "IR7",
+        "From": "Eliminator Slay lvl 45",
+        "Zone": "Fairy's Withered Well (X38,Y-89)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Sinister Carrion ",
+        "Item": "IR9",
+        "From": "Undead Warrior lvl 43",
+        "Zone": "Fairy's Withered Well (X38,Y-89)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Rusted Plate ",
+        "Item": "IR6",
+        "From": "Undead Warrior lvl 43",
+        "Zone": "Fairy's Withered Well (X38,Y-89)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Rotten Lump",
+        "Item": "IR3",
+        "From": "Undead Warrior lvl 43",
+        "Zone": "Fairy's Withered Well (X38,Y-89)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Undead Carrion ",
+        "Item": "IR1",
+        "From": "Undead Warrior lvl 43",
+        "Zone": "Fairy's Withered Well (X38,Y-89)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Burial Shroud",
+        "Item": "IR2",
+        "From": "Undead Warrior lvl 43",
+        "Zone": "Fairy's Withered Well (X38,Y-89)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Emerald ",
+        "Item": "IR9",
+        "From": "Mining Spot (X51,Y-19)",
+        "Zone": "Fairy's Withered Well (X38,Y-89)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Pearl Mushroom",
+        "Item": "IR9",
+        "From": "Mushroom Spot (X60,Y-13)",
+        "Zone": "Fairy's Withered Well (X38,Y-89)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Coconut Scented Milkcap",
+        "Item": "IR6",
+        "From": "Mushroom Spot (X60,Y-13)",
+        "Zone": "Fairy's Withered Well (X38,Y-89)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin's Leaf",
+        "Item": "IR4",
+        "From": "Forest Goblin lvl 43",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin's Flower",
+        "Item": "IR9",
+        "From": "Forest Goblin lvl 43",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Forest Goblin lvl 43",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ent Branch",
+        "Item": "IR4",
+        "From": "Ent lvl 45 ",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ent Leaf",
+        "Item": "IR4",
+        "From": "Ent lvl 45",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ent Seed",
+        "Item": "IR8",
+        "From": "Ent lvl 45",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Troll's Poisonous Moss",
+        "Item": "IR4",
+        "From": "Troll lvl 48",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giant's Horn",
+        "Item": "IR7",
+        "From": "Troll lvl 48",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giant Fur",
+        "Item": "IR4",
+        "From": "Troll lvl 48",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Insect Venom",
+        "Item": "IR1",
+        "From": "Killer Bee lvl 44",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Clear Insect Wing",
+        "Item": "IR1",
+        "From": "Killer Bee lvl 44",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Mutated Bone Lump",
+        "Item": "IR7",
+        "From": "Chimera lvl 45",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Beast's Mane",
+        "Item": "IR5",
+        "From": "Chimera lvl 45",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Ape Pelt",
+        "Item": "IR3",
+        "From": "Brute Ape lvl 45",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Bluecurrant",
+        "Item": "IR8",
+        "From": "Chest (X67 Y57)",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "King Bay Leaf",
+        "Item": "IR8",
+        "From": "Chest (X67 Y57)",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Orcish Tusk",
+        "Item": "IR3",
+        "From": "Brutal Mogok lvl 51",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Brutal Mogok lvl 51",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Orcish Cloth",
+        "Item": "IR7",
+        "From": "Brutal Mogok lvl 51",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Orc Decoration",
+        "Item": "IR9",
+        "From": "Brutal Mogok lvl 51",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "Orc Captain lvl 49",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Pigeon Blood",
+        "Item": "IR9",
+        "From": "Orc Captain lvl 49",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Forest Chernozem",
+        "Item": "IR7",
+        "From": "Chest (X95 Y54)",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Large Fang ",
+        "Item": "IR5",
+        "From": "Dire Wolf lvl 42",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Strong Animal Leather",
+        "Item": "IR 5",
+        "From": "Dire Wolf lvl 42",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "IR7",
+        "From": "Flower Spot (X94 Y22)",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Deenan Hysop",
+        "Item": "IR9",
+        "From": "Flower Spot (X94 Y22)",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Fluorite ",
+        "Item": "IR2",
+        "From": "Mist Sorcerer lvl 44",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Mist Gem",
+        "Item": "IR4",
+        "From": "Mist Sorcerer lvl 44",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Fluorite ",
+        "Item": "IR2",
+        "From": "Mist Priest lvl 44",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Mist Gem",
+        "Item": "IR4",
+        "From": "Mist Priest lvl 44",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Fluorite ",
+        "Item": "IR2",
+        "From": "Mist Fighter lvl 44",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Mist Gem",
+        "Item": "IR4",
+        "From": "Mist Fighter lvl 44",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giant Bone",
+        "Item": "",
+        "From": "Mole Troll",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Troll's Blue Poisonous Mushroom",
+        "Item": "",
+        "From": "Mole Troll",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giant Fur",
+        "Item": "",
+        "From": "Mole Troll",
+        "Zone": "Erte Deenan lvl 42 (X314, Y521) ",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Soft Tetrix",
+        "Item": "",
+        "From": "chest X70Y-83",
+        "Zone": "Heavenly Terrace lvl 68 (X257,Y524)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Feather Chiffon",
+        "Item": "",
+        "From": "Drake Lv ?TBA",
+        "Zone": "Heavenly Terrace lvl 68 (X257,Y524)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Requires Forest Dweller's Key",
+        "Item": "",
+        "From": "Lv45 Cockatrice",
+        "Zone": "Sacred Spring Terrace  (X221, Y509)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Black Cockatrice Feather",
+        "Item": "",
+        "From": "Lv45 Cockatrice",
+        "Zone": "Sacred Spring Terrace  (X221, Y509)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Cockatrice Poison Gland",
+        "Item": "",
+        "From": "Lv45 Cockatrice",
+        "Zone": "Sacred Spring Terrace  (X221, Y509)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Cockatrice Liquor",
+        "Item": "",
+        "From": "Lv45 Cockatrice",
+        "Zone": "Sacred Spring Terrace  (X221, Y509)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin's Leaf",
+        "Item": "IR4",
+        "From": "Forest Goblin lvl 43",
+        "Zone": "Le Karvas Lotana lvl 42 (X126, Y31)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblins's Flower",
+        "Item": "IR9",
+        "From": "Forest Goblin lvl 43",
+        "Zone": "Le Karvas Lotana lvl 42 (X126, Y31)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Forest Goblin lvl 43",
+        "Zone": "Le Karvas Lotana lvl 42 (X126, Y31)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Harpy Pinion ",
+        "Item": "IR2",
+        "From": "Harpy lvl 40",
+        "Zone": "Le Karvas Lotana lvl 42 (X126, Y31)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Bird Feather",
+        "Item": "IR1",
+        "From": "Harpy lvl 40",
+        "Zone": "Le Karvas Lotana lvl 42 (X126, Y31)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Harpy Flight Feather",
+        "Item": "IR6",
+        "From": "Harpy lvl 40",
+        "Zone": "Le Karvas Lotana lvl 42 (X126, Y31)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Agate",
+        "Item": "IR7",
+        "From": "Mining Spot (X91, Y-47)",
+        "Zone": "Le Karvas Lotana lvl 42 (X126, Y31)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Animal Fur",
+        "Item": "IR1",
+        "From": "Wolf lvl 42",
+        "Zone": "Le Karvas Lotana lvl 42 (X126, Y31)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Small Fang",
+        "Item": "IR2",
+        "From": "Wolf lvl 42",
+        "Zone": "Le Karvas Lotana lvl 42 (X126, Y31)",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin's Leaf",
+        "Item": "IR4",
+        "From": "Forest Goblin lvl 42",
+        "Zone": "Le Karvas Patiro lvl 42",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin's Flower",
+        "Item": "IR9",
+        "From": "Forest Goblin lvl 42",
+        "Zone": "Le Karvas Patiro lvl 43",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Forest Goblin lvl 42",
+        "Zone": "Le Karvas Patiro lvl 44",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Harpy lvl 40",
+        "Zone": "Le Karvas Patiro lvl 45",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Bird Feather",
+        "Item": "IR1",
+        "From": "Harpy lvl 40",
+        "Zone": "Le Karvas Patiro lvl 46",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Harpy Flight Feather",
+        "Item": "IR6",
+        "From": "Harpy lvl 40",
+        "Zone": "Le Karvas Patiro lvl 47",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giant Fur",
+        "Item": "IR4",
+        "From": "Troll lvl 48",
+        "Zone": "Le Karvas Patiro lvl 48",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Troll's Poisonous Moss",
+        "Item": "IR4",
+        "From": "Troll lvl 48",
+        "Zone": "Le Karvas Patiro lvl 49",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giant's Horn",
+        "Item": "IR7",
+        "From": "Troll lvl 48",
+        "Zone": "Le Karvas Patiro lvl 50",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Large Fang",
+        "Item": "IR5",
+        "From": "Dire Wolf lvl 43",
+        "Zone": "Le Karvas Patiro lvl 51",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Strong Animal Leather",
+        "Item": "IR5",
+        "From": "Dire Wolf lvl 43",
+        "Zone": "Le Karvas Patiro lvl 52",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Beast Leather",
+        "Item": "IR9",
+        "From": "Dire Wolf lvl 43",
+        "Zone": "Le Karvas Patiro lvl 53",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin's Leaf",
+        "Item": "IR4",
+        "From": "Forest Goblin lvl 45",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin's Flower",
+        "Item": "IR9",
+        "From": "Forest Goblin lvl 45",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Forest Goblin lvl 45",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Harpy Pinion ",
+        "Item": "IR2",
+        "From": "Harpy lvl 40",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Bird Feather",
+        "Item": "IR1",
+        "From": "Harpy lvl 40",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Harpy Flight Feather",
+        "Item": "IR6",
+        "From": "Harpy lvl 40",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Large Fang",
+        "Item": "IR5",
+        "From": "Dire Wolf lvl 43",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Strong Animal Leather",
+        "Item": "IR5",
+        "From": "Dire Wolf lvl 43",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Beast Leather",
+        "Item": "IR9",
+        "From": "Dire Wolf lvl 43",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Emerald",
+        "Item": "IR9",
+        "From": "Mining Spot (X82 Y-70)",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "White wood",
+        "Item": "IR7",
+        "From": "Wood Spot (X41 Y-90)",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Black wood",
+        "Item": "IR9",
+        "From": "Wood Spot (X41 Y-90)",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Demon Wolf's Sinewy Meat",
+        "Item": "IR45",
+        "From": "Warg Lvl 40",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Topaz",
+        "Item": "IR8",
+        "From": "Chest (X88 Y-115)",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Sapphire",
+        "Item": "IR6",
+        "From": "Chest (X88 Y-115)",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Emerald",
+        "Item": "IR9",
+        "From": "Mining Spot (X82 Y-130)",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Agate",
+        "Item": "IR7",
+        "From": "Mining Spot (X82 Y-130)",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Sapphire",
+        "Item": "IR6",
+        "From": "Mining Spot (X82 Y-130)",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "White Shining Sand",
+        "Item": "IR8",
+        "From": "Chest (X90 Y-135)",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Rusted Plate",
+        "Item": "IR6",
+        "From": "Chest (X90 Y-135)",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "White Shining Sand",
+        "Item": "IR8",
+        "From": "Chest (X54 Y-169)",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Agate",
+        "Item": "IR7",
+        "From": "Chest  (X63 Y-168)",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giant Fur",
+        "Item": "IR4",
+        "From": "Mole Troll lvl 48",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Trolls Poisonous Mushroom",
+        "Item": "IR4",
+        "From": "Mole Troll lvl 48",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Giants Horn",
+        "Item": "IR7",
+        "From": "Mole Troll lvl 48",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Beast Fur ",
+        "Item": "IR8",
+        "From": "Grim Warg lvl 48",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Beast Claw",
+        "Item": "IR8",
+        "From": "Grim Warg lvl 48",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Beast Leather",
+        "Item": "IR9",
+        "From": "Grim Warg lvl 48",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Dragon Hide",
+        "Item": "IR8",
+        "From": "Isolated Angules lvl 48",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Smooth Dragonleather",
+        "Item": "IR9",
+        "From": "Isolated Angules lvl 48",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Sphinx Hair",
+        "Item": "",
+        "From": "Sphinx lvl 46",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    },
+    {
+        "Name": "Azure Sphinx ",
+        "Item": "",
+        "From": "Sphinx lvl 46",
+        "Zone": "Le Karvas Arma",
+        "Maps": "Deenan Woods"
+    }
+]

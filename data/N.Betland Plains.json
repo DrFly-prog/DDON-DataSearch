@@ -1,0 +1,1451 @@
+[
+    {
+        "Name": "Dragon Bone",
+        "Item": "IR8",
+        "From": "Cursed Dragon",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Scroll Of Darkness",
+        "Item": "IR6",
+        "From": "Cursed Dragon",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Dragon Beard",
+        "Item": "IR30",
+        "From": "Cursed Dragon",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orb Of Darkness",
+        "Item": "IR3",
+        "From": "Cursed Dragon",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Saurian lvl 35",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Rock scale",
+        "Item": "IR6",
+        "From": "Saurian lvl 35",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Saurian lvl 35",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Wild Herb",
+        "Item": "IR3",
+        "From": "Flower Spot (X200 Y136)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Blue Currant",
+        "Item": "IR8",
+        "From": "Flower Spot (X200 Y136)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Northern Oregano",
+        "Item": "IR8",
+        "From": "Flower Spot (X199 Y136)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Blue Currant",
+        "Item": "IR8",
+        "From": "Flower Spot (X199 Y136)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Dragon Hide",
+        "Item": "IR8",
+        "From": "Wyrm lvl 45",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Huge Dragon Bone Lump",
+        "Item": "IR12",
+        "From": "Wyrm lvl 45",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Azure Dragon Scale",
+        "Item": "IR12",
+        "From": "Wyrm lvl 45",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Sequoia Wood",
+        "Item": "IR8",
+        "From": "Wood Spot (X187 Y142)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Hard Wood",
+        "Item": "IR3",
+        "From": "Wood Spot (X187 Y142)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Sequoia Wood",
+        "Item": "IR8",
+        "From": "Wood Spot (X181 Y142)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Thin Wood",
+        "Item": "IR1",
+        "From": "Wood Spot (X181 Y142)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Dragon Hide",
+        "Item": "IR8",
+        "From": "Behemoth lvl 45",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Thick Dragon Scale",
+        "Item": "IR9",
+        "From": "Behemoth lvl 45",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Behemoth Fang",
+        "Item": "IR9",
+        "From": "Behemoth lvl 45",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Beast Claw",
+        "Item": "IR8",
+        "From": "Grim Warg lvl 40 ",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Beast Leather",
+        "Item": "IR9",
+        "From": "Grim Warg lvl 40 ",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "IR8",
+        "From": "Grim Warg lvl 40 ",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Griffin Beak",
+        "Item": "IR6",
+        "From": "Griffin lvl 40",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Griffin Feather",
+        "Item": "IR6",
+        "From": "Griffin lvl 40",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Ambrosial Beat-Steak",
+        "Item": "IR8",
+        "From": "Griffin lvl 40",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Giant Bone",
+        "Item": "IR3",
+        "From": "Gather Spot (X152 Y136)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Animal Bone",
+        "Item": "IR1",
+        "From": "Gather Spot (X152 Y136)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Rock Saurian lvl 35",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Rock scale",
+        "Item": "IR6",
+        "From": "Rock Saurian lvl 35",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Rock Saurian lvl 35",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Fluorite",
+        "Item": "IR2",
+        "From": "Mist Fighter lvl 38",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Mist Gem",
+        "Item": "IR4",
+        "From": "Mist Fighter lvl 38",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Fluorite",
+        "Item": "IR2",
+        "From": "Mist Sorcerer lvl 38",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Mist Gem",
+        "Item": "IR4",
+        "From": "Mist Sorcerer lvl 38",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Fluorite",
+        "Item": "IR2",
+        "From": "Mist Hunter lvl 38",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Mist Gem",
+        "Item": "IR4",
+        "From": "Mist Hunter lvl 38",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "IR7",
+        "From": "Flower Spot (X111 Y168)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Northern Oregano",
+        "Item": "IR8",
+        "From": "Flower Spot (X111 Y168)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Blue Currant",
+        "Item": "IR8",
+        "From": "Flower Spot (X111 Y168)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Sequoia Wood",
+        "Item": "IR8",
+        "From": "Wood Spot (X140 Y138)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Black Wood",
+        "Item": "IR9",
+        "From": "Wood Spot (X140 Y138)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Snow Harpy lvl 40",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Harpy Flight Feather",
+        "Item": "IR6",
+        "From": "Snow Harpy lvl 40",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Harpy Breast",
+        "Item": "IR80",
+        "From": "Snow Harpy lvl 40",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Hard Wood",
+        "Item": "IR3",
+        "From": "Wood Spot (X163 Y124)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Sequoia Wood",
+        "Item": "IR8",
+        "From": "Wood Spot (X163 Y124)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Dragon Bone",
+        "Item": "IR8",
+        "From": "Gather Spot (X261, Y144)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Goblin mats (im not logging them again) - Kami",
+        "Item": "",
+        "From": "Goblins",
+        "Zone": "Decaying Well lvl 44",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Stagnant Water 4x",
+        "Item": "IR5",
+        "From": "Water Spot (X50 Y-25)",
+        "Zone": "Decaying Well lvl 45",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Energy Liquid",
+        "Item": "IR8",
+        "From": "Water Spot (X50 Y-25)",
+        "Zone": "Decaying Well lvl 46",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Burial Shroud ",
+        "Item": "IR2",
+        "From": "Undead lvl 43",
+        "Zone": "Knights Old Storehouse lvl 43",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Undead Carrion ",
+        "Item": "IR1",
+        "From": "Undead lvl 43",
+        "Zone": "Knights Old Storehouse lvl 44",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Undead Extract",
+        "Item": "IR6",
+        "From": "Undead lvl 43",
+        "Zone": "Knights Old Storehouse lvl 45",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Fiend's Perch",
+        "Item": "IR8",
+        "From": "Mushroom Spot (X55 Y-28)",
+        "Zone": "Knights Old Storehouse lvl 46",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Moonlight Mushroom",
+        "Item": "IR5",
+        "From": "Mushroom Spot (X55 Y-28)",
+        "Zone": "Knights Old Storehouse lvl 47",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Chest (X54 Y-23)",
+        "Zone": "Knights Old Storehouse lvl 48",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Mithril Ore",
+        "Item": "IR9",
+        "From": "Chest (X54 Y-23)",
+        "Zone": "Knights Old Storehouse lvl 49",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Marbled Beast-Steak",
+        "Item": "IR7",
+        "From": "Chest(X46 Y-23)",
+        "Zone": "Knights Old Storehouse lvl 50",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Officers Mantle",
+        "Item": "IR8",
+        "From": "Glowing Spot (X54 Y-50)",
+        "Zone": "Knights Old Storehouse lvl 51",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Sinister Carrion",
+        "Item": "IR9",
+        "From": "Warrior Undead lvl 45",
+        "Zone": "Underground Crypt lvl 45",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Rotten Lump",
+        "Item": "IR3",
+        "From": "Warrior Undead lvl 45",
+        "Zone": "Underground Crypt lvl 46",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Fluorite",
+        "Item": "IR2",
+        "From": "Mist Fighter lvl 45",
+        "Zone": "Underground Crypt lvl 47",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Mist Gem",
+        "Item": "IR4",
+        "From": "Mist Fighter lvl 45",
+        "Zone": "Underground Crypt lvl 48",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Fluorite",
+        "Item": "IR2",
+        "From": "Mist Hunter lvl 45",
+        "Zone": "Underground Crypt lvl 49",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Mist Gem",
+        "Item": "IR4",
+        "From": "Mist Hunter lvl 45",
+        "Zone": "Underground Crypt lvl 50",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "IR7",
+        "From": "Grudge Ghost lvl 45",
+        "Zone": "Underground Crypt lvl 51",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Cursed Letter ",
+        "Item": "IR85",
+        "From": "Ghost lvl 45",
+        "Zone": "Underground Crypt lvl 52",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "IR7",
+        "From": "Ghost lvl 45",
+        "Zone": "Underground Crypt lvl 53",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Scroll of Great Sorcery",
+        "Item": "IR7",
+        "From": "Chest (X37 Y-26)",
+        "Zone": "Underground Crypt lvl 54",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Moon Glow",
+        "Item": "IR5",
+        "From": "Flower Spot (X39 Y-33)",
+        "Zone": "Underground Crypt lvl 55",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Northern Oregano",
+        "Item": "IR8",
+        "From": "Flower Spot (X39 Y-33)",
+        "Zone": "Underground Crypt lvl 56",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Mist Gem",
+        "Item": "IR4",
+        "From": "Mist Warrior lvl 45",
+        "Zone": "Underground Crypt lvl 57",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Fluorite",
+        "Item": "IR2",
+        "From": "Mist Warrior lvl 45",
+        "Zone": "Underground Crypt lvl 58",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Scroll of Great Sorcery",
+        "Item": "IR7",
+        "From": "Chest (X52 Y-53)",
+        "Zone": "Underground Crypt lvl 59",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Smoky Quartz",
+        "Item": "IR11",
+        "From": "Empress Ghost lvl 50",
+        "Zone": "Underground Crypt lvl 60",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Witches Grimoire",
+        "Item": "IR11",
+        "From": "Empress Ghost lvl 50",
+        "Zone": "Underground Crypt lvl 61",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Spectral Dragon Fang",
+        "Item": "IR12",
+        "From": "Mist Drake lvl 55",
+        "Zone": "Underground Crypt lvl 62",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Spectral Dragon Scale",
+        "Item": "IR12",
+        "From": "Mist Drake lvl 55",
+        "Zone": "Underground Crypt lvl 63",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Topaz ",
+        "Item": "IR8",
+        "From": "Chest (X35 -74)",
+        "Zone": "Underground Crypt lvl 64",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Mithril Ore",
+        "Item": "IR9",
+        "From": "Chest (X35 -74)",
+        "Zone": "Underground Crypt lvl 65",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Vice Hose",
+        "Item": "IR9",
+        "From": "Chest (X66 Y-74)",
+        "Zone": "Underground Crypt lvl 66",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Scroll of Great Sorcery",
+        "Item": "IR7",
+        "From": "Chest (X66 Y-74)",
+        "Zone": "Underground Crypt lvl 67",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "Orc General lvl 40",
+        "Zone": "Groaning Old Well lvl 40",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Pigeon Blood",
+        "Item": "IR9",
+        "From": "Orc General lvl 40",
+        "Zone": "Groaning Old Well lvl 41",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Demon's Prized Liquor",
+        "Item": "IR12",
+        "From": "Orc Captain lvl 45",
+        "Zone": "Groaning Old Well lvl 42",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "Orc Captain lvl 45",
+        "Zone": "Groaning Old Well lvl 43",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "Orc Trooper lvl 40",
+        "Zone": "Groaning Old Well lvl 44",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc Decoration",
+        "Item": "IR9",
+        "From": "Orc Trooper lvl 40",
+        "Zone": "Groaning Old Well lvl 45",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Orc Bringer lvl 40",
+        "Zone": "Groaning Old Well lvl 46",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Orc Bringer lvl 40",
+        "Zone": "Groaning Old Well lvl 47",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Orc Aimer lvl 40",
+        "Zone": "Groaning Old Well lvl 48",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Orc Aimer lvl 40",
+        "Zone": "Groaning Old Well lvl 49",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orcish Cloth",
+        "Item": "IR7",
+        "From": "Orc Soldier lvl 40",
+        "Zone": "Groaning Old Well lvl 50",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Orc Soldier lvl 40",
+        "Zone": "Groaning Old Well lvl 51",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Iron Thread",
+        "Item": "IR6",
+        "From": "Chest (X61 Y-12)",
+        "Zone": "Groaning Old Well lvl 52",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Ruby",
+        "Item": "IR8",
+        "From": "x49 y-15",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Eye Gem",
+        "Item": "IR10",
+        "From": "x49 y-15",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Lapis Lazuli",
+        "Item": "IR8",
+        "From": "x49 y-16",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Flourite",
+        "Item": "IR2",
+        "From": "x49 y-17",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Emerald",
+        "Item": "IR9",
+        "From": "x49 y-18",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Peridot",
+        "Item": "IR3",
+        "From": "x49 y-19",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Magick-Tinged Bone",
+        "Item": "IR5",
+        "From": "x52 y-32",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orb Of Darkness",
+        "Item": "IR6",
+        "From": "x52 y-32",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Black Skull",
+        "Item": "IR6",
+        "From": "x52 y-32",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Energy Liquid",
+        "Item": "IR8",
+        "From": "x48 y-29",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Blessed Drop",
+        "Item": "IR9",
+        "From": "x48 y-29",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Dry Bone",
+        "Item": "IR2",
+        "From": "",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Energy Liquid",
+        "Item": "IR8",
+        "From": "x48 y42",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Blessed Drop",
+        "Item": "IR9",
+        "From": "x48 y42",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Throwing Skull",
+        "Item": "IR5",
+        "From": "x48 y42",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Harpy Flight Feather",
+        "Item": "IR6",
+        "From": "",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Sand Reminiscence",
+        "Item": "IR12",
+        "From": "",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Slime Liquid",
+        "Item": "IR1",
+        "From": "",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Strong Viscious Liquid",
+        "Item": "IR4",
+        "From": "",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Scroll Of Darkness",
+        "Item": "IR6",
+        "From": "",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Bone Meal",
+        "Item": "IR10",
+        "From": "",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Transmuted Fur",
+        "Item": "IR10",
+        "From": "",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Shadowy Claw",
+        "Item": "IR10",
+        "From": "x59 y -84",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Broken Stone Manacles",
+        "Item": "IR20",
+        "From": "x59 y -84",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Small Thiefs Key",
+        "Item": "IR4",
+        "From": "x59 y -88",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Scroll Of Magickal Protection",
+        "Item": "IR4",
+        "From": "x59 y -88",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Cracked Black Horn",
+        "Item": "IR10",
+        "From": "x64 y-125",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Scroll Of Magickal Protection",
+        "Item": "IR4",
+        "From": "x65 y-126",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Blessed Drop",
+        "Item": "IR9",
+        "From": "x49 y-128",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Energy Liquid",
+        "Item": "IR8",
+        "From": "x49 y-128",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Topaz Pendant",
+        "Item": "IR8",
+        "From": "x51 y-141",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Witch's Grimoire",
+        "Item": "IR11",
+        "From": "x51 y-141",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "IR7",
+        "From": "",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Spiritual Will Fragment",
+        "Item": "IR10",
+        "From": "",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Broken Stone Manacles",
+        "Item": "IR20",
+        "From": "x65 y-145",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Blessed Drop",
+        "Item": "IR9",
+        "From": "x65 y-145",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Broken Stone Manacles",
+        "Item": "IR20",
+        "From": "x36 y-145",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Tomb Gravel",
+        "Item": "IR20",
+        "From": "x36 y-145",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "White Shining Sand 2x/3x",
+        "Item": "",
+        "From": "Chest down Reef from Penitentiary portcrystal",
+        "Zone": "Penitentiary",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "Orc Trooper lvl 50",
+        "Zone": "Tegor Flood Control Channel lvl 50",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Orc Aimer lvl 50",
+        "Zone": "Tegor Flood Control Channel lvl 51",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orcish Cloth",
+        "Item": "IR7",
+        "From": "Orc Aimer lvl 50",
+        "Zone": "Tegor Flood Control Channel lvl 52",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Beast Claw",
+        "Item": "IR8",
+        "From": "Grimwarg lvl 51",
+        "Zone": "Tegor Flood Control Channel lvl 53",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Beast Leather",
+        "Item": "IR9",
+        "From": "Grimwarg lvl 51",
+        "Zone": "Tegor Flood Control Channel lvl 54",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "IR8",
+        "From": "Grimwarg lvl 51",
+        "Zone": "Tegor Flood Control Channel lvl 55",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "General Orc lvl 52",
+        "Zone": "Tegor Flood Control Channel lvl 56",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Sapphire ",
+        "Item": "IR6",
+        "From": "Mining Spot (X63 Y-28)",
+        "Zone": "Tegor Flood Control Channel lvl 57",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Northern Oregano",
+        "Item": "IR8",
+        "From": "Flower Spot (X52 Y-25)",
+        "Zone": "Tegor Flood Control Channel lvl 58",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "IR7",
+        "From": "Flower Spot (X52 Y-25)",
+        "Zone": "Tegor Flood Control Channel lvl 59",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Coconut-Scented Milkcap",
+        "Item": "IR6",
+        "From": "Mushroom Spot (X42 Y-26)",
+        "Zone": "Tegor Flood Control Channel lvl 60",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Ring of Physical Attack ",
+        "Item": "IR15",
+        "From": "Gathering Spot (X56 Y-66)",
+        "Zone": "Tegor Flood Control Channel lvl 61",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Saurian lvl 50",
+        "Zone": "Tegor Flood Control Channel lvl 62",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Saurian lvl 50",
+        "Zone": "Tegor Flood Control Channel lvl 63",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Giant Saurian lvl 50",
+        "Zone": "Tegor Flood Control Channel lvl 64",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Giant Saurian lvl 50",
+        "Zone": "Tegor Flood Control Channel lvl 65",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "IR6",
+        "From": "Saurian Sage lvl 50",
+        "Zone": "Tegor Flood Control Channel lvl 66",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Saurian Sage lvl 50",
+        "Zone": "Tegor Flood Control Channel lvl 67",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Slime Liquid",
+        "Item": "IR1",
+        "From": "Dim Slime lvl 50",
+        "Zone": "Tegor Flood Control Channel lvl 68",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Strong Viscious Liquid",
+        "Item": "IR4",
+        "From": "Dim Slime lvl 50",
+        "Zone": "Tegor Flood Control Channel lvl 69",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Sandcrystal ",
+        "Item": "IR9",
+        "From": "Chest (X53 Y50)",
+        "Zone": "Gardnox Fortress lvl 44",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Orc Bringer lvl 44",
+        "Zone": "Gardnox Fortress lvl 45",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Orc Bringer lvl 44",
+        "Zone": "Gardnox Fortress lvl 46",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orcish Cloth",
+        "Item": "IR7",
+        "From": "Orc Bringer lvl 44",
+        "Zone": "Gardnox Fortress lvl 47",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "Captain Orc lvl 46",
+        "Zone": "Gardnox Fortress lvl 48",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc Decoration",
+        "Item": "IR9",
+        "From": "Captain Orc lvl 46",
+        "Zone": "Gardnox Fortress lvl 49",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "Orc Tropper lvl 44",
+        "Zone": "Gardnox Fortress lvl 50",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Demon's Prized Liquor",
+        "Item": "IR12",
+        "From": "Orc Tropper lvl 44",
+        "Zone": "Gardnox Fortress lvl 51",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "Orc Aimer lvl 44",
+        "Zone": "Gardnox Fortress lvl 52",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Orc Soldier lvl 44",
+        "Zone": "Gardnox Fortress lvl 53",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Orc Soldier lvl 44",
+        "Zone": "Gardnox Fortress lvl 54",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "Orc General lvl 46",
+        "Zone": "Gardnox Fortress lvl 55",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Pigeon Blood",
+        "Item": "IR9",
+        "From": "Orc General lvl 46",
+        "Zone": "Gardnox Fortress lvl 56",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Beast Claw",
+        "Item": "IR8",
+        "From": "Grimwarg lvl 40",
+        "Zone": "Gardnox Fortress lvl 57",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Mogok lvl 55",
+        "Zone": "Gardnox Fortress lvl 58",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc Decoration",
+        "Item": "IR9",
+        "From": "Mogok lvl 55",
+        "Zone": "Gardnox Fortress lvl 59",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Sandcrystal ",
+        "Item": "IR9",
+        "From": "Gather Spot ",
+        "Zone": "Gardnox Fortress lvl 60",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Large Fang",
+        "Item": "IR5",
+        "From": "Gather Spot ",
+        "Zone": "Gardnox Fortress lvl 61",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Goblin Bomber lvl 40",
+        "Zone": "Gardnox Fortress lvl 62",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Goblin Horn ",
+        "Item": "IR3",
+        "From": "Goblin Bomber lvl 40",
+        "Zone": "Gardnox Fortress lvl 63",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Goblin Gunpowder",
+        "Item": "IR6",
+        "From": "Goblin Bomber lvl 40",
+        "Zone": "Gardnox Fortress lvl 64",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "IR8",
+        "From": "Warg lvl 40",
+        "Zone": "Gardnox Fortress lvl 65",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Red Sage",
+        "Item": "IR6",
+        "From": "Flower Spot (X30 Y32)",
+        "Zone": "Gardnox Fortress lvl 66",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Mandragora",
+        "Item": "IR85",
+        "From": "Mushroom Spot (X48 Y30)",
+        "Zone": "Gardnox Fortress lvl 67",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Mandragora",
+        "Item": "IR85",
+        "From": "Mushroom Spot (X48 Y30)",
+        "Zone": "Gardnox Fortress lvl 68",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Hematite Sand",
+        "Item": "IR4",
+        "From": "Gather Spot (X65 Y32)",
+        "Zone": "Gardnox Fortress lvl 69",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Giant Bone",
+        "Item": "IR3",
+        "From": "Gather Spot (X61 Y24)",
+        "Zone": "Gardnox Fortress lvl 70",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Hematite Sand",
+        "Item": "IR4",
+        "From": "Gather Spot (X61 Y24)",
+        "Zone": "Gardnox Fortress lvl 71",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Smooth Leather",
+        "Item": "IR7",
+        "From": "Gather Spot (X59 Y14)",
+        "Zone": "Gardnox Fortress lvl 72",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Gather Spot (X59 Y14)",
+        "Zone": "Gardnox Fortress lvl 73",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Dragoon Arms",
+        "Item": "IR1",
+        "From": "Chest (X55 Y24)",
+        "Zone": "Gardnox Fortress lvl 74",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Orc Soldier lvl 65",
+        "Zone": "Gardnox Waste Water Tunnel lvl 65",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Orc Soldier lvl 65",
+        "Zone": "Gardnox Waste Water Tunnel lvl 66",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orcish Cloth",
+        "Item": "IR7",
+        "From": "Orc Banger lvl 65",
+        "Zone": "Gardnox Waste Water Tunnel lvl 67",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Bracelet of Health 1",
+        "Item": "IR15",
+        "From": "Chest (X55 Y-71)",
+        "Zone": "Gardnox Waste Water Tunnel lvl 68",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Infected Orc Banger lvl 68",
+        "Zone": "Gardnox Water Tunnel Depths lvl 65",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orcish Cloth",
+        "Item": "IR7",
+        "From": "Infected Orc Banger lvl 68",
+        "Zone": "Gardnox Water Tunnel Depths lvl 66",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Beast Claw",
+        "Item": "IR8",
+        "From": "Grimwarg lvl 66",
+        "Zone": "Gardnox Water Tunnel Depths lvl 67",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Beast Leather",
+        "Item": "IR9",
+        "From": "Grimwarg lvl 66",
+        "Zone": "Gardnox Water Tunnel Depths lvl 68",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "IR8",
+        "From": "Grimwarg lvl 66",
+        "Zone": "Gardnox Water Tunnel Depths lvl 69",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Infected Orc Banger lvl 65",
+        "Zone": "Gardnox Water Tunnel Depths lvl 70",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Infected Orc Banger lvl 65",
+        "Zone": "Gardnox Water Tunnel Depths lvl 71",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orcish Cloth",
+        "Item": "IR7",
+        "From": "Infected Orc Banger lvl 65",
+        "Zone": "Gardnox Water Tunnel Depths lvl 72",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "General Orc lvl 68",
+        "Zone": "Gardnox Water Tunnel Depths lvl 73",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Cave Silkworm",
+        "Item": "IR30",
+        "From": "Chest (X59 Y-109)",
+        "Zone": "Gardnox Water Tunnel Depths lvl 74",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Chest (X59 Y-109)",
+        "Zone": "Gardnox Water Tunnel Depths lvl 75",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Mogok lvl 68",
+        "Zone": "Gardnox Water Tunnel Depths lvl 76",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Orc Decoration",
+        "Item": "IR9",
+        "From": "Mogok lvl 68",
+        "Zone": "Gardnox Water Tunnel Depths lvl 77",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Strong Silk Thread",
+        "Item": "IR30",
+        "From": "Chests (X48 Y-167)",
+        "Zone": "Gardnox Water Tunnel Depths lvl 78",
+        "Maps": "N.Betland Plains"
+    },
+    {
+        "Name": "Cave Silkworm",
+        "Item": "IR30",
+        "From": "Chests (X48 Y-167)",
+        "Zone": "Gardnox Water Tunnel Depths lvl 79",
+        "Maps": "N.Betland Plains"
+    }
+]

@@ -1,0 +1,2032 @@
+[
+    {
+        "Name": "Hard Wood",
+        "Item": "IR3",
+        "From": "Logging Spot (X277,Y330)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Rosewood",
+        "Item": "IR8",
+        "From": "Logging Spot (X277,Y330)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Best Steak ",
+        "Item": "IR1",
+        "From": "Chest (X275,Y326)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Goblin Horn ",
+        "Item": "IR3",
+        "From": "Goblin Fighter lvl 25",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Small Horn",
+        "Item": "IR1",
+        "From": "Goblin Fighter lvl 25",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Hobgoblin Fighter lvl 25",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Snow Harpy lvl 25",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Harpy Flight Feather ",
+        "Item": "IR6",
+        "From": "Snow Harpy lvl 25",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Blue Flower ",
+        "Item": "IR7",
+        "From": "Herb Spot (X306,Y314)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Wild Herb",
+        "Item": "IR3",
+        "From": "Herb Spot (X306,Y314)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Blue Flower ",
+        "Item": "IR7",
+        "From": "Herb Spot (X310,Y318)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Magick Silt",
+        "Item": "IR6",
+        "From": "Gargoyle lvl 40",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Clear Water",
+        "Item": "IR2",
+        "From": "Water Spot (X324,Y314)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Water Dragon Fang",
+        "Item": "IR8",
+        "From": "Lindwurm lvl 41",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Dragon Beard",
+        "Item": "IR30",
+        "From": "Lindwurm lvl 41",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Blue Flower ",
+        "Item": "IR7",
+        "From": "Herb Spot (X316,Y316)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Wild Herb",
+        "Item": "IR3",
+        "From": "Herb Spot (X316,Y316)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Red Sage",
+        "Item": "IR6",
+        "From": "Herb Spot (X316,Y316)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Strong Lizardscale Pelt",
+        "Item": "IR6",
+        "From": "Sulfur Saurian lvl 30",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Saurian Tail ",
+        "Item": "IR2",
+        "From": "Sulfur Saurian lvl 30",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "IR6",
+        "From": "Sulfur Saurian lvl 30",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Sulfur Saurian lvl 30",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Garnet",
+        "Item": "IR5",
+        "From": "Chest (X321,Y310)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Thin Wood",
+        "Item": "IR1",
+        "From": "Logging Spot (X308,Y307)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Pine Wood",
+        "Item": "IR6",
+        "From": "Logging Spot (X308,Y307)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Rosewood",
+        "Item": "IR8",
+        "From": "Logging Spot (X308,Y307)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Marbled Beast Steak",
+        "Item": "IR7",
+        "From": "Wild Boar lvl 10",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Small Fang",
+        "Item": "IR2",
+        "From": "Wild Boar lvl 10",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Mutater Bone Lump",
+        "Item": "IR7",
+        "From": "Chimera lvl 35",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Beast's Mane",
+        "Item": "IR5",
+        "From": "Chimera lvl 35",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Goat Horn",
+        "Item": "IR8",
+        "From": "Chimera lvl 35",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Strong Lizardscale Pelt",
+        "Item": "IR6",
+        "From": "Chimera lvl 35",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Animal Fur",
+        "Item": "IR1",
+        "From": "Wolf lvl 27",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Small Fang",
+        "Item": "IR2",
+        "From": "Wolf lvl 27",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Supple Fur",
+        "Item": "IR2",
+        "From": "Wolf lvl 27",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Insect Venom",
+        "Item": "IR1",
+        "From": "Worm lvl 1",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Monster Gallstone ",
+        "Item": "IR4",
+        "From": "Chest (X341,Y291)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Energy Liquid",
+        "Item": "IR8",
+        "From": "Chest (X346,Y287)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Goat Horn",
+        "Item": "IR8",
+        "From": "Chest (X346,Y287)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Silver Ingot ",
+        "Item": "IR7",
+        "From": "Chest (X348,Y284)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Goat Horn",
+        "Item": "IR8",
+        "From": "Chest (X348,Y284)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Ape Pelt",
+        "Item": "IR3",
+        "From": "Brute Ape lvl 32",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Ape Fur",
+        "Item": "IR3",
+        "From": "Brute Ape lvl 32",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Sharp Claw",
+        "Item": "IR7",
+        "From": "Brute Ape lvl 32",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Thin Wood",
+        "Item": "IR1",
+        "From": "Logging Spot (X333,Y289)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "White Wood",
+        "Item": "IR7",
+        "From": "Logging Spot (X333,Y289)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Pine Wood",
+        "Item": "IR6",
+        "From": "Logging Spot (X333,Y289)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Red Sage",
+        "Item": "IR6",
+        "From": "Herb Spot (X334,Y295)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Baby Herb",
+        "Item": "IR1",
+        "From": "Herb Spot (X334,Y295)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Blue Flower ",
+        "Item": "IR7",
+        "From": "Herb Spot (X334,Y295)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Wild Herb",
+        "Item": "IR3",
+        "From": "Herb Spot (X334,Y295)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Wild Herb",
+        "Item": "IR3",
+        "From": "Herb Spot (X316,Y296)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Thin Wood",
+        "Item": "IR1",
+        "From": "Logging Spot (X312,Y289)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Crooked Fang",
+        "Item": "IR4",
+        "From": "Dread Ape lvl 29",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Large Simian Thick Pelt",
+        "Item": "IR4",
+        "From": "Dread Ape lvl 29",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Wild Herb",
+        "Item": "IR3",
+        "From": "Herb Spot (X303,Y284)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Red Sage",
+        "Item": "IR6",
+        "From": "Herb Spot (X303,Y284)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Soft Soil",
+        "Item": "IR80",
+        "From": "Herb Spot (X303,Y284)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Yellow Thyme ",
+        "Item": "IR5",
+        "From": "Herb Spot (X307,Y293)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Red Sage",
+        "Item": "IR6",
+        "From": "Herb Spot (X307,Y293)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Lindwurm Fin",
+        "Item": "IR8",
+        "From": "Crate (X302,Y290)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Wild Herb",
+        "Item": "IR3",
+        "From": "Herb Spot (X308,Y281)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Soft Soil",
+        "Item": "IR80",
+        "From": "Herb Spot (X308,Y281)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Lestania Herb",
+        "Item": "IR2",
+        "From": "Herb Spot (X308,Y281)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Thin Wood",
+        "Item": "IR1",
+        "From": "Logging Spot (X317,Y276)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Rosewood",
+        "Item": "IR8",
+        "From": "Logging Spot (X317,Y276)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Yellow Thyme ",
+        "Item": "IR5",
+        "From": "Herb Spot (X314,Y274)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Wild Herb",
+        "Item": "IR3",
+        "From": "Herb Spot (X351,Y300)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Blue Flower ",
+        "Item": "IR7",
+        "From": "Herb Spot (X351,Y300)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Thin Wood",
+        "Item": "IR1",
+        "From": "Logging Spot (X355,Y303)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "White Wood",
+        "Item": "IR7",
+        "From": "Logging Spot (X355,Y303)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Rosewood",
+        "Item": "IR8",
+        "From": "Logging Spot (X355,Y303)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Dowe Medal",
+        "Item": "IR8",
+        "From": "Chest (X357,Y294)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "White Wood",
+        "Item": "IR7",
+        "From": "Logging Spot (X336,Y322)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Clear Insect Wing",
+        "Item": "IR1",
+        "From": "Killer Bee lvl 10",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Insect Venom",
+        "Item": "IR1",
+        "From": "Killer Bee lvl 10",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Animal Fur",
+        "Item": "IR1",
+        "From": "Wolf lvl 25",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Small Fang",
+        "Item": "IR2",
+        "From": "Wolf lvl 25",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Supple Fur",
+        "Item": "IR2",
+        "From": "Wolf lvl 25",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Wild Herb",
+        "Item": "IR3",
+        "From": "Herb Spot (X331,Y339)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Red Sage",
+        "Item": "IR6",
+        "From": "Herb Spot (X331,Y339)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Goblin Horn ",
+        "Item": "IR3",
+        "From": "Hobgoblin Leader lvl 33",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Broken Dagger ",
+        "Item": "IR7",
+        "From": "Hobgoblin Fighter lvl 32",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Small Horn",
+        "Item": "IR1",
+        "From": "Goblin Fighter lvl 31",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Sharp Claw",
+        "Item": "IR7",
+        "From": "Sliver Roar lvl 40",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Silver Bristle",
+        "Item": "IR9",
+        "From": "Sliver Roar lvl 40",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Orge Claw",
+        "Item": "IR6",
+        "From": "Orge lvl 43",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Necrophagous Bristle",
+        "Item": "IR7",
+        "From": "Orge lvl 43",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Hobgoblin Fighter lvl 32",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Magick Medal",
+        "Item": "IR7",
+        "From": "Golem lvl 37",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Demon Thread",
+        "Item": "IR7",
+        "From": "Chest (X53,Y123) ",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Harpy lvl 32",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Harpy Flight Feather ",
+        "Item": "IR6",
+        "From": "Harpy lvl 32",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Bird Feather",
+        "Item": "IR1",
+        "From": "Harpy lvl 32",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "White Wood ",
+        "Item": "IR7",
+        "From": "Chest (X53,Y111)",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Sequoia Wood",
+        "Item": "IR8",
+        "From": "Chest (X53,Y111)",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "White Wood ",
+        "Item": "IR7",
+        "From": "Chest (X48,Y101",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Sequoia Wood",
+        "Item": "IR8",
+        "From": "Chest (X48,Y101",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Mandragora Mushroom",
+        "Item": "IR85",
+        "From": "Mushroom Spot (X45,Y73)",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Saurian lvl 30",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Saurian Tail ",
+        "Item": "IR2",
+        "From": "Saurian lvl 30",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Saurian lvl 30",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Giant Saurian lvl 35",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Saurian Tail ",
+        "Item": "IR2",
+        "From": "Giant Saurian lvl 35",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Giant Saurian lvl 35",
+        "Zone": "Dreed Castle lvl 35 (X310,Y326)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Apohyllite",
+        "Item": "IR4",
+        "From": "Blue Newt lvl 35",
+        "Zone": "Underground Side Entrance (X36,Y101)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Superior Saurian Tail",
+        "Item": "IR6",
+        "From": "Blue Newt lvl 35",
+        "Zone": "Underground Side Entrance (X36,Y101)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Blue Alluvial Gold ",
+        "Item": "IR6",
+        "From": "Blue Newt lvl 35",
+        "Zone": "Underground Side Entrance (X36,Y101)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Orge Claw",
+        "Item": "IR6",
+        "From": "Orge lvl 45",
+        "Zone": "Underground Side Entrance (X36,Y101)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Orge Fur",
+        "Item": "IR6",
+        "From": "Orge lvl 45",
+        "Zone": "Underground Side Entrance (X36,Y101)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Giant Saurian lvl 65",
+        "Zone": "Dreed Connecting Passage lvl 62 (X62,Y-58)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Saurian Gland ",
+        "Item": "IR6",
+        "From": "Saurian Sage lvl 66",
+        "Zone": "Dreed Connecting Passage lvl 62 (X62,Y-58)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Orge Claw",
+        "Item": "IR6",
+        "From": "Orge lv 70",
+        "Zone": "Dreed Connecting Passage lvl 62 (X62,Y-58)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Necrophagous Bristle",
+        "Item": "IR7",
+        "From": "Orge lv 70",
+        "Zone": "Dreed Connecting Passage lvl 62 (X62,Y-58)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Orge Fur",
+        "Item": "IR6",
+        "From": "Orge lv 70",
+        "Zone": "Dreed Connecting Passage lvl 62 (X62,Y-58)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Witch's Grimoire",
+        "Item": "IR11",
+        "From": "Empress Ghost lvl 70",
+        "Zone": "Dreed Connecting Passage lvl 62 (X62,Y-58)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Dark Crystal Dragon Necklace",
+        "Item": "",
+        "From": "TBA",
+        "Zone": "Dreed Connecting Passage lvl 62 (X62,Y-58)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Stagnant Water",
+        "Item": "",
+        "From": "TBA",
+        "Zone": "Dreed Connecting Passage lvl 62 (X62,Y-58)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Copper Ore",
+        "Item": "IR2",
+        "From": "Skeleton lvl 38",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y78",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Dry Bone",
+        "Item": "IR2",
+        "From": "Skeleton lvl 38",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y79",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Skeleton lvl 38",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y80",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Phantom ore",
+        "Item": "IR7",
+        "From": "Living Armor lvl 39",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y81",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Demon Arming Points",
+        "Item": "IR11",
+        "From": "Living Armor lvl 39",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y82",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Baby Herb",
+        "Item": "IR1",
+        "From": "Herb Spot (X39,Y-46)",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y83",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Bluecurrant",
+        "Item": "IR8",
+        "From": "Herb Spot (X39,Y-46)",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y84",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "IR7",
+        "From": "Herb Spot (X50,Y-46)",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y85",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Magick Tinged Bone",
+        "Item": "IR5",
+        "From": "Skeleton Mage lvl 37",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y86",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Blank Scroll",
+        "Item": "IR2",
+        "From": "Skeleton Mage lvl 37",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y87",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Rusted Plate ",
+        "Item": "IR6",
+        "From": "Skeleton Warrior lvl 39",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y88",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Iron Ore Fragment",
+        "Item": "IR3",
+        "From": "Skeleton Fighter lvl 40",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y89",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Phantom ore",
+        "Item": "IR7",
+        "From": "Chest (X66,Y-64)",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y90",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Dry Bone",
+        "Item": "IR2",
+        "From": "Skeleton Warg lvl 35",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y91",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Phantom ore",
+        "Item": "IR7",
+        "From": "Chest (X52,Y-83)",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y92",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "IR7",
+        "From": "Herb Spot (39,-105)",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y93",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Bluecurrant",
+        "Item": "IR8",
+        "From": "Herb Spot (39,-105)",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y94",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Wild Herb",
+        "Item": "IR3",
+        "From": "Herb Spot (39,-105)",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y95",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Undead Carrion ",
+        "Item": "IR1",
+        "From": "Stout Undead lvl 38",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y96",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Rotten Lump",
+        "Item": "IR3",
+        "From": "Stout Undead lvl 38",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y97",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Undead Extract",
+        "Item": "IR6",
+        "From": "Stout Undead lvl 38",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y98",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Bluecurrant",
+        "Item": "IR8",
+        "From": "Herb Spot (X39.Y-128)",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y99",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "IR7",
+        "From": "Herb Spot (X39.Y-128)",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y100",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Phantom ore",
+        "Item": "IR7",
+        "From": "Ghost lvl 38",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y101",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Cursed Letter",
+        "Item": "IR85",
+        "From": "Ghost lvl 38",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y102",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Phantom ore",
+        "Item": "IR7",
+        "From": "Chest (X52,Y-192)",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y103",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Burial Shroud",
+        "Item": "IR2",
+        "From": "Undead lvl 39",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y104",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Mandragora Mushroom",
+        "Item": "IR85",
+        "From": "Mushroom Spot (X52,Y-224)",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y105",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Clear Spring Water",
+        "Item": "IR3",
+        "From": "Water Spot (X41,Y-224)",
+        "Zone": "Abandoned Underground Passage lvl 38 (X41,Y106",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Iron Ore ",
+        "Item": "IR4",
+        "From": "Rock Saurian lvl 68",
+        "Zone": "Forsaken Well lvl 68 (X324,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Rock Scale ",
+        "Item": "IR6",
+        "From": "Rock Saurian lvl 68",
+        "Zone": "Forsaken Well lvl 68 (X324,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Superior Saurian Tail",
+        "Item": "IR6",
+        "From": "Rock Saurian lvl 68",
+        "Zone": "Forsaken Well lvl 68 (X324,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Magickal Potion/**Fluttering Rags (RARE)",
+        "Item": "IR9",
+        "From": "Medusa lvl 74",
+        "Zone": "Forsaken Well lvl 68 (X324,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Medusa's Serpent Hair ",
+        "Item": "IR35",
+        "From": "Medusa lvl 74",
+        "Zone": "Forsaken Well lvl 68 (X324,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Cursed Letter ",
+        "Item": "IR85",
+        "From": "Medusa lvl 74",
+        "Zone": "Forsaken Well lvl 68 (X324,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Magick Slit",
+        "Item": "IR6",
+        "From": "Gargoyle lvl 69",
+        "Zone": "Forsaken Well lvl 68 (X324,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Viscous Meat",
+        "Item": "IR35",
+        "From": "Chest (X44,Y-83)",
+        "Zone": "Forsaken Well lvl 68 (X324,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Gleipnir",
+        "Item": "IR10",
+        "From": "Chest (X44,Y-83)",
+        "Zone": "Forsaken Well lvl 68 (X324,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Giant Single Pelt (Dangerous Area (requires Key of Jewelry)",
+        "Item": "RARE",
+        "From": " Armored Cyclops (lv75)",
+        "Zone": "Forsaken Well lvl 68 (X324,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Strong Lizard Scale Pelt",
+        "Item": "IR6",
+        "From": "Giant Geo Saurian lvl 63",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Giant Apophyllite",
+        "Item": "",
+        "From": "Giant Geo Saurian lvl 63",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "IR6",
+        "From": "Giant Geo Saurian lvl 63",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Giant Geo Saurian lvl 63",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Lava Rock",
+        "Item": "IR8",
+        "From": "Giant Geo Saurian lvl 63",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Strong Lizard Scale Pelt",
+        "Item": "IR6",
+        "From": "Giant Saurian Sage lvl 63",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "IR6",
+        "From": "Giant Saurian Sage lvl 63",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Giant Saurian Sage lvl 63",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Lava Rock",
+        "Item": "IR8",
+        "From": "Giant Saurian Sage lvl 63",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "IR6",
+        "From": "Geo Saurian lvl 62",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Geo Saurian lvl 62",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "IR6",
+        "From": "Geo Saurian Sage lvl 62",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Geo Saurian Sage lvl 62",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Lava Rock",
+        "Item": "IR8",
+        "From": "Geo Saurian Sage lvl 62",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Magick Medal ",
+        "Item": "IR7",
+        "From": "Geo Saurian Sage lvl 60",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "High Quality Magick Medal",
+        "Item": "IR10",
+        "From": "Geo Saurian Sage lvl 60",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Lava Rock",
+        "Item": "IR 8",
+        "From": "Geo Saurian Sage lvl 60",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Voldic Diamond",
+        "Item": "IR20",
+        "From": "Geo Saurian Sage lvl 60",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Emerald",
+        "Item": "IR9",
+        "From": "Emerald Eye lvl 65",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Peridot",
+        "Item": "IR4",
+        "From": "Emerald Eye lvl 65",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Eye Gem",
+        "Item": "IR10",
+        "From": "Emerald Eye lvl 65",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Ruby",
+        "Item": "IR8",
+        "From": "Ruby Eye lvl 65",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Eye Gem",
+        "Item": "IR10",
+        "From": "Ruby Eye lvl 65",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Lapis Lazuli",
+        "Item": "IR8",
+        "From": "Lapis Eye lvl 65",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Eye Gem",
+        "Item": "IR10",
+        "From": "Lapis Eye lvl 65",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Lava Rock",
+        "Item": "IR8",
+        "From": "Geo Golem lvl 67",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Magick Medal ",
+        "Item": "IR7",
+        "From": "Geo Golem lvl 67",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "High Quality Magick Medal",
+        "Item": "IR10",
+        "From": "Geo Golem lvl 67",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Lava Rock",
+        "Item": "IR 8",
+        "From": "Geo Golem lvl 67",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Voldic Diamond",
+        "Item": "IR20",
+        "From": "Geo Golem lvl 67",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Alchemized Goblin lvl 62",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Alchemized Goblin lvl 62",
+        "Zone": "Knights' Depot Ruins lvl 62 (X276,Y325)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Animal Fur",
+        "Item": "IR1",
+        "From": "Wolf lvl 38",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Small Fang",
+        "Item": "IR2",
+        "From": "Wolf lvl 38",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Supple Fur",
+        "Item": "IR2",
+        "From": "Wolf lvl 38",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Demon Walf's Sinewy Meat",
+        "Item": "IR45",
+        "From": "Warg lvl 39",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Ogre Claw",
+        "Item": "IR6",
+        "From": "Ogre lvl 40",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Ogre Fur",
+        "Item": "IR6",
+        "From": "Ogre lvl 40",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Necrophagous Bristle",
+        "Item": "IR7",
+        "From": "Ogre lvl 40",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Goblin Horn ",
+        "Item": "IR3",
+        "From": "Hobgoblin lvl 39",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Small Horn",
+        "Item": "IR1",
+        "From": "Hobgoblin lvl 39",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Hobgoblin lvl 39",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Giant Fur",
+        "Item": "IR4",
+        "From": "Troll lvl 42",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Troll's Poisonous Moss",
+        "Item": "IR4",
+        "From": "Troll lvl 42",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Giant's Horn",
+        "Item": "IR7",
+        "From": "Troll lvl 42",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Iron Thread ",
+        "Item": "IR6",
+        "From": "Chest (X42,Y-77",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Lapis Lazuli",
+        "Item": "IR8",
+        "From": "Chest (X42,Y-77",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Broken Dagger",
+        "Item": "IR7",
+        "From": "Hobgoblin lvl 39",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Small Chest (X59,Y-78)",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Marbled Beast Steak",
+        "Item": "IR7",
+        "From": "Eliminator lvl 41",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Iron Thread ",
+        "Item": "IR6",
+        "From": "Chest (X51,Y-99)",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Bloodied Giant Tusk",
+        "Item": "IR45",
+        "From": "Gorecyclops lvl 43",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Chest (X34,Y-120)",
+        "Zone": "Catacombs lvl 38 (X319,Y321)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Goblin Horn ",
+        "Item": "IR3",
+        "From": "Hobgoblin lvl 35",
+        "Zone": "Dreed Waterway Ruins lvl 35 (X324,Y308)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Small Horn",
+        "Item": "IR1",
+        "From": "Goblin lvl 32",
+        "Zone": "Dreed Waterway Ruins lvl 35 (X324,Y308)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Hobgoblin lvl 35",
+        "Zone": "Dreed Waterway Ruins lvl 35 (X324,Y308)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Broken Dagger",
+        "Item": "IR7",
+        "From": "Hobgoblin lvl 35",
+        "Zone": "Dreed Waterway Ruins lvl 35 (X324,Y308)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Large Beast Steak",
+        "Item": "IR5",
+        "From": "Create (X65,Y-29)",
+        "Zone": "Dreed Waterway Ruins lvl 35 (X324,Y308)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Hematite Sand ",
+        "Item": "IR4",
+        "From": "Chest (X50,Y-36)",
+        "Zone": "Dreed Waterway Ruins lvl 35 (X324,Y308)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "High Quality Gala Mushroom",
+        "Item": "IR7",
+        "From": "Chest (X50,Y-36)",
+        "Zone": "Dreed Waterway Ruins lvl 35 (X324,Y308)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Ogre Claw",
+        "Item": "IR6",
+        "From": "Ogre lvl 38",
+        "Zone": "Dreed Waterway Ruins lvl 35 (X324,Y308)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Necrophagous Bristle",
+        "Item": "IR7",
+        "From": "Ogre lvl 38",
+        "Zone": "Dreed Waterway Ruins lvl 35 (X324,Y308)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Insect Venom ",
+        "Item": "IR1",
+        "From": "Worm lvl 1",
+        "Zone": "Dreed Waterway Ruins lvl 35 (X324,Y308)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Stagnant Water",
+        "Item": "IR5",
+        "From": "Water Spot (X50,Y-63)",
+        "Zone": "Dreed Waterway Ruins lvl 35 (X324,Y308)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Hematite Sand ",
+        "Item": "IR4",
+        "From": "Chest (X47,Y-65)",
+        "Zone": "Dreed Waterway Ruins lvl 35 (X324,Y308)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Demon Wolf's Sinewy Meat",
+        "Item": "IR45",
+        "From": "Warg lvl 31",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Animal Fur",
+        "Item": "IR1",
+        "From": "Wolf lvl 30",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Small Fang",
+        "Item": "IR2",
+        "From": "Wolf lvl 30",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Supple Fur",
+        "Item": "IR2",
+        "From": "Wolf lvl 30",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Harpy lvl 30",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Harpy Flight Feather ",
+        "Item": "IR6",
+        "From": "Harpy lvl 30",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Bird Feather",
+        "Item": "IR1",
+        "From": "Harpy lvl 30",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Ogre Claw",
+        "Item": "IR6",
+        "From": "Ogre lvl 38",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Ogre Fur",
+        "Item": "IR6",
+        "From": "Ogre lvl 38",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Necrophagous Bristle",
+        "Item": "IR7",
+        "From": "Ogre lvl 38",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Large Fang",
+        "Item": "IR5",
+        "From": "Direwold lvl 31",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Strong Animal Leather",
+        "Item": "IR5",
+        "From": "Direwold lvl 31",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Mining Spot (X52,Y-58)",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Hematite",
+        "Item": "IR6",
+        "From": "Mining Spot (X52,Y-58)",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Goblin Horn ",
+        "Item": "IR3",
+        "From": "Hobgoblin lvl 32",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Small Horn",
+        "Item": "IR1",
+        "From": "Goblin lvl 30",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Hobgoblin lvl 32",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Broken Dagger",
+        "Item": "IR7",
+        "From": "Hobgoblin lvl 32",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Healing Drop",
+        "Item": "IR7",
+        "From": "Chest (X35,Y-76)",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Large Metal Plate ",
+        "Item": "IR5",
+        "From": "Gather Spot (X40,Y-86)",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Iron Ore Fragment ",
+        "Item": "IR3",
+        "From": "Gather Spot (X40,Y-86)",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Hematite",
+        "Item": "IR6",
+        "From": "Chest (X57,Y-109)",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Hematite Sand ",
+        "Item": "IR4",
+        "From": "Chest (X57,Y-109)",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Mining Spot (X55,Y-110)",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Gold Ore ",
+        "Item": "IR9",
+        "From": "Mining Spot (X55,Y-110)",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Large Simian Thick Pelt",
+        "Item": "IR4",
+        "From": "Dread Ape lvl 40",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Crooked Fang",
+        "Item": "IR4",
+        "From": "Dread Ape lvl 40",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Ape Fur ",
+        "Item": "IR3",
+        "From": "Dread Ape lvl 40",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Necrophagous Bristle",
+        "Item": "IR7",
+        "From": "Dread Ape lvl 40",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Chest (X47,Y-108)",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Silver Ingot",
+        "Item": "IR7",
+        "From": "Mining Spot (x48 y-60)",
+        "Zone": "Howling Wind Cave lvl 33 (X335,Y290)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Goblin Horn ",
+        "Item": "IR3",
+        "From": "Goblin lvl 32",
+        "Zone": "Valley Chapel lvl 32 (X347,Y281)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Small Horn",
+        "Item": "IR1",
+        "From": "Goblin lvl 32",
+        "Zone": "Valley Chapel lvl 32 (X347,Y281)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Hobgoblin lvl 34",
+        "Zone": "Valley Chapel lvl 32 (X347,Y281)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Broken Dagger",
+        "Item": "IR7",
+        "From": "Hobgoblin lvl 34",
+        "Zone": "Valley Chapel lvl 32 (X347,Y281)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Dragon Hide",
+        "Item": "IR8",
+        "From": "Wyrm lvl 38",
+        "Zone": "Valley Chapel lvl 32 (X347,Y281)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Huge Dragon Bone Lump",
+        "Item": "IR12",
+        "From": "Wyrm lvl 38",
+        "Zone": "Valley Chapel lvl 32 (X347,Y281)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Azure Dragonscale",
+        "Item": "IR12",
+        "From": "Wyrm lvl 38",
+        "Zone": "Valley Chapel lvl 32 (X347,Y281)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Dragon Beard",
+        "Item": "IR30",
+        "From": "Wyrm lvl 38",
+        "Zone": "Valley Chapel lvl 32 (X347,Y281)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Healing Drop",
+        "Item": "IR7",
+        "From": "Chest (X51,Y-38)",
+        "Zone": "Valley Chapel lvl 32 (X347,Y281)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "White Liquor",
+        "Item": "IR5",
+        "From": "Chest (X51,Y-38)",
+        "Zone": "Valley Chapel lvl 32 (X347,Y281)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Superior Saurian Tail",
+        "Item": "IR6",
+        "From": "Giant Sulfur Saurian lv 30",
+        "Zone": "Party Dug Well lvl 28 (X350,Y303)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Strong Lizardscale Pelt",
+        "Item": "IR6",
+        "From": "Giant Sulfur Saurian lv 30",
+        "Zone": "Party Dug Well lvl 28 (X350,Y303)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Giant Sulfur Saurian lv 30",
+        "Zone": "Party Dug Well lvl 28 (X350,Y303)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "IR6",
+        "From": "Giant Sulfur Saurian lv 30",
+        "Zone": "Party Dug Well lvl 28 (X350,Y303)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "IR7",
+        "From": "Herb Spot (X45,Y-19)",
+        "Zone": "Party Dug Well lvl 28 (X350,Y303)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Moonglow",
+        "Item": "IR5",
+        "From": "Herb Spot (X45,Y-19)",
+        "Zone": "Party Dug Well lvl 28 (X350,Y303)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Wild Herb",
+        "Item": "IR3",
+        "From": "Herb Spot (X45,Y-19)",
+        "Zone": "Party Dug Well lvl 28 (X350,Y303)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Clear Water",
+        "Item": "IR2",
+        "From": "Water Spot (X52,Y-59)",
+        "Zone": "Party Dug Well lvl 28 (X350,Y303)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Healing Drop",
+        "Item": "IR7",
+        "From": "Water Spot (X52,Y-59)",
+        "Zone": "Party Dug Well lvl 28 (X350,Y303)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Chest (X45,Y-60)",
+        "Zone": "Party Dug Well lvl 28 (X350,Y303)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Dry Bone ",
+        "Item": "IR2",
+        "From": "Skeleton Mage lvl 31",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Magick Tinged Bone",
+        "Item": "IR5",
+        "From": "Skeleton Mage lvl 31",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Skeleton Knight lvl 32",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Iron Ore Fragment ",
+        "Item": "IR3",
+        "From": "Skeleton Knight lvl 32",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Rusted Plate",
+        "Item": "IR6",
+        "From": "Skeleton Knight lvl 32",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Coconut Scented Milkcap",
+        "Item": "IR6",
+        "From": "Mushroom Spot (X48,Y-29)",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Hematite",
+        "Item": "IR6",
+        "From": "Mining Spot (X51,Y-42)",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Hematite Sand ",
+        "Item": "IR4",
+        "From": "Mining Spot (X51,Y-42)",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Mining Spot (X51,Y-42)",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "IR7",
+        "From": "Chest (X38,Y-46)",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Snow Harpy lvl 29",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Harpy Flight Feather ",
+        "Item": "IR6",
+        "From": "Snow Harpy lvl 29",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Burial Shroud",
+        "Item": "IR2",
+        "From": "Undead lvl 33",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Undead Carrion ",
+        "Item": "IR11",
+        "From": "Undead lvl 33",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Undead Extract",
+        "Item": "IR6",
+        "From": "Undead lvl 33",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "IR6",
+        "From": "Mining Spot (X40,-Y87)",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Mining Spot (X40,-Y87)",
+        "Zone": "Cliff Tunnels lvl 31 (X352,Y298)",
+        "Maps": "Dowe Valley"
+    }
+]
