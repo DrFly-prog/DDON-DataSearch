@@ -1,0 +1,3488 @@
+[
+    {
+        "Name": "Scroll of Thunder",
+        "Item": "IR5",
+        "From": "Bolt Skeleton",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Undead Nail Shaving",
+        "Item": "IR85",
+        "From": "Bolt Skeleton Brute",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Beast's Liver",
+        "Item": "IR80",
+        "From": "Warg",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Wolf's Sinewy Meat",
+        "Item": "IR45",
+        "From": "Warg",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Cedar Wood",
+        "Item": "IR5",
+        "From": "Gather Spot",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Premium Fragrant Wood",
+        "Item": "IR45",
+        "From": "Gather Spot(x207y383)",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Mandragora Mushroom",
+        "Item": "IR85",
+        "From": "Gather Spot",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Old Geranium",
+        "Item": "IR45",
+        "From": "Gather Spot",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Purple Anise",
+        "Item": "IR3",
+        "From": "Gather Spot",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Quality Gala Mushroom",
+        "Item": "IR2",
+        "From": "Gather Spot",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Silken Sand",
+        "Item": "IR3",
+        "From": "Gather Spot",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Great Sorcery",
+        "Item": "IR7",
+        "From": "Chest (x185y390)(x190y393)",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Elana Water",
+        "Item": "IR50",
+        "From": "Chest",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Protection",
+        "Item": "IR4",
+        "From": "Chest (x185y390)",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "IR7",
+        "From": "Ghost",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Cursed Letter",
+        "Item": "IR85",
+        "From": "Ghost",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Shrieking Mushroom",
+        "Item": "IR50",
+        "From": "Gather Spot x188y417",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Moonglow",
+        "Item": "IR5",
+        "From": "Gather Spot",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "High Quality Gala Mushroom",
+        "Item": "IR7",
+        "From": "Gather Spot",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Bronze Tail Feather",
+        "Item": "IR45",
+        "From": "Stymphalides",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scarlet Plume",
+        "Item": "IR50",
+        "From": "Chest(X198Y411)(x200y408)",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scarlet Plume",
+        "Item": "IR50",
+        "From": "Chest(X200Y409)",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Rainbow Feather",
+        "Item": "IR50",
+        "From": "Chest(X198Y411)(x200y408)",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Hard Leather Cloth",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Transparent Coarse Sand",
+        "Item": "",
+        "From": "X196Y412",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Clear Fine Sand",
+        "Item": "",
+        "From": "X196Y412",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Stiff Crocodile Skin",
+        "Item": "IR45",
+        "From": "Foot-Biter",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Crystal-Encrusted Twig",
+        "Item": "IR70",
+        "From": "Gather Spot x191y377",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Crystallized Sap",
+        "Item": "IR70",
+        "From": "Gather Spot x191y377",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Gold (85k)RNG",
+        "Item": "",
+        "From": "Chest(x192y386)",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "White Shining Sand",
+        "Item": "",
+        "From": "Gather Spot",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Defense",
+        "Item": "IR7",
+        "From": "Chest",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Transparent Coarse Sand",
+        "Item": "IR65",
+        "From": "Gather Spot x190y417",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Shrieking Mushroom",
+        "Item": "IR50",
+        "From": "Chest x197y405",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "S.Infected Gorecyclops LV80",
+        "Item": "",
+        "From": "Only apear at Night(x200y408)",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Crystal-Encrusted Twig",
+        "Item": "IR70",
+        "From": "Gather Spot x220y387",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Crystallized Sap",
+        "Item": "IR70",
+        "From": "Gather Spot x220y387",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Thick Shell",
+        "Item": "",
+        "From": "Gather Spot x193y372",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Thick Shell",
+        "Item": "",
+        "From": "Gather Spotx194/y360",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Thick Shell",
+        "Item": "",
+        "From": "Gather Spot 186/372",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Thick Shell",
+        "Item": "",
+        "From": "Gather Spot 186/383",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Giant Fossil Shell",
+        "Item": "",
+        "From": "Gather Spot 186/383   10%",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Thick Shell",
+        "Item": "",
+        "From": "Gather Spot 193/388",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Thick Shell",
+        "Item": "",
+        "From": "Gather Spot 195/385",
+        "Zone": "Elan Water Grove",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Broken Dagger",
+        "Item": "IR7",
+        "From": "Infected Hobgoblin",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "High Quality Gala Mushroom",
+        "Item": "IR7",
+        "From": "Gather Spot",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Quality Gala Mushroom",
+        "Item": "IR2",
+        "From": "Gather Spot",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Moonglow",
+        "Item": "IR5",
+        "From": "Gather Spot",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Crab Brittlegill",
+        "Item": "IR45",
+        "From": "Gather Spot",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Infected Direwolf",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Rotten Tree",
+        "Item": "IR45",
+        "From": "Gather Spot",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Infected Griffin",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Wijnruit",
+        "Item": "IR50",
+        "From": "Gather Spot(x198y316)",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Baby Herb",
+        "Item": "IR1",
+        "From": "Gather Spot",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Infected Gorecyclops",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Pixie Mock Wing",
+        "Item": "IR45",
+        "From": "(S) Infected Pixie",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "IR7",
+        "From": "Ghost",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Cursed Letter",
+        "Item": "IR85",
+        "From": "Ghost",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Infected Behemoth",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Wild Herb",
+        "Item": "IR3",
+        "From": "Gather Spot",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Darkness",
+        "Item": "",
+        "From": "Dark Skeleton",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Bronze Tail Feather",
+        "Item": "IR45",
+        "From": "(S) Infected Stymphalides",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Thin Wood",
+        "Item": "IR1",
+        "From": "Gather Spot",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Not blood orb mob",
+        "Item": "",
+        "From": "(S) Infected Gorecyclops",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Discoloured Organs",
+        "Item": "IR50",
+        "From": "Chest",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Scraps",
+        "Item": "IR50",
+        "From": "Chest",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Beast's Liver",
+        "Item": "IR80",
+        "From": "Warg",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Wjinruit",
+        "Item": "IR50",
+        "From": "Gather Spot(X214Y310,X227Y298)",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Kingalite",
+        "Item": "",
+        "From": "Mining Spot(x298y261)",
+        "Zone": "Morrow Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Old Geranium",
+        "Item": "IR45",
+        "From": "Gather Spot",
+        "Zone": "Dancing Rainbow Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Beast's Liver",
+        "Item": "IR80",
+        "From": "Warg",
+        "Zone": "Dancing Rainbow Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Wolf's Sinewy Meat",
+        "Item": "IR45",
+        "From": "Warg",
+        "Zone": "Dancing Rainbow Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Agate",
+        "Item": "IR7",
+        "From": "Chest",
+        "Zone": "Dancing Rainbow Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Sorcery",
+        "Item": "IR4",
+        "From": "Chest",
+        "Zone": "Dancing Rainbow Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Magickal Defense",
+        "Item": "IR7",
+        "From": "Chest",
+        "Zone": "Dancing Rainbow Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Onyx",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Dancing Rainbow Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Purple Petals",
+        "Item": "IR45",
+        "From": "Gather Spot",
+        "Zone": "Dancing Rainbow Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Stiff Crocodile Skin",
+        "Item": "IR45",
+        "From": "Foot-Biter",
+        "Zone": "Dancing Rainbow Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": " purple algea seed ( Search All flower gathers)",
+        "Item": "",
+        "From": "X161Y367",
+        "Zone": "Dancing Rainbow Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": " purple algea seed",
+        "Item": "",
+        "From": "Flower gathering",
+        "Zone": "Dancing Rainbow Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Stiff Crocodile Skin",
+        "Item": "IR45",
+        "From": "Foot-Biter",
+        "Zone": "Dancing Rainbow Cave Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Agate",
+        "Item": "IR7",
+        "From": "Chest",
+        "Zone": "Dancing Rainbow Cave Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Onyx",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Dancing Rainbow Cave Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Fluorite",
+        "Item": "IR2",
+        "From": "Eye",
+        "Zone": "Dancing Rainbow Cave Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Eye Gem",
+        "Item": "IR10",
+        "From": "Eye",
+        "Zone": "Dancing Rainbow Cave Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Beast's Liver",
+        "Item": "IR80",
+        "From": "Warg",
+        "Zone": "Dancing Rainbow Cave Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Wolf's Sinewy Meat",
+        "Item": "IR45",
+        "From": "Warg",
+        "Zone": "Dancing Rainbow Cave Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Gold Ingot",
+        "Item": "IR9",
+        "From": "Chest (Outside, Garden)",
+        "Zone": "Dancing Rainbow Cave Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Has 2 Skeletons, nothing of Value",
+        "Item": "",
+        "From": "",
+        "Zone": "Dancing Ranbow Cave: Dangerous Area (Requires Key of Treasures)",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Blocked by area master",
+        "Item": "",
+        "From": "",
+        "Zone": "Wisteria Arbor Withering Well",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Blocked by area master",
+        "Item": "",
+        "From": "",
+        "Zone": "Jungle Limestone Caves",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Blocked by area master",
+        "Item": "",
+        "From": "",
+        "Zone": "Old Ferryman's Haunt",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Blocked by area master",
+        "Item": "",
+        "From": "",
+        "Zone": "Elan Quarry Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Giant Fur",
+        "Item": "IR4",
+        "From": "Troll",
+        "Zone": "Invading Demons Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Troll's Poisonous Moss",
+        "Item": "IR4",
+        "From": "Troll",
+        "Zone": "Invading Demons Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Giant's Horn",
+        "Item": "IR7",
+        "From": "Troll",
+        "Zone": "Invading Demons Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Broken Dagger",
+        "Item": "IR7",
+        "From": "Infected Hobgoblin",
+        "Zone": "Invading Demons Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Agate",
+        "Item": "IR7",
+        "From": "Gather Spot",
+        "Zone": "Invading Demons Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Coarse Sand",
+        "Item": "IR2",
+        "From": "Gather Spot",
+        "Zone": "Invading Demons Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Onyx",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Invading Demons Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ancient Iron Ore",
+        "Item": "IR45",
+        "From": "Gather Spot",
+        "Zone": "Invading Demons Cave",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Great Sorcery",
+        "Item": "IR7",
+        "From": "Chest",
+        "Zone": "Invading Demons Cave Central passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Onyx",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Invading Demons Cave Central passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ancient Iron Ore",
+        "Item": "IR45",
+        "From": "Gather Spot",
+        "Zone": "Invading Demons Cave Central passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Agate",
+        "Item": "IR7",
+        "From": "Gather Spot",
+        "Zone": "Invading Demons Cave Central passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Pixie Mock Wing",
+        "Item": "IR45",
+        "From": "(S) Infected Pixie",
+        "Zone": "Invading Demons Cave Central passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Bronze Tail Feather",
+        "Item": "IR45",
+        "From": "(S) Infected Stymphalides",
+        "Zone": "Invading Demons Cave Central passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Great Sorcery",
+        "Item": "IR7",
+        "From": "Chest",
+        "Zone": "Invading Demons Cave Central passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Onyx",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Invading Demons Cave Central passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ancient Iron Ore",
+        "Item": "IR45",
+        "From": "Gather Spot",
+        "Zone": "Invading Demons Cave Central passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Agate",
+        "Item": "IR7",
+        "From": "Gather Spot",
+        "Zone": "Invading Demons Cave Central passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Pixie Mock Wing",
+        "Item": "IR45",
+        "From": "(S) Infected Pixie",
+        "Zone": "Invading Demons Cave Central passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Bronze Tail Feather",
+        "Item": "IR45",
+        "From": "(S) Infected Stymphalides",
+        "Zone": "Invading Demons Cave Central passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Pixie Mock Wing",
+        "Item": "IR45",
+        "From": "(S) Infected Pixie",
+        "Zone": "Invading Demons Cave Innermost Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Agate",
+        "Item": "IR7",
+        "From": "Gather Spot",
+        "Zone": "Invading Demons Cave Innermost Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Bronze Tail Feather",
+        "Item": "IR45",
+        "From": "(S) Infected Stymphalides",
+        "Zone": "Invading Demons Cave Innermost Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Fine Femur",
+        "Item": "IR60",
+        "From": "Pixie King",
+        "Zone": "Invading Demons Cave Innermost Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Pixie Crown",
+        "Item": "IR65",
+        "From": "Pixie King",
+        "Zone": "Invading Demons Cave Innermost Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ancient Iron Ore",
+        "Item": "IR45",
+        "From": "Chest",
+        "Zone": "Invading Demons Cave Innermost Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ancient Iron Ingot",
+        "Item": "IR45",
+        "From": "Chest",
+        "Zone": "Invading Demons Cave Innermost Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Beast's Liver",
+        "Item": "IR80",
+        "From": "Warg",
+        "Zone": "Path to Morrow",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Wolf's Sinewy Meat",
+        "Item": "IR45",
+        "From": "Warg",
+        "Zone": "Path to Morrow",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Hard Leather Cloth",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Path to Morrow",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Bronze Tail Feather",
+        "Item": "IR45",
+        "From": "Stymphalides",
+        "Zone": "Path to Morrow",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Copper Ore",
+        "Item": "IR2",
+        "From": "Gathering Spot",
+        "Zone": "Path to Morrow",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Lead Ore",
+        "Item": "IR2",
+        "From": "Gathering Spot",
+        "Zone": "Path to Morrow",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Copper Ingot",
+        "Item": "IR2",
+        "From": "Chest",
+        "Zone": "Path to Morrow",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Giant Fur",
+        "Item": "IR4",
+        "From": "Mole Troll",
+        "Zone": "Path to Morrow",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Troll's Poisonous Moss",
+        "Item": "IR4",
+        "From": "Mole Troll",
+        "Zone": "Path to Morrow",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Giant's Horn",
+        "Item": "IR7",
+        "From": "Mole Troll",
+        "Zone": "Path to Morrow",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Infected Demon Bone Fragment",
+        "Item": "",
+        "From": "Chest X193Y279/ x193y280",
+        "Zone": "Morrow Forest Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Corroded Spine",
+        "Item": "",
+        "From": "Chest X193Y279/x193y280",
+        "Zone": "Morrow Forest Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Malformed Nut",
+        "Item": "",
+        "From": "x194 290 - Plant gathering; This appears to be a chance drop",
+        "Zone": "Morrow Forest Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Malformed Nut",
+        "Item": "",
+        "From": "x183 y279 - Wood Cutting",
+        "Zone": "Morrow Forest Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Malformed Nut",
+        "Item": "",
+        "From": "x179 y282 - Wood Cutting",
+        "Zone": "Morrow Forest Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Malformed Nut",
+        "Item": "",
+        "From": "x193 y289",
+        "Zone": "Morrow Forest Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Still Beating Heart",
+        "Item": "IR60",
+        "From": "Infected Demon",
+        "Zone": "Morrow Forest Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Wijnruit",
+        "Item": "",
+        "From": "Gather Spot(x185y288)",
+        "Zone": "Morrow Forest Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Morrow Lauan Wood",
+        "Item": "IR65",
+        "From": "Gather Spot x195y281/x195y278",
+        "Zone": "Morrow Forest Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Thousand Year Moss 2x",
+        "Item": "",
+        "From": "Phindymian Ent lvl 70",
+        "Zone": "Morrow Forest Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sancto Sap 2x",
+        "Item": "",
+        "From": "Phindymian Ent lvl 70",
+        "Zone": "Morrow Forest Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Crab Brittlegill",
+        "Item": "",
+        "From": "Gather spot x202y288/x202y284/x200y292",
+        "Zone": "Morrow Forest Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Pixie Moxie Wing",
+        "Item": "",
+        "From": "Various",
+        "Zone": "Morrow Forest Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": " Gorecyclops LV80",
+        "Item": "",
+        "From": "Only apear at Night (Coord x194y421)",
+        "Zone": "Jungle Limestone Caves LV75",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Broken Dagger",
+        "Item": "IR7",
+        "From": "Infected Hobgoblin",
+        "Zone": "Morrow Cavern",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Sorcery",
+        "Item": "IR4",
+        "From": "Chest",
+        "Zone": "Morrow Cavern",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Magickal Protection",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "Morrow Cavern",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Infected Direwolf",
+        "Zone": "Morrow Cavern",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Great Sorcery",
+        "Item": "IR7",
+        "From": "Chest",
+        "Zone": "Morrow Cavern",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Flower Trinket(Soldier",
+        "Item": "",
+        "From": "Chest ( X:62 Y:-47)",
+        "Zone": "Morrow Cavern",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Crab Brittlegill",
+        "Item": "IR45",
+        "From": "Gather Spot",
+        "Zone": "Morrow Cavern Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Lindwurm Lv75",
+        "Zone": "Morrow Cavern Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Mole Troll Lv73",
+        "Zone": "Morrow Cavern Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Magickal Protection,- of Sorcery",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "Morrow Cavern Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Flower Trinket(Solider)",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "Morrow Cavern Innermost Depth",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Infected Gorecyclops Lv73",
+        "Zone": "Morrow Cavern Innermost Depth",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Diseased Wreath",
+        "Item": "",
+        "From": "Chest x44y47",
+        "Zone": "Deepney Great Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Gnarled Branch",
+        "Item": "",
+        "From": "Chest x44y47",
+        "Zone": "Deepney Great Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Murky Dragon Fang",
+        "Item": "",
+        "From": "Severly Infected Behemoth Lv 75",
+        "Zone": "Deepney Great Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Bloodied Giant Tusk",
+        "Item": "",
+        "From": "Severly Infected Gorecyclops Lv 75",
+        "Zone": "Deepney Great Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Scraps",
+        "Item": "",
+        "From": "Severly Infected Gorecyclops Lv 75",
+        "Zone": "Deepney Great Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Discolored Organs",
+        "Item": "",
+        "From": "Severly Infected Gorecyclops Lv 75",
+        "Zone": "Deepney Great Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Infected Giant Ulna",
+        "Item": "Chance%",
+        "From": "Severly Infected Gorecyclops Lv 75",
+        "Zone": "Deepney Great Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Still Beating Heart",
+        "Item": "",
+        "From": "Severly Infected Demon",
+        "Zone": "Deepney Great Forest",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Broken Dagger",
+        "Item": "IR7",
+        "From": "Infected Hobgoblin",
+        "Zone": "Sauzanel Infected Woods LV75",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Crab Brittlegill",
+        "Item": "IR45",
+        "From": "Gather Spot",
+        "Zone": "Sauzanel Infected Woods LV76",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Silver Ingot",
+        "Item": "IR7",
+        "From": "Chest(x86y116)",
+        "Zone": "Sauzanel Infected Woods LV77",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Mysterious Shell Fragment",
+        "Item": "IR55",
+        "From": "Chest(x84y132)",
+        "Zone": "Sauzanel Infected Woods LV78",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Mysterious Shell Fragment",
+        "Item": "IR55",
+        "From": "Chest(x121y117)",
+        "Zone": "Sauzanel Infected Woods LV79",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Mysterious Shell Fragment",
+        "Item": "IR55",
+        "From": "Chest(x130y114)",
+        "Zone": "Sauzanel Infected Woods LV80",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Mysterious Shell Fragment",
+        "Item": "IR55",
+        "From": "Chest(x126y196)",
+        "Zone": "Sauzanel Infected Woods LV81",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Bronze Tail Feather",
+        "Item": "IR45",
+        "From": "Gather Spot(x90y55)",
+        "Zone": "Sauzanel Infected Woods LV82",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "",
+        "From": "Chest x90y55",
+        "Zone": "Sauzanel Infected Woods LV83",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Serverly Infected Behemoth",
+        "Zone": "Sauzanel Infected Woods LV84",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Mysterious Shell Fragment",
+        "Item": "IR55",
+        "From": "Chest x2 (x71y98)",
+        "Zone": "Sauzanel Infected Woods LV85",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Silver Ingot",
+        "Item": "IR7",
+        "From": "Chest(x122y109)",
+        "Zone": "Sauzanel Infected Woods LV86",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Mysterious Shell Fragment",
+        "Item": "IR55",
+        "From": "Chest(x86y116)",
+        "Zone": "Sauzanel Infected Woods LV87",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Stagnant Shroom",
+        "Item": "IR3",
+        "From": "Gather Spot",
+        "Zone": "Sauzanel Infected Woods LV88",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Serverly Infected Cyclops",
+        "Zone": "Sauzanel Infected Woods LV89",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "",
+        "From": "Chest(x142y114)",
+        "Zone": "Sauzanel Infected Woods LV90",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Silver Ingot",
+        "Item": "IR7",
+        "From": "Chest(x142y114)",
+        "Zone": "Sauzanel Infected Woods LV91",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Rotten Tree",
+        "Item": "",
+        "From": "Wood Lumbering(x134y91)",
+        "Zone": "Sauzanel Infected Woods LV92",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Transmuted Fur",
+        "Item": "IR10",
+        "From": "Shadow Wolf",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "Shadow Wolf",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sand of Reminiscence",
+        "Item": "IR12",
+        "From": "Shadow Wolf",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Cracked Black Horn",
+        "Item": "IR10",
+        "From": "Shadow Goblin",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "Shadow Goblin",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sand of Reminiscence",
+        "Item": "IR12",
+        "From": "Shadow Goblin",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Broken Dagger",
+        "Item": "IR7",
+        "From": "Shadow Goblin",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "Shadow Harpy",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Harpy Flight Feather",
+        "Item": "IR6",
+        "From": "Shadow Harpy",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sand of Reminiscence",
+        "Item": "IR12",
+        "From": "Shadow Harpy",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Valley Spring Water",
+        "Item": "IR45",
+        "From": "Gather Spot",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Large Scallop Shell",
+        "Item": "IR10",
+        "From": "Gather Spot",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Dull Iron ingot",
+        "Item": "IR3",
+        "From": "Chest",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Red Chromium",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Crystal",
+        "Item": "IR5",
+        "From": "Gather Spot(x269y269)",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Iron Ore Fragment",
+        "Item": "IR3",
+        "From": "Gather Spot",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ringing Ore",
+        "Item": "IR45",
+        "From": "Gather Spot(x269y269)",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Kingalite",
+        "Item": "IR50",
+        "From": "Gather Spot(x269y269)",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Pixie Mock Wing",
+        "Item": "IR45",
+        "From": "Pixie",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Fine Femur",
+        "Item": "IR60",
+        "From": "Pixie",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "IR7",
+        "From": "Ghost",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Silver Ingot",
+        "Item": "IR7",
+        "From": "Chest",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Red Chromium",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Magick Silt",
+        "Item": "IR6",
+        "From": "Gargoyle",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "IR8",
+        "From": "Grimwarg",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Beast Claw",
+        "Item": "IR8",
+        "From": "Grimwarg",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Beast Leather",
+        "Item": "IR9",
+        "From": "Grimwarg",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Silver Ingot",
+        "Item": "IR7",
+        "From": "Chest",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Dull Iron ingot",
+        "Item": "IR3",
+        "From": "Chest",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Envoy's Horn",
+        "Item": "IR45",
+        "From": "Grigori",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Envoy's Loathsome Tail",
+        "Item": "IR45",
+        "From": "Bearded Grigori",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Envoy's Horn",
+        "Item": "IR45",
+        "From": "Bearded Grigori",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Adamas Ore",
+        "Item": "IR65",
+        "From": "Mining Spot(X260Y260)",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Jet Black Fur",
+        "Item": "IR65",
+        "From": "Chest (Far North East)(x296y260)",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Jet Black Pelt",
+        "Item": "IR65",
+        "From": "Chest (Far North East)(x296y260)",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Kingalite",
+        "Item": "IR50",
+        "From": "Mining Spot(x271y275)",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Adamas Ore",
+        "Item": "IR65",
+        "From": "Chest (Far North West)",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ringing Ore",
+        "Item": "IR45",
+        "From": "Mining Spot(x271y275)",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Black Claw of Misfortune",
+        "Item": "",
+        "From": "Scourge Lv 75 (Daytime)X292Y262",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Deformed Horn of Misfortune",
+        "Item": "",
+        "From": "Scourge Lv 75 (Daytime)X292Y262",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Blue Opals (Really rare)",
+        "Item": "",
+        "From": "Scourge Lv 75 (Daytime)X292Y262",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Black Claw of Misfortune",
+        "Item": "",
+        "From": "Night Scourge LV.87 (Nighttime) X292Y262",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Deformed Horn of Misfortune",
+        "Item": "",
+        "From": "Night Scourge LV.87 (Nighttime) X292Y262",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Blue Opals",
+        "Item": "",
+        "From": "Night Scourge LV.87 (Nighttime) X292Y262",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Blue Skies Blue Opals (uncommon)",
+        "Item": "",
+        "From": "Night Scourge LV.87 (Nighttime) X292Y262",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sky Dragon's Blue Opals (uncommon)",
+        "Item": "",
+        "From": "Night Scourge LV.87 (Nighttime) X292Y262",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ocean Crystals (uncommon)",
+        "Item": "",
+        "From": "Night Scourge LV.87 (Nighttime) X292Y262",
+        "Zone": "Kingal Canyon",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Cracked Black Horn",
+        "Item": "IR10",
+        "From": "Shadow Goblin",
+        "Zone": "Nebula Temple",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "Shadow Goblin",
+        "Zone": "Nebula Temple",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sand of Reminiscence",
+        "Item": "IR12",
+        "From": "Shadow Goblin",
+        "Zone": "Nebula Temple",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Broken Dagger",
+        "Item": "IR7",
+        "From": "Shadow Goblin",
+        "Zone": "Nebula Temple",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "Shadow Harpy",
+        "Zone": "Nebula Temple",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Harpy Flight Feather",
+        "Item": "IR6",
+        "From": "Shadow Harpy",
+        "Zone": "Nebula Temple",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sand of Reminiscence",
+        "Item": "IR12",
+        "From": "Shadow Harpy",
+        "Zone": "Nebula Temple",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Defense",
+        "Item": "IR7",
+        "From": "Chest",
+        "Zone": "Nebula Temple",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Transmuted Fur",
+        "Item": "IR10",
+        "From": "Shadow Wolf",
+        "Zone": "Nebula Temple",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "Shadow Wolf",
+        "Zone": "Nebula Temple",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sand of Reminiscence",
+        "Item": "IR12",
+        "From": "Shadow Wolf",
+        "Zone": "Nebula Temple",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Magick Silt",
+        "Item": "IR6",
+        "From": "Gargoyle",
+        "Zone": "Nebula Temple",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Envoy's Horn",
+        "Item": "IR45",
+        "From": "Grigori",
+        "Zone": "Nebula Temple",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Flower Trinket (Soldier)",
+        "Item": "IR15",
+        "From": "Chest",
+        "Zone": "Nebula Temple",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Hard Leather Cloth",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Nebula Temple",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Cracked Black Horn",
+        "Item": "IR10",
+        "From": "Shadow Goblin",
+        "Zone": "Nebula Temple: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "Shadow Goblin",
+        "Zone": "Nebula Temple: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sand of Reminiscence",
+        "Item": "IR12",
+        "From": "Shadow Goblin",
+        "Zone": "Nebula Temple: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Broken Dagger",
+        "Item": "IR7",
+        "From": "Shadow Goblin",
+        "Zone": "Nebula Temple: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "Shadow Harpy",
+        "Zone": "Nebula Temple: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Harpy Flight Feather",
+        "Item": "IR6",
+        "From": "Shadow Harpy",
+        "Zone": "Nebula Temple: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sand of Reminiscence",
+        "Item": "IR12",
+        "From": "Shadow Harpy",
+        "Zone": "Nebula Temple: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Leather Cloth",
+        "Item": "IR4",
+        "From": "Chest",
+        "Zone": "Nebula Temple: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Transmuted Fur",
+        "Item": "IR10",
+        "From": "Shadow Wolf",
+        "Zone": "Nebula Temple: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "Shadow Wolf",
+        "Zone": "Nebula Temple: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sand of Reminiscence",
+        "Item": "IR12",
+        "From": "Shadow Wolf",
+        "Zone": "Nebula Temple: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Magick Silt",
+        "Item": "IR6",
+        "From": "Gargoyle",
+        "Zone": "Nebula Temple: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Envoy's Horn",
+        "Item": "IR45",
+        "From": "Grigori",
+        "Zone": "Nebula Temple: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Hard Leather Cloth",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Nebula Temple: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Protection",
+        "Item": "IR4",
+        "From": "Chest",
+        "Zone": "Nebula Temple: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Bloodied Giant Tusk",
+        "Item": "IR45",
+        "From": "Gorecyclops lv70 (80k xp)",
+        "Zone": "Nebula Temple Corridor",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Hard Leather Cloth",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Nebula Temple Corridor",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Flower Trinket (Soldier)",
+        "Item": "IR15",
+        "From": "Chest",
+        "Zone": "Nebula Temple Corridor",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Envoy's Horn",
+        "Item": "IR45",
+        "From": "Grigori",
+        "Zone": "Nebula Temple Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Envoy's Loathsome Tail",
+        "Item": "IR45",
+        "From": "Bearded Grigori",
+        "Zone": "Nebula Temple Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Envoy's Horn",
+        "Item": "IR45",
+        "From": "Bearded Grigori",
+        "Zone": "Nebula Temple Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Magick Silt",
+        "Item": "IR6",
+        "From": "Gargoyle",
+        "Zone": "Nebula Temple Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Flower Trinket (Soldier)",
+        "Item": "IR15",
+        "From": "Chest",
+        "Zone": "Nebula Temple Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Flower Trinket (General)",
+        "Item": "IR20",
+        "From": "Chest",
+        "Zone": "Nebula Temple Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Pixie Mock Wing",
+        "Item": "IR45",
+        "From": "Pixie",
+        "Zone": "Hadin Underground Old Road",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Fine Femur",
+        "Item": "IR60",
+        "From": "Pixie",
+        "Zone": "Hadin Underground Old Road",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Great Strength",
+        "Item": "IR7",
+        "From": "Chest",
+        "Zone": "Hadin Underground Old Road",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sapphire",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Hadin Underground Old Road",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Protection",
+        "Item": "IR4",
+        "From": "Chest",
+        "Zone": "Hadin Underground Old Road",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Still Beating Heart",
+        "Item": "IR60",
+        "From": "(S) infected Demon",
+        "Zone": "Hadin Underground Old Road",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Envoy's Horn",
+        "Item": "IR45",
+        "From": "Grigori",
+        "Zone": "Hadin Underground Old Road: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Envoy's Loathsome Tail",
+        "Item": "IR45",
+        "From": "Bearded Grigori",
+        "Zone": "Hadin Underground Old Road: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Envoy's Horn",
+        "Item": "IR45",
+        "From": "Bearded Grigori",
+        "Zone": "Hadin Underground Old Road: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "IR7",
+        "From": "Ghost",
+        "Zone": "Hadin Underground Old Road: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Great Strength",
+        "Item": "IR7",
+        "From": "Chest",
+        "Zone": "Hadin Underground Old Road: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Protection",
+        "Item": "IR4",
+        "From": "Chest",
+        "Zone": "Hadin Underground Old Road: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Power",
+        "Item": "IR4",
+        "From": "Chest",
+        "Zone": "Hadin Underground Old Road: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Pixie Mock Wing",
+        "Item": "IR45",
+        "From": "Pixie",
+        "Zone": "Hadin Underground Old Road: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Fine Femur",
+        "Item": "IR60",
+        "From": "Pixie",
+        "Zone": "Hadin Underground Old Road: Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Skeleton",
+        "Zone": "Hadin Underground Old Road: Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Garnet",
+        "Item": "IR5",
+        "From": "Chest",
+        "Zone": "Hadin Underground Old Road: Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Protection",
+        "Item": "IR4",
+        "From": "Chest",
+        "Zone": "Hadin Underground Old Road: Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Wind Trinket (Soldier)",
+        "Item": "IR15",
+        "From": "Chest",
+        "Zone": "Hadin Underground Old Road: Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Dragon Hide",
+        "Item": "",
+        "From": "Lv 75 Behemoth",
+        "Zone": "Shadolean Great Temple Lv 75",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Thick Dragonscale",
+        "Item": "",
+        "From": "Lv 75 Behemoth",
+        "Zone": "Shadolean Great Temple Lv 76",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Behemoth Fang",
+        "Item": "",
+        "From": "Lv 75 Behemoth",
+        "Zone": "Shadolean Great Temple Lv 77",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Dragon Fang ",
+        "Item": "IR12 Chance",
+        "From": "Lv 75 Behemoth",
+        "Zone": "Shadolean Great Temple Lv 78",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Bloodied Giant Tusk",
+        "Item": "",
+        "From": "Gorecyclops lvl73",
+        "Zone": "Shadolean Great Temple Lv 79",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Giant's Molar",
+        "Item": "",
+        "From": "Gorecyclops lvl73",
+        "Zone": "Shadolean Great Temple Lv 80",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Hematite",
+        "Item": "",
+        "From": "Chest x64 y20",
+        "Zone": "Shadolean Great Temple Lv 81",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Giant Tough Pelt",
+        "Item": "",
+        "From": "Goremanticore lvl77",
+        "Zone": "Shadolean Great Temple Lv 82",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Supple Fur",
+        "Item": "",
+        "From": "Goremanticore lvl77",
+        "Zone": "Shadolean Great Temple Lv 83",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Hematite ",
+        "Item": "",
+        "From": "Chest x75 x142",
+        "Zone": "",
+        "Maps": ""
+    },
+    {
+        "Name": "",
+        "Item": "Shadolean Great Temple Lv 84",
+        "From": "Phindym",
+        "Zone": "",
+        "Maps": ""
+    },
+    {
+        "Name": "Medusa's Serpent Hair",
+        "Item": "",
+        "From": "Medusa lvl77",
+        "Zone": "Shadolean Great Temple Lv 85",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Magickal Potion",
+        "Item": "",
+        "From": "Medusa lvl77",
+        "Zone": "Shadolean Great Temple Lv 86",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Rare Green Tree Crystal",
+        "Item": "*Chance drop",
+        "From": "Chest x27y142 1min 5max",
+        "Zone": "Shadolean Great Temple Lv 87",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Flower Trinket (Soldier) IR15",
+        "Item": "",
+        "From": "Chest x27y142 ",
+        "Zone": "Shadolean Great Temple Lv 88",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Superior Gala Extract",
+        "Item": "",
+        "From": "Chest x27y142 ",
+        "Zone": "Shadolean Great Temple Lv 89",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Composite Organ ",
+        "Item": "IR45",
+        "From": "Gorechimera lvl73",
+        "Zone": "Shadolean Great Temple Lv 90",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Flower Trinket (Soldier)",
+        "Item": "",
+        "From": "Chest x51 y90",
+        "Zone": "Shadolean Great Temple Lv 91",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Flower Trinket (General) IR20",
+        "Item": "",
+        "From": "Chest x51 y90",
+        "Zone": "Shadolean Great Temple Lv 92",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Kingal Medal ",
+        "Item": "IR55 Chance",
+        "From": "Chest x51 y90",
+        "Zone": "Shadolean Great Temple Lv 93",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Still Beating Heart",
+        "Item": "IR60",
+        "From": "(S) infected Demon",
+        "Zone": "Ancient Underground Shrine",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "White Shining Sand",
+        "Item": "IR8",
+        "From": "Chest",
+        "Zone": "Ancient Underground Shrine",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "IR7",
+        "From": "Chest",
+        "Zone": "Ancient Underground Shrine",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Lava Rock",
+        "Item": "IR8",
+        "From": "Chest",
+        "Zone": "Ancient Underground Shrine",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Dubious Animal Pelt",
+        "Item": "IR70",
+        "From": "Chest",
+        "Zone": "Ancient Underground Shrine",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "IR7",
+        "From": "Chest",
+        "Zone": "Ancient Underground Shrine 2nd Floor",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Red Chromium",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Ancient Underground Shrine 2nd Floor",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Spirit Silver Ingot",
+        "Item": "IR8",
+        "From": "Chest",
+        "Zone": "Ancient Underground Shrine 2nd Floor",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Red Alloy Ingot",
+        "Item": "IR8",
+        "From": "Chest",
+        "Zone": "Ancient Underground Shrine 2nd Floor",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Dubious Animal Pelt",
+        "Item": "IR70",
+        "From": "Chest",
+        "Zone": "Ancient Underground Shrine 2nd Floor",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Seabird Syrinx",
+        "Item": "IR60",
+        "From": "Siren",
+        "Zone": "Ancient Underground Shrine 2nd Floor",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Still Beating Heart",
+        "Item": "IR60",
+        "From": "(S) infected Demon",
+        "Zone": "Ancient Underground Shrine 2nd Floor",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Fleshy Animal Pelt",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "Ancient Underground Shrine Secret Chamber",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Bronze Tail Feather",
+        "Item": "IR45",
+        "From": "(S) Infected Stymphalides",
+        "Zone": "Ancient Underground Shrine Inner Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Red Chromium",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Ancient Underground Shrine Inner Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Silver Ingot",
+        "Item": "",
+        "From": "",
+        "Zone": "Ancient Underground Shrine Inner Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Dubious Animal Pelt",
+        "Item": "IR70",
+        "From": "Chest",
+        "Zone": "Ancient Underground Shrine Inner Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Fleshy Animal Pelt",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "Ancient Underground Shrine Inner Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Waterweed",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "Tarie Small Tower",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Dragonkin Stone",
+        "Item": "",
+        "From": "Chest 50% dropchance",
+        "Zone": "Tarie Small Tower",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "IR8",
+        "From": "Grimwarg",
+        "Zone": "Grinmel Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Beast Claw",
+        "Item": "IR8",
+        "From": "Grimwarg",
+        "Zone": "Grinmel Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Beast Leather",
+        "Item": "IR9",
+        "From": "Grimwarg",
+        "Zone": "Grinmel Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "Shadow Harpy",
+        "Zone": "Grinmel Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Harpy Flight Feather",
+        "Item": "IR6",
+        "From": "Shadow Harpy",
+        "Zone": "Grinmel Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sand of Reminiscence",
+        "Item": "IR12",
+        "From": "Shadow Harpy",
+        "Zone": "Grinmel Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Protection",
+        "Item": "IR4",
+        "From": "Chest",
+        "Zone": "Grinmel Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Icon Fragment",
+        "Item": "IR50",
+        "From": "Chest x38y-35",
+        "Zone": "Grinmel Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Leather Cloth",
+        "Item": "IR4",
+        "From": "Chest",
+        "Zone": "Grinmel Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Hard Leather Cloth",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Grinmel Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Amber Dragonscale",
+        "Item": "",
+        "From": "Drake Lv 75",
+        "Zone": "Grinmel Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "IR8",
+        "From": "Grimwarg",
+        "Zone": "Grinmel Ruins Center Passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Beast Claw",
+        "Item": "IR8",
+        "From": "Grimwarg",
+        "Zone": "Grinmel Ruins Center Passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Beast Leather",
+        "Item": "IR9",
+        "From": "Grimwarg",
+        "Zone": "Grinmel Ruins Center Passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "Shadow Harpy",
+        "Zone": "Grinmel Ruins Center Passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Harpy Flight Feather",
+        "Item": "IR6",
+        "From": "Shadow Harpy",
+        "Zone": "Grinmel Ruins Center Passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sand of Reminiscence",
+        "Item": "IR12",
+        "From": "Shadow Harpy",
+        "Zone": "Grinmel Ruins Center Passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Icon Fragment",
+        "Item": "IR50",
+        "From": "Chest",
+        "Zone": "Grinmel Ruins Center Passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Leather Cloth",
+        "Item": "IR4",
+        "From": "Chest",
+        "Zone": "Grinmel Ruins Center Passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Hard Leather Cloth",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Grinmel Ruins Center Passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "IR8",
+        "From": "Grimwarg",
+        "Zone": "Grinmel Ruins Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Beast Claw",
+        "Item": "IR8",
+        "From": "Grimwarg",
+        "Zone": "Grinmel Ruins Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Beast Leather",
+        "Item": "IR9",
+        "From": "Grimwarg",
+        "Zone": "Grinmel Ruins Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "Shadow Harpy",
+        "Zone": "Grinmel Ruins Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Harpy Flight Feather",
+        "Item": "IR6",
+        "From": "Shadow Harpy",
+        "Zone": "Grinmel Ruins Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sand of Reminiscence",
+        "Item": "IR12",
+        "From": "Shadow Harpy",
+        "Zone": "Grinmel Ruins Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": " Icon Fragments",
+        "Item": "",
+        "From": "Chests",
+        "Zone": "Grinmel Ruins Depths",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Strong Acid Slime Piece",
+        "Item": "IR7",
+        "From": "Oil Jelly",
+        "Zone": "Amburos Great Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Seabird Syrinx",
+        "Item": "IR60",
+        "From": "Siren",
+        "Zone": "Amburos Great Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Hematite",
+        "Item": "IR6",
+        "From": "Chest",
+        "Zone": "Amburos Great Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Dull Iron Ingot",
+        "Item": "IR3",
+        "From": "Chest",
+        "Zone": "Amburos Great Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Illustrated Old Cloth",
+        "Item": "IR60",
+        "From": "Chest",
+        "Zone": "Amburos Great Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Spirit's Tapestry",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "Amburos Great Ruins",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Dull Iron Ingot",
+        "Item": "IR117",
+        "From": "Chest",
+        "Zone": "Amburos Great Ruins Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Illustrated Old Cloth",
+        "Item": "IR60",
+        "From": "Chestx38y-93",
+        "Zone": "Amburos Great Ruins Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Illustrated Old Cloth",
+        "Item": "IR60",
+        "From": "x2 Chest bh lock door",
+        "Zone": "Amburos Great Ruins Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Spirit's Tapestry",
+        "Item": "IR60",
+        "From": "x2 Chest bh lock door",
+        "Zone": "Amburos Great Ruins Center",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "MoonGlow",
+        "Item": "IR5",
+        "From": "Gather Spot",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Farana Mint",
+        "Item": "IR45",
+        "From": "Gather Spot",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Healing Drop",
+        "Item": "IR7",
+        "From": "Gather Spot",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sparkling Water",
+        "Item": "IR45",
+        "From": "Gather Spot",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Giant Scale",
+        "Item": "",
+        "From": "Gather Spot",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Armored Scale",
+        "Item": "",
+        "From": "Gather Spot",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Courtly Cloth",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ashen Flower Rock",
+        "Item": "",
+        "From": "Gather Spot x257y358",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Fire",
+        "Item": "",
+        "From": "Gather Spot",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Baby Herb",
+        "Item": "",
+        "From": "Gather Spot",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "White Bone Rock",
+        "Item": "IR50",
+        "From": "Gather Spot (x276y380)",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ashen Flower Rock",
+        "Item": "",
+        "From": "Gahter Spot (X257Y358)",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "White Bone Rock",
+        "Item": "",
+        "From": "Old Residence Ruins x221y359",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "White Bone Rock",
+        "Item": "",
+        "From": "Deserted Village of Nadbadh x229y363",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "White Bone Rock",
+        "Item": "",
+        "From": "Danadell Caves (Dungeon) x54y-7/x53y-36",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "White Bone Rock",
+        "Item": "",
+        "From": "Danadell Caves Depths (Dungeon)x31y-71x49y-122",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "White Bone Rock",
+        "Item": "",
+        "From": "Danadell Caves: Passage (Dungeon) x47y-203/x49y-191",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Griffin Spinel (Common)",
+        "Item": "",
+        "From": "Severely Infected Griffin LV. 79 (Nightime only) X:271 Y:331",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Corrupted Small Feathers (Common)",
+        "Item": "",
+        "From": "Severely Infected Griffin LV. 75 (Nightime only) X:243 Y:346",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Corrupted Griffin Blood (Common)",
+        "Item": "",
+        "From": "Severely Infected Griffin LV. 79 (Nightime only) X:271 Y:331",
+        "Zone": "Farana Plains",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Kingalite",
+        "Item": "IR50",
+        "From": "Mining Spot(x222y276)",
+        "Zone": "Deserted Village of Kraag",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ringing Ore",
+        "Item": "IR45",
+        "From": "Mining Spot(x222y276)",
+        "Zone": "Deserted Village of Kraag",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Adamas Ore",
+        "Item": "IR65",
+        "From": "Mining Spot(x222y276)",
+        "Zone": "Deserted Village of Kraag",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Silver Ingot",
+        "Item": "IR7",
+        "From": "Chest (x260y265)",
+        "Zone": "Deserted Village of Kraag",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Red Chromium",
+        "Item": "IR6",
+        "From": "Chest (x260y265)",
+        "Zone": "Deserted Village of Kraag",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Beast's Mane",
+        "Item": "IR5",
+        "From": "Beast's Mane",
+        "Zone": "Small Tower of Wisdom",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "",
+        "From": "Gather Spot",
+        "Zone": "Small Tower of Wisdom",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Red Chromium",
+        "Item": "",
+        "From": "Gather Spot",
+        "Zone": "Small Tower of Wisdom",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Fine Femur",
+        "Item": "",
+        "From": "Pixie King",
+        "Zone": "Small Tower of Wisdom",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Pixie Crown",
+        "Item": "",
+        "From": "Pixie King",
+        "Zone": "Small Tower of Wisdom",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Wind Trinket (Soldier)",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "Small Tower of Wisdom",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Red Alloy Ingot 1-3",
+        "Item": "",
+        "From": "Left Chest",
+        "Zone": "Small Tower of Wisdom",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Silver Ingot (1-2)",
+        "Item": "",
+        "From": "Left Chest",
+        "Zone": "Small Tower of Wisdom",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Wind Trinket (General) (1, 50%)",
+        "Item": "",
+        "From": "Left Chest",
+        "Zone": "Small Tower of Wisdom",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Pixie Crown (1, 40% )",
+        "Item": "",
+        "From": "Left Chest",
+        "Zone": "Small Tower of Wisdom",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Phantom Ore (1-3, 80%)",
+        "Item": "",
+        "From": "Right Chest",
+        "Zone": "Small Tower of Wisdom",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Red Chromium (1-3)",
+        "Item": "",
+        "From": "Right Chest",
+        "Zone": "Small Tower of Wisdom",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Pixie Crown (1 , 100%)",
+        "Item": "",
+        "From": "Right Chest",
+        "Zone": "Small Tower of Wisdom",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Wind Trinket(Soldier)",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "Valtable Hall",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Wind Trinket(Soldier)",
+        "Item": "",
+        "From": "Gathering",
+        "Zone": "Valtable Hall(Deep Underground)",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "",
+        "From": "Giant Saurian Sage",
+        "Zone": "Sacred River Ruins LV. 79",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "",
+        "From": "Giant Saurian Sage",
+        "Zone": "Sacred River Ruins LV. 80",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Strong Lizardscale Pelt",
+        "Item": "",
+        "From": "Giant Saurian Sage",
+        "Zone": "Sacred River Ruins LV. 81",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Giant Apophyllite",
+        "Item": "",
+        "From": "Giant Saurian Sage",
+        "Zone": "Sacred River Ruins LV. 82",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "",
+        "From": "Giant Saurian Sage",
+        "Zone": "Sacred River Ruins LV. 83",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "",
+        "From": "Saurian Sage",
+        "Zone": "Sacred River Ruins LV. 84",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "",
+        "From": "Saurian Sage",
+        "Zone": "Sacred River Ruins LV. 85",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Superior Saurian Tail",
+        "Item": "",
+        "From": "Large Newt",
+        "Zone": "Sacred River Ruins LV. 86",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Smooth Leather",
+        "Item": "",
+        "From": "Large Newt",
+        "Zone": "Sacred River Ruins LV. 87",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "",
+        "From": "Large Newt",
+        "Zone": "Sacred River Ruins LV. 88",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "",
+        "From": "Large Newt",
+        "Zone": "Sacred River Ruins LV. 89",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "",
+        "From": "Large Newt",
+        "Zone": "Sacred River Ruins LV. 90",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "",
+        "From": "Large Newt",
+        "Zone": "Sacred River Ruins LV. 91",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "",
+        "From": "Lux Skeleton",
+        "Zone": "Sacred River Ruins LV. 92",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Holy",
+        "Item": "",
+        "From": "Lux Skeleton",
+        "Zone": "Sacred River Ruins LV. 93",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Undead Nail Shaving",
+        "Item": "",
+        "From": "Lux Skeleton",
+        "Zone": "Sacred River Ruins LV. 94",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "",
+        "From": "Lux Skeleton Brute",
+        "Zone": "Sacred River Ruins LV. 95",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Holy",
+        "Item": "",
+        "From": "Lux Skeleton Brute",
+        "Zone": "Sacred River Ruins LV. 96",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Undead Nail Shaving",
+        "Item": "",
+        "From": "Lux Skeleton Brute",
+        "Zone": "Sacred River Ruins LV. 97",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Bone Meal",
+        "Item": "",
+        "From": "Lux Skeleton Brute",
+        "Zone": "Sacred River Ruins LV. 98",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "King Bay Leaf",
+        "Item": "",
+        "From": "Chest (X:52 Y:-9)",
+        "Zone": "Sacred River Ruins LV. 99",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "",
+        "From": "Chest (X:52 Y:-9)",
+        "Zone": "Sacred River Ruins LV. 100",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "White Shining Sand",
+        "Item": "",
+        "From": "Gathering Spot (X:50 Y:-36)",
+        "Zone": "Sacred River Ruins LV. 101",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "White Shining Sand",
+        "Item": "",
+        "From": "Chest (X:51 Y:-57)",
+        "Zone": "Sacred River Ruins LV. 102",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "White Shining Sand",
+        "Item": "",
+        "From": "Chest (X:51 Y:-56)",
+        "Zone": "Sacred River Ruins LV. 103",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Magickal Potion",
+        "Item": "",
+        "From": "Medusa LV. 79",
+        "Zone": "Sacred River Ruins Center Passage LV 78",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Medusa's Serpent Hair",
+        "Item": "",
+        "From": "Medusa LV. 79",
+        "Zone": "Sacred River Ruins Center Passage LV 79",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "",
+        "From": "Dark Skeleton",
+        "Zone": "Sacred River Ruins Center Passage LV 80",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Darkness",
+        "Item": "",
+        "From": "Dark Skeleton",
+        "Zone": "Sacred River Ruins Center Passage LV 81",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Undead Nail Shaving",
+        "Item": "",
+        "From": "Dark Corpse Punisher",
+        "Zone": "Sacred River Ruins Center Passage LV 82",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Spider Thread",
+        "Item": "",
+        "From": "Spiders",
+        "Zone": "Sacred River Ruins Center Passage LV 83",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Insect Venom",
+        "Item": "",
+        "From": "Spiders",
+        "Zone": "Sacred River Ruins Center Passage LV 84",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "King Bay Leaf",
+        "Item": "",
+        "From": "Chest (X:62 Y:-106)",
+        "Zone": "Sacred River Ruins Center Passage LV 85",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "",
+        "From": "Chest (X:62 Y:-106)",
+        "Zone": "Sacred River Ruins Center Passage LV 86",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Composite Organ",
+        "Item": "",
+        "From": "Fierce Gorechimera LV.80",
+        "Zone": "Sacred River Ruins Center Passage LV 87",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ancient Sago Palm (Chests at the end)",
+        "Item": "",
+        "From": "Chest: (left)   1-5",
+        "Zone": "Sacred River Ruins Center Passage LV 88",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ancient Sago Palm (Chests at the end)",
+        "Item": "",
+        "From": "Chest: (right) 1-3",
+        "Zone": "Sacred River Ruins Center Passage LV 89",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": " Dragon leather",
+        "Item": "",
+        "From": "Chance",
+        "Zone": "Sacred River Ruins Center Passage LV 90",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": " Dragon leather and Blue flowers",
+        "Item": "",
+        "From": "Chance",
+        "Zone": "Sacred River Ruins Center Passage LV 91",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Twisted Iron Scraps",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ancient General's Chainmail",
+        "Item": "",
+        "From": "",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Frost Skeleton",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Arming Points",
+        "Item": "",
+        "From": "Living Armor",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Hematite Sand",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Protection",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Agate",
+        "Item": "",
+        "From": "Witch",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ruby",
+        "Item": "",
+        "From": "Witch",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Magickal Potion",
+        "Item": "",
+        "From": "Witch",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Sinister Black cloth",
+        "Item": "",
+        "From": "Witch",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Water of Ruin",
+        "Item": "",
+        "From": "Witch",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Abyssal Ice of Ruin",
+        "Item": "",
+        "From": "Witch",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Droplets of Ruin",
+        "Item": "",
+        "From": "Witch",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Abyssal Ice of Chaos",
+        "Item": "",
+        "From": "Witch",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Bolt Skeleton",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Wyrm (73)",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Leather Cloth",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Spiritual Will Fragment",
+        "Item": "",
+        "From": "Ghost Mail",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "",
+        "From": "Ghost Mail",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Superior Healing potion",
+        "Item": "",
+        "From": "Ghost Mail",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "White Dragon Gala Extract",
+        "Item": "",
+        "From": "Ghost Mail",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Cursed Letter",
+        "Item": "",
+        "From": "Ghost Mail",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Demon Armor Points",
+        "Item": "",
+        "From": "Living Armor lvl73",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "",
+        "From": "Living Armor lvl73",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Undead Nail Shaving",
+        "Item": "",
+        "From": "Frost Skeleton",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "frost scroll",
+        "Item": "",
+        "From": "Frost Skeleton",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Courtly Cloth",
+        "Item": "",
+        "From": "chest x67 y-21",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "twisted iron scrap",
+        "Item": "",
+        "From": "chest x67 y-21",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Protect",
+        "Item": "",
+        "From": "chest x36 y39",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Proctect",
+        "Item": "",
+        "From": "Chest x50 y-84",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Leather Cloth",
+        "Item": "",
+        "From": "Chest x50 y-84",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Twisted Iron Scrap",
+        "Item": "",
+        "From": "Chest x52 y-109",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Ancient General Chainmail",
+        "Item": "",
+        "From": "Chest x52 y-109",
+        "Zone": "Magusas Ancient Watercourse",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "",
+        "From": "Chest x46 y-208",
+        "Zone": "Magusas Ancient Watercourse Hidden Passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Hematite Sand",
+        "Item": "",
+        "From": "Chest x46 y-208",
+        "Zone": "Magusas Ancient Watercourse Hidden Passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Protection",
+        "Item": "",
+        "From": "Chest x46 y-208",
+        "Zone": "Magusas Ancient Watercourse Hidden Passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "",
+        "From": "Chest x53 y-214",
+        "Zone": "Magusas Ancient Watercourse Hidden Passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Hematite Sand",
+        "Item": "",
+        "From": "Chest x53 y-214",
+        "Zone": "Magusas Ancient Watercourse Hidden Passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Scroll of Protection",
+        "Item": "",
+        "From": "Chest x53 y-214",
+        "Zone": "Magusas Ancient Watercourse Hidden Passage",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Dragon Hide",
+        "Item": "",
+        "From": "Wyrm Lv 73",
+        "Zone": "Magusas Ancient Watercourse: Wasterwater Processing Site",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Huge Dragon Bone Lump",
+        "Item": "",
+        "From": "Wyrm Lv 73",
+        "Zone": "Magusas Ancient Watercourse: Wasterwater Processing Site",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Azure Dragonscale",
+        "Item": "",
+        "From": "Wyrm Lv 73",
+        "Zone": "Magusas Ancient Watercourse: Wasterwater Processing Site",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Dragon's Inverse Scale",
+        "Item": "",
+        "From": "Wyrm Lv 73",
+        "Zone": "Magusas Ancient Watercourse: Wasterwater Processing Site",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Dragon beard",
+        "Item": "",
+        "From": "Wyrm Lv 73",
+        "Zone": "Magusas Ancient Watercourse: Wasterwater Processing Site",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Long Dragon Beard",
+        "Item": "",
+        "From": "Wyrm Lv 73",
+        "Zone": "Magusas Ancient Watercourse: Wasterwater Processing Site",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Blessed Long Dragon Beard",
+        "Item": "",
+        "From": "Wyrm Lv 73",
+        "Zone": "Magusas Ancient Watercourse: Wasterwater Processing Site",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Twisted Iron Scrap",
+        "Item": "",
+        "From": "Chest x62 y-252",
+        "Zone": "Magusas Ancient Watercourse: Wasterwater Processing Site",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Purification Elixir",
+        "Item": "",
+        "From": "Chest x62 y-252",
+        "Zone": "Magusas Ancient Watercourse: Wasterwater Processing Site",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Twisted Iron Scrap",
+        "Item": "",
+        "From": "Chest x62 y-251",
+        "Zone": "Magusas Ancient Watercourse: Wasterwater Processing Site",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Moon Trinket(Soldier)",
+        "Item": "",
+        "From": "Chests",
+        "Zone": " Dunhain's Hall of Trials",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Unappraised Flower Trinket(Soldier)",
+        "Item": "",
+        "From": "Chest",
+        "Zone": " Dunhain's Hall of Trials",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Onyx",
+        "Item": "",
+        "From": "Chests",
+        "Zone": " Dunhain's Hall of Trials",
+        "Maps": "Phindym"
+    },
+    {
+        "Name": "Agate",
+        "Item": "",
+        "From": "Gather (61,-41)",
+        "Zone": " Dunhain's Hall of Trials",
+        "Maps": "Phindym"
+    }
+]

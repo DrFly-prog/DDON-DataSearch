@@ -1,0 +1,1171 @@
+[
+    {
+        "Name": "Small Horn",
+        "Item": "IR1",
+        "From": "Goblin lv8",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Saurian lv8",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Rock Scale",
+        "Item": "IR6",
+        "From": "Saurian lv8",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "IR6",
+        "From": "Saurian lv8",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Giant Saurian lv8",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Giant Saurian lv8",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Coarse Sand",
+        "Item": "IR2",
+        "From": "Debrees Spot(Hidden Beach)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Polishing Sand",
+        "Item": "IR3",
+        "From": "Debrees Spot(Hidden Beach)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Clear Water",
+        "Item": "IR2",
+        "From": "Water Spot (X109Y269)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "IR6",
+        "From": "Sulfur Saurian lv8 ($)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Sulfur Saurian lv8 ($)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Sulfur Saurian lv8 ($)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Giant Sulfur Saurian lv10",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Giant Sulfur Saurian lv10",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Giant Sulfur Saurian lv10",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Giant Bone",
+        "Item": "IR3",
+        "From": "Armored Cyclops lv15 (X102Y293)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Large Metal Plate",
+        "Item": "IR5",
+        "From": "Armored Cyclops lv15 (X102Y293)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Cyclops Tusk",
+        "Item": "IR5",
+        "From": "Armored Cyclops lv15 (X102Y293)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Giant Apophyllite",
+        "Item": "IR85",
+        "From": "Saurian lv9",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Clear Water",
+        "Item": "IR2",
+        "From": "Water Spot (along the coast)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Clear Water",
+        "Item": "IR2",
+        "From": "Debrees Spot(along the coast)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Clear Water",
+        "Item": "IR2",
+        "From": "Dead Guy(next to shipwreck)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "White Seashell",
+        "Item": "IR2",
+        "From": "Debrees Spot(next to shipwreck)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Coarse Sand",
+        "Item": "IR2",
+        "From": "Debrees Spot(next to shipwreck)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Coarse Sand",
+        "Item": "IR2",
+        "From": "Dragon Carcass(next to shipwreck)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Harpy lv8",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Polishing Sand",
+        "Item": "IR3",
+        "From": "Debrees Spot(Birdcall Rock)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Coarse Sand",
+        "Item": "IR2",
+        "From": "Debrees Spot(Birdcall Rock)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Animal Fur",
+        "Item": "IR1",
+        "From": "Chest(X74Y304)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "White Seashell",
+        "Item": "IR2",
+        "From": "Chest(X74Y304)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "White Liquor",
+        "Item": "IR5",
+        "From": "Rogue Warrior lv8(near shipwreck)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Polishing Sand",
+        "Item": "IR3",
+        "From": "Debrees Spot(near shipwreck)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Bird Feather",
+        "Item": "IR1",
+        "From": "Harpy lv9(near Birdcall Rock Cyclops)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Giant Bone",
+        "Item": "IR3",
+        "From": "Armored Cyclops lv17 (X68Y311)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Large Metal Plate",
+        "Item": "IR5",
+        "From": "Armored Cyclops lv17 (X68Y311)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Small Nut",
+        "Item": "IR2",
+        "From": "Blue Herb Spot(next to cyclops)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Lestania Herb",
+        "Item": "IR2",
+        "From": "Yellow Herb Spot (Behind Lighthouse)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Animal Fur",
+        "Item": "IR1",
+        "From": "Crate(Lighthouse balcony)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Small Fang",
+        "Item": "IR2",
+        "From": "Crate(Lighthouse balcony)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Restorative",
+        "Item": "IR2",
+        "From": "Crate(Lighthouse balcony)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Restorative",
+        "Item": "IR2",
+        "From": "Chest(top of Lighthouse)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Magick Medal",
+        "Item": "IR7",
+        "From": "Golem lv17(near Seaside Cellar)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "HobGoblin lv9-10",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "HobGoblin lv9-10",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "White Seashell",
+        "Item": "IR2",
+        "From": "Chest(X107Y313)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Animal Fur",
+        "Item": "IR1",
+        "From": "Chest(X107Y313)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Brown Wood",
+        "Item": "IR2",
+        "From": "Logging Spot(on hill of Goblin Camp)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Brown Wood",
+        "Item": "IR2",
+        "From": "Logging Spot(near cliffs/Roaring Tide)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Coarse Sand",
+        "Item": "IR2",
+        "From": "Debrees Spot(Blue Claw Beach)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Polishing Sand",
+        "Item": "IR3",
+        "From": "Debrees Spot(Blue Claw Beach)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "White Seashell",
+        "Item": "IR2",
+        "From": "Debrees Spot(Blue Claw Beach)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Peridot",
+        "Item": "IR4",
+        "From": "Chest(ShipwreckX108Y352)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "2x 1000G",
+        "Item": "IRX",
+        "From": "Chests on the same shipwreck",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Brown Wood",
+        "Item": "IR2",
+        "From": "Logging Spot(X108Y338)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Brown Wood",
+        "Item": "IR2",
+        "From": "Logging Spot(X124Y352)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Dragon Hide",
+        "Item": "IR8",
+        "From": "Wyrm lv52(17000XP)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Huge Dragon Bone Lump",
+        "Item": "IR12",
+        "From": "Wyrm lv52(17000XP)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Superior Gala Extract",
+        "Item": "IR3",
+        "From": "Locked Chest(X131Y352)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Iron Ore Fragment",
+        "Item": "IR3",
+        "From": "Locked Chest(X131Y352)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Iron Ore",
+        "Item": "IR4",
+        "From": "Locked Chest(X131Y352)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Filament",
+        "Item": "IR2",
+        "From": "Chest(X128Y346)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Brown Wood",
+        "Item": "IR2",
+        "From": "Logging Spot(Near Wyrm Spawn)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Red Lumber",
+        "Item": "IR4",
+        "From": "Logging Spot(Near Wyrm Spawn)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Slime Liquid",
+        "Item": "IR1",
+        "From": "Slime lv7 (X153 Y298)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Iron Ore",
+        "Item": "IR4",
+        "From": "Rock Saurian lv11-12($)",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:311",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Rock Scale",
+        "Item": "IR6",
+        "From": "Rock Saurian lv11-12($)",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:312",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Superior Saurian Tail",
+        "Item": "IR6",
+        "From": "Rock Saurian lv11-12($)",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:313",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Iron Ore Fragment",
+        "Item": "IR3",
+        "From": "Mining Spot(Up the Ladder)",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:314",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Throwing Rock(150dmg)",
+        "Item": "IR4",
+        "From": "Mining Spot(Up the Ladder)",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:315",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Raw Material (?)",
+        "Item": "IRX",
+        "From": "Mining Spot(Up the Ladder)",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:316",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Strong Viscous Liquid",
+        "Item": "IR4",
+        "From": "Stone Blob lv10",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:317",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Blob Flesh",
+        "Item": "IR9",
+        "From": "Stone Blob lv10",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:318",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Rough Thread",
+        "Item": "IR3",
+        "From": "Locked Chest(X42Y-22)",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:319",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Lead Ore",
+        "Item": "IR2",
+        "From": "Locked Chest(X42Y-22)",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:320",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Agate",
+        "Item": "IR7",
+        "From": "Witch lv15",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:321",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Ruby",
+        "Item": "IR8",
+        "From": "Witch lv15",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:322",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Magickal Potion",
+        "Item": "IR9",
+        "From": "Witch lv15",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:323",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Iron Ore Fragment",
+        "Item": "IR3",
+        "From": "Mining Spot(Witch Room)",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:324",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Throwing Rock(150dmg)",
+        "Item": "IR4",
+        "From": "Mining Spot(Witch Room)",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:325",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Clear Water",
+        "Item": "IR2",
+        "From": "Water Spot(Witch Room)",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:326",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Amethyst",
+        "Item": "IR3",
+        "From": "Chest(Up the second ladderX61Y-32)",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:327",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Iron Ore",
+        "Item": "IR4",
+        "From": "Rock Saurian Spinel lv13",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:328",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Rock Scale",
+        "Item": "IR6",
+        "From": "Rock Saurian Spinel lv13",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:329",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Silken Sand",
+        "Item": "IR3",
+        "From": "Chest(X61Y-44)",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:330",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Green Grass Ring",
+        "Item": "IR1/LV1",
+        "From": "Chest(X61Y-44)",
+        "Zone": "LIGHTHOUSE OLD WELL LV12 X:55 Y:331",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Stagnant Shroom",
+        "Item": "IR3",
+        "From": "Shroom Spot",
+        "Zone": "SEASIDE CELLAR LV14 X:103 Y:304",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Bottled Haste",
+        "Item": "IR2",
+        "From": "Rogue Vocations lv14",
+        "Zone": "SEASIDE CELLAR LV14 X:103 Y:305",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "White Liquor",
+        "Item": "IR5",
+        "From": "Rogue Vocations lv14",
+        "Zone": "SEASIDE CELLAR LV14 X:103 Y:306",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Superior Gala Extract",
+        "Item": "IR3",
+        "From": "Chest",
+        "Zone": "SEASIDE CELLAR LV14 X:103 Y:307",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Lockpick",
+        "Item": "IR1",
+        "From": "Chest",
+        "Zone": "SEASIDE CELLAR LV14 X:103 Y:308",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Blank Scroll",
+        "Item": "IR2",
+        "From": "Table",
+        "Zone": "SEASIDE CELLAR LV14 X:103 Y:309",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Amethyst",
+        "Item": "IR3",
+        "From": "Table",
+        "Zone": "SEASIDE CELLAR LV14 X:103 Y:310",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Small Horn",
+        "Item": "IR1",
+        "From": "Goblins lv30-35",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:327",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Goblins lv30-35",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:328",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Saurian lv33",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:329",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Saurian lv33",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:330",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Saurian lv33",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:331",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Superior Saurian Tail",
+        "Item": "IR6",
+        "From": "Blue Newt lv35",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:332",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Smooth Leather",
+        "Item": "IR7",
+        "From": "Blue Newt lv35",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:333",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Blue Newt lv35",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:334",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "IR6",
+        "From": "Blue Newt lv35",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:335",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Clear Spring Water",
+        "Item": "IR3",
+        "From": "Water Spot(X66Y-34)(next to newt)",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:336",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Healing Drop",
+        "Item": "IR7",
+        "From": "Water Spot(X66Y-34)(next to newt)",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:337",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Spinel",
+        "Item": "IR4",
+        "From": "Locked Chest(X60Y-30)",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:338",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Spun Yarn",
+        "Item": "IR5",
+        "From": "Locked Chest(X60Y-30)",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:339",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Moonglow",
+        "Item": "IR5",
+        "From": "Herb Spot",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:340",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Wild Herb",
+        "Item": "IR3",
+        "From": "Herb Spot",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:341",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Baby Herb",
+        "Item": "IR1",
+        "From": "Herb Spot",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:342",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Demon's Talisman(M UP)",
+        "Item": "IR8",
+        "From": "Chest (1)",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:343",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Hematite",
+        "Item": "IR6",
+        "From": "Mining Spot",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:344",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Mining Spot",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:345",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Harpy lv 31-33",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:346",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Bird Feather",
+        "Item": "IR1",
+        "From": "Harpy lv 31-33",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:347",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Harpy Flight Feather",
+        "Item": "IR6",
+        "From": "Harpy lv 31-33",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:348",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "IR7",
+        "From": "Herb Spot (near the bridge,behind crate)",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:349",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Moonglow",
+        "Item": "IR5",
+        "From": "Herb Spot (near the bridge,behind crate)",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:350",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Throwing Rock(150dmg)",
+        "Item": "IR4",
+        "From": "Mining Spot(X71Y-67)",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:351",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Sapphire",
+        "Item": "IR6",
+        "From": "Green Mining Spots(X52Y-70)",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:352",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Throwing Rock(150dmg)",
+        "Item": "IR4",
+        "From": "Green Mining Spots(X52Y-70)",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:353",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Dragon Hide",
+        "Item": "IR8",
+        "From": "Sea Dragon The Treasure Guardian lv40",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:354",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Water Dragon Fang",
+        "Item": "IR8",
+        "From": "Sea Dragon The Treasure Guardian lv40",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:355",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Clear Spring Water",
+        "Item": "IR3",
+        "From": "Water Spot (Dragons Room)",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:356",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Healing Drop",
+        "Item": "IR7",
+        "From": "Water Spot (Dragons Room)",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:357",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Earrings of Thunder Resist 1",
+        "Item": "IR15/LV1",
+        "From": "Locked Chest(Dragons Room)",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:358",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Broken Dagger",
+        "Item": "IR7",
+        "From": "Locked Chest(Dragons Room)",
+        "Zone": "ROARING TIDE CAVE LV33 X:115 Y:359",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Superior Saurian Tail",
+        "Item": "IR6",
+        "From": "Large Newt lv62",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-33",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Smooth Leather",
+        "Item": "IR7",
+        "From": "Large Newt lv62",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-34",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Large Newt lv62",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-35",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "IR6",
+        "From": "Large Newt lv62",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-36",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Superior Saurian Tail",
+        "Item": "IR6",
+        "From": "Blue Newt lv61",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-37",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Smooth Leather",
+        "Item": "IR7",
+        "From": "Blue Newt lv61",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-38",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Blue Newt lv61",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-39",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "IR6",
+        "From": "Blue Newt lv61",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-40",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Moonglow",
+        "Item": "IR5",
+        "From": "Herb Spot",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-41",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Baby Herb",
+        "Item": "IR1",
+        "From": "Herb Spot",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-42",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Throwing Skull(350dmg)",
+        "Item": "IR5",
+        "From": "Locked Chest(X65Y-205)",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-43",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Giant Fur",
+        "Item": "IR4",
+        "From": "Troll lv61(45000XP)(19K$)(7KRC)",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-44",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Troll's Poisonous Moss",
+        "Item": "IR4",
+        "From": "Troll lv61(45000XP)(19K$)(7KRC)",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-45",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Giant's Horn",
+        "Item": "IR7",
+        "From": "Troll lv61(45000XP)(19K$)(7KRC)",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-46",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Eyedrops",
+        "Item": "IR2",
+        "From": "Chest (end of area)",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-47",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Chest (end of area)",
+        "Zone": "MOLTOVA RUINS: LEFT PATH LV60 X:49 Y:-48",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Slime Liquid",
+        "Item": "IR1",
+        "From": "Electric Slime lv60-61",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-35",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Strong Viscous Liquid",
+        "Item": "IR4",
+        "From": "Electric Slime lv60-61",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-36",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Burial Shroud",
+        "Item": "IR2",
+        "From": "Sword undead lv60",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-37",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Undead Carrion",
+        "Item": "IR1",
+        "From": "Sword undead lv60",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-38",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Undead Extract",
+        "Item": "IR6",
+        "From": "Sword undead lv60",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-39",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Small Thief's Key",
+        "Item": "IR4",
+        "From": "Locked Chest(X56Y-114)",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-40",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Ogre Claw",
+        "Item": "IR6",
+        "From": "Ogre lv59(20000XP)",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-41",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Ogre Fur",
+        "Item": "IR6",
+        "From": "Ogre lv59(20000XP)",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-42",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Necrophagous Bristle",
+        "Item": "IR7",
+        "From": "Ogre lv59(20000XP)",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-43",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Moonglow",
+        "Item": "IR5",
+        "From": "Herb Spot",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-44",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Superior Saurian Tail",
+        "Item": "IR6",
+        "From": "Blue Newt lv60",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-45",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Smooth Leather",
+        "Item": "IR7",
+        "From": "Blue Newt lv60",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-46",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Blue Newt lv60",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-47",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "IR6",
+        "From": "Blue Newt lv60",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-48",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Slime Liquid",
+        "Item": "IR1",
+        "From": "Electric Slime lv60",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-49",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Strong Viscous Liquid",
+        "Item": "IR4",
+        "From": "Electric Slime lv60",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-50",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Bluish Gray Dragonscale",
+        "Item": "IR9",
+        "From": "Lindwurm lv65(38000XP)",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-51",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Water Dragon Fang",
+        "Item": "IR8",
+        "From": "Lindwurm lv65(38000XP)",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-52",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Lindwurm Fin",
+        "Item": "IR8",
+        "From": "Lindwurm lv65(38000XP)",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-53",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Long Dragon Beard",
+        "Item": "IR30",
+        "From": "Lindwurm lv65(38000XP)",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-54",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Blessed Long Dragon Beard",
+        "Item": "IR30",
+        "From": "Lindwurm lv65(38000XP)",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-55",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Dark Metal",
+        "Item": "X50Y-146",
+        "From": "Chest (end of area)",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-56",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Mushroom Sauté",
+        "Item": "X50Y-146",
+        "From": "Chest (end of area)",
+        "Zone": "MOLTOVA RUINS: RIGHT PATH LV60 X:63 Y:-57",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Ogre Fur",
+        "Item": "IR6",
+        "From": "Ogre lv19",
+        "Zone": "BEACH UNDERGROUND STORES LV19 X:121 Y345",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Poison Flask",
+        "Item": "IR3",
+        "From": "Chest",
+        "Zone": "BEACH UNDERGROUND STORES LV19 X:121 Y346",
+        "Maps": "Breya Coast"
+    },
+    {
+        "Name": "Antidote",
+        "Item": "IR2",
+        "From": "Chest",
+        "Zone": "BEACH UNDERGROUND STORES LV19 X:121 Y347",
+        "Maps": "Breya Coast"
+    }
+]

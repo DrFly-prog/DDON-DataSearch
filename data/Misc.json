@@ -1,0 +1,541 @@
+[
+    {
+        "Name": "Green Dye",
+        "Item": "Lv 45",
+        "From": "Ancient Warrior",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Lestania Amber",
+        "Item": "Lv 45",
+        "From": "Ancient Warrior",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Pink Dye",
+        "Item": "Lv 55",
+        "From": "The Lost Order",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Disordering Drop",
+        "Item": "Lv 55",
+        "From": "The Lost Order",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Water of Chaos",
+        "Item": "Lv 55",
+        "From": "The Lost Order",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Yellow Dye",
+        "Item": "Lv 60",
+        "From": "The Dazzling Gold",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Golden Wedge",
+        "Item": "Lv 60",
+        "From": "The Dazzling Gold",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Gold Ritual Instrument",
+        "Item": "Lv 60",
+        "From": "The Dazzling Gold",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Blue Opal",
+        "Item": "Lv 80",
+        "From": "The Dragon Awakened",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Blue Skies Opal",
+        "Item": "Lv 80",
+        "From": "The Dragon Awakened",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Sky Dragons Blue Opal",
+        "Item": "Lv 80",
+        "From": "The Dragon Awakened",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Rare Netherworld Crystal",
+        "Item": "Lv 58",
+        "From": "The Call of Catacombs",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Rare Ancient Crystal",
+        "Item": "Lv 60",
+        "From": "Drawn To Ancient Power",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Rare Greenleaf Crystal",
+        "Item": "Lv 60",
+        "From": "The Ancient City's Legacy",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Rare Golden Crystal",
+        "Item": "Lv 60",
+        "From": "The Shining Gate",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Rare Meteorite Crystal",
+        "Item": "Lv 65/IR 22 Total Gear Lvl",
+        "From": "Agent of Corruption",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Rare Vortex Crystal",
+        "Item": "Lv 70/ IR 37 Total Gear Lvl",
+        "From": "Phantasmic Great Dragon",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Rare Green Tree Crystal",
+        "Item": "Lv 75/ IR 52 Total Gear lvl",
+        "From": "Earth's Fury",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Ocean Crystal",
+        "Item": "Lv 80/ IR 67 Total Gear lvl",
+        "From": "Onset of Darkness",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Central Tree Drop",
+        "Item": "Lv 80/ IR 70 Total Gear lvl",
+        "From": "Phindym War Chronicles",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Book Of Acquisition",
+        "Item": "Lv 70 ",
+        "From": "With the Myrmidons",
+        "Zone": "",
+        "Maps": "EXTREME MISSIONS"
+    },
+    {
+        "Name": "Alchemical Extract",
+        "Item": "Lv 60",
+        "From": "Seeking Alchemical Extract(Morgoda Residential Bldg Upstairs)",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Spectral Dragon Fang",
+        "Item": "Lv 60",
+        "From": "Seeking Alchemical Extract(Morgoda Residential Bldg Upstairs)",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Spectral Dragon Claw",
+        "Item": "Lv 60",
+        "From": "Seeking Alchemical Extract(Morgoda Residential Bldg Upstairs)",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Magick Lion's Large Mane",
+        "Item": "Lv 57",
+        "From": "Perilous Labrinth (Soldier Behind building Zoma Portcrystal)",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Sacred Blessed Cloth",
+        "Item": "Lv 57",
+        "From": "Perilous Labrinth (Soldier Behind building Zoma Portcrystal)",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Pearl Shell",
+        "Item": "Lv 57",
+        "From": "Perilous Labrinth (Soldier Behind building Zoma Portcrystal)",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Demon Arming Points",
+        "Item": "Lv 57",
+        "From": "The Dead Lord's Retainers",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Dark Metal",
+        "Item": "Lv 57",
+        "From": "The Dead Lord's Retainers",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Behemoth Fang",
+        "Item": "Lv 55",
+        "From": "The Attacking Bite",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Thick Dragonscale",
+        "Item": "Lv 55",
+        "From": "The Attacking Bite",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Mergan Cloth",
+        "Item": "Lv 55",
+        "From": "The Attacking Bite",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Magick Gold Ingot",
+        "Item": "Lv 55",
+        "From": "The Shadow That Roams The Dead City",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Alchemized Armor Plate",
+        "Item": "Lv 53",
+        "From": "The Lost Golden Child",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Training Stakes",
+        "Item": "Lv 51",
+        "From": "Separation And Completion",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Shadowy Claw",
+        "Item": "Lv 50",
+        "From": "The Sole Sign",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Glossy Black Feather",
+        "Item": "Lv 48",
+        "From": "The Wings of Darkness",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Smoky Quarts",
+        "Item": "Lv 48",
+        "From": "The Bound Spirit",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Gleipner",
+        "Item": "Lv 47",
+        "From": "The Barren Black Wings",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Cockatrice Poison Gland",
+        "Item": "Lv 47",
+        "From": "The Barren Black Wings",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Black Iron Ingot",
+        "Item": "Lv 47",
+        "From": "The Obstructing Evil Statue",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Shadowy Claw",
+        "Item": "Lv 47",
+        "From": "The Evil draws near",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Spiritual Will Fragment",
+        "Item": "Lv 47",
+        "From": "The Journey to Death",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Protective Cloth",
+        "Item": "Lv 44",
+        "From": "From one thing to another",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Dromi",
+        "Item": "Lv 44",
+        "From": "A Dubious Remedy",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "King Bay Leaf",
+        "Item": "Lv 41",
+        "From": "Lise Lost Property",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Strong Thread",
+        "Item": "Lv 40",
+        "From": "The Residents Of Darkness",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Red Alloy Ingot",
+        "Item": "Lv 39",
+        "From": "The Stolen Treasure",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Red Alloy Ingot",
+        "Item": "Lv 38",
+        "From": "The Lurking Marauders",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Scroll of Great Strength",
+        "Item": "Lv 35",
+        "From": "Urgent Directive! Eliminate the demons to the North",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Courtly Cloth",
+        "Item": "Lv 43",
+        "From": "The Wicked Pursuer",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Ruby",
+        "Item": "Lv 38",
+        "From": "A petty thiefs woes",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Dragon Hide",
+        "Item": "Lv 36",
+        "From": "After That Dragon!",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Bornite Ingot",
+        "Item": "Lv 35",
+        "From": "A Desire to feed",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Lapis Lazuli",
+        "Item": "Lv 35",
+        "From": "The Sleeping Giant",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Red Chromium",
+        "Item": "Lv 30",
+        "From": "The Mysterious Living Treasure",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Drilled Plate Sheet",
+        "Item": "Lv 25",
+        "From": "Trapped in a Nightmare",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "Linen",
+        "Item": "Lv 13",
+        "From": "The Witch of the Forest",
+        "Zone": "",
+        "Maps": "World Quests"
+    },
+    {
+        "Name": "White Shining Sand 2x/3x",
+        "Item": "",
+        "From": "Chest down Reef from Penitentiary portcrystal",
+        "Zone": "",
+        "Maps": "MISC Material Farms"
+    },
+    {
+        "Name": "Exquisite Metal Plate",
+        "Item": "",
+        "From": "Skeleton Lord - Dead Lord Labrinyth",
+        "Zone": "",
+        "Maps": "MISC Material Farms"
+    },
+    {
+        "Name": "Refined Paraffin",
+        "Item": "100k",
+        "From": "Caft Guild Material Shop",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "Quality Attack Upgrade Rock",
+        "Item": "9k ",
+        "From": "Craft Guild Shop Next to Bazaar/or craft yourself",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "Quality Defense Upgrade Rock",
+        "Item": "9k",
+        "From": "Craft Guild Shop Next to Bazaar/or craft yourself",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "Key of Jewlery ",
+        "Item": "5m ",
+        "From": "Ellen Item Shop Before Audience Chamber",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "Key Of Gemstones",
+        "Item": "5m ",
+        "From": "Ellen Item Shop Before Audience Chamber",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "Key of Treasures",
+        "Item": "5m ",
+        "From": "Ellen Item Shop Before Audience Chamber",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "Key of dragon force",
+        "Item": "200k? TBA",
+        "From": "Create at Crafting guild",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "Enlighted Ring Plate",
+        "Item": "250k",
+        "From": "Caft Guild Material Shop",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "Malformed Nut",
+        "Item": "250k",
+        "From": "Caft Guild Material Shop",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "Ancient Sago Palm",
+        "Item": "250k",
+        "From": "Caft Guild Material Shop",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "Aged Green Leaves",
+        "Item": "250k",
+        "From": "Caft Guild Material Shop",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "Soft Soil",
+        "Item": "45k",
+        "From": "Caft Guild Material Shop",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "All Color Dyes ",
+        "Item": "1k Each",
+        "From": "Ellen Item Shop Before Audience Chamber",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "All Healing Items",
+        "Item": "",
+        "From": "Ellen Item Shop Before Audience Chamber",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "Lockpicks",
+        "Item": "900",
+        "From": "Ellen Item Shop Before Audience Chamber",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "Knifes",
+        "Item": "900",
+        "From": "Ellen Item Shop Before Audience Chamber",
+        "Zone": "",
+        "Maps": "Shops"
+    },
+    {
+        "Name": "Pickaxes",
+        "Item": "900",
+        "From": "Ellen Item Shop Before Audience Chamber",
+        "Zone": "",
+        "Maps": "Shops"
+    }
+]

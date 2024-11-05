@@ -1,0 +1,1675 @@
+[
+    {
+        "Name": "Anti-Corruption Medicine",
+        "Item": "",
+        "From": "Any Infected Enemy lv63+",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Demon Wolf's Sinewy Meat",
+        "Item": "",
+        "From": "Severly Infected Warg lv63",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Broken Dagger",
+        "Item": "",
+        "From": "Infected Hobgoblins lv63",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Pixie Mock Wing",
+        "Item": "",
+        "From": "Severly infected Pixie lv63",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corroded Giant Eyeball",
+        "Item": "",
+        "From": "Infected Behemoth lv70(30000XP,50K G,10K RC)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Large Scallop Shell",
+        "Item": "",
+        "From": "Debrees Spot, at the beach",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Quality Gala Mushroom",
+        "Item": "",
+        "From": "Mushroom Spot, near Severly infected Warg",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "High Quality Gala Mushroom",
+        "Item": "",
+        "From": "Mushroom Spot, near Severly infected Warg",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Crystal",
+        "Item": "",
+        "From": "Mining Spots(X50Y100)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Large Scallop Shell",
+        "Item": "",
+        "From": "Mining Spots(X50Y100)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Moonglow",
+        "Item": "",
+        "From": "Gathering spots up a hill (X49Y95)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "",
+        "From": "Gathering spots up a hill (X49Y95)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Large Scallop Shell",
+        "Item": "",
+        "From": "Water Spots, in the middle of the island",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Sparkling Water",
+        "Item": "",
+        "From": "Water Spots, in the middle of the island",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Cedar Wood",
+        "Item": "",
+        "From": "Logging Spots. Near the tower at(X67Y94)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Black Wood",
+        "Item": "",
+        "From": "Logging Spots. Near the tower at(X67Y94)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "BloodBane Isle Precipice",
+        "Item": "",
+        "From": "",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Star Sphere",
+        "Item": "",
+        "From": "Mining Spots x34y75/76",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Emerald",
+        "Item": "",
+        "From": "Mining Spots x34y76",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Alchemic Wood",
+        "Item": "",
+        "From": "Logging Spots",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Gold-Striped Hardwood",
+        "Item": "",
+        "From": "Logging Spots",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Moonglow",
+        "Item": "",
+        "From": "Herb Spots",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Green Seed",
+        "Item": "",
+        "From": "Herb Spots",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "BloodBane Isle Summit",
+        "Item": "",
+        "From": "",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corroded Giant Eyeball",
+        "Item": "",
+        "From": "Infected Gorecyclops lv70(80000XP,55K G,15K RC)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corroded Giant Eyeball",
+        "Item": "",
+        "From": "Infected Behemoth lv70(30000XP,50K G,10K RC)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Severely Infected Griffin LV. 83 (Nightime only) X:58 Y:98",
+        "Item": "",
+        "From": "",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Green Seed",
+        "Item": "",
+        "From": "Herb Spots",
+        "Zone": "FUNGAL COLONY CAVES LV69",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Emerald",
+        "Item": "",
+        "From": "Mining Spots",
+        "Zone": "FUNGAL COLONY CAVES LV70",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Ruby",
+        "Item": "",
+        "From": "Mining Spots",
+        "Zone": "FUNGAL COLONY CAVES LV71",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Sapphire",
+        "Item": "",
+        "From": "Mining Spots",
+        "Zone": "FUNGAL COLONY CAVES LV72",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Special Mushroom Dip",
+        "Item": "",
+        "From": "Mushroom Spot",
+        "Zone": "FUNGAL COLONY CAVES LV73",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "",
+        "From": "Bolt Grimwarg lv68",
+        "Zone": "FUNGAL COLONY CAVES LV74",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Beast Claw",
+        "Item": "",
+        "From": "Bolt Grimwarg lv68",
+        "Zone": "FUNGAL COLONY CAVES LV75",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Beast leather",
+        "Item": "",
+        "From": "Bolt Grimwarg lv68",
+        "Zone": "FUNGAL COLONY CAVES LV76",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Beast's mane",
+        "Item": "",
+        "From": "Bolt Grimwarg lv68",
+        "Zone": "FUNGAL COLONY CAVES LV77",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Demon Beast's Liver",
+        "Item": "",
+        "From": "Bolt Grimwarg lv68",
+        "Zone": "FUNGAL COLONY CAVES LV78",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Giant Fur",
+        "Item": "",
+        "From": "Troll lv68(43000XP, 23K G, 8K RC)",
+        "Zone": "FUNGAL COLONY CAVES LV79",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Troll's Poisonous Moss",
+        "Item": "",
+        "From": "Troll lv68(43000XP, 23K G, 8K RC)",
+        "Zone": "FUNGAL COLONY CAVES LV80",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Giant's Horn",
+        "Item": "",
+        "From": "Troll lv68(43000XP, 23K G, 8K RC)",
+        "Zone": "FUNGAL COLONY CAVES LV81",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corroded Giant Eyeball",
+        "Item": "",
+        "From": "Infected behemoth lv68(34000XP,50K G,10K RC)",
+        "Zone": "FUNGAL COLONY CAVES LV82",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Silver Ingot",
+        "Item": "",
+        "From": "Chests",
+        "Zone": "INFECTED DEN LV56",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Scroll of Power",
+        "Item": "",
+        "From": "Chests",
+        "Zone": "INFECTED DEN LV57",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Blank Scroll",
+        "Item": "",
+        "From": "Chests",
+        "Zone": "INFECTED DEN LV58",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Superior Healing Potion",
+        "Item": "",
+        "From": "Chests",
+        "Zone": "INFECTED DEN LV59",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Throwblast(550DMG)",
+        "Item": "",
+        "From": "Chests",
+        "Zone": "INFECTED DEN LV60",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Gold Ingot",
+        "Item": "",
+        "From": "Chests",
+        "Zone": "INFECTED DEN LV61",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Superior Gala Extract",
+        "Item": "",
+        "From": "Chests",
+        "Zone": "INFECTED DEN LV62",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Wild Herb",
+        "Item": "",
+        "From": "Herb Spot",
+        "Zone": "INFECTED DEN LV63",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Moonglow",
+        "Item": "",
+        "From": "Herb Spot",
+        "Zone": "INFECTED DEN LV64",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Baby Herb",
+        "Item": "",
+        "From": "Herb Spot",
+        "Zone": "INFECTED DEN LV65",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Special Mushroom Dip",
+        "Item": "",
+        "From": "Mushroom Spot",
+        "Zone": "INFECTED DEN LV66",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "High Quality Gala Mushroom",
+        "Item": "",
+        "From": "Mushroom Spot",
+        "Zone": "INFECTED DEN LV67",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Scroll of Darkness",
+        "Item": "",
+        "From": "Chest, behind locked door",
+        "Zone": "INFECTED DEN LV68",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Drómi",
+        "Item": "",
+        "From": "Chest, behind locked door",
+        "Zone": "INFECTED DEN LV69",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Scroll of Protection",
+        "Item": "",
+        "From": "Chest, behind locked door",
+        "Zone": "INFECTED DEN LV70",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Ogre Fur",
+        "Item": "",
+        "From": "Ogre lv56(17000XP)",
+        "Zone": "INFECTED DEN LV71",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Ogre Claw",
+        "Item": "",
+        "From": "Ogre lv56(17000XP)",
+        "Zone": "INFECTED DEN LV72",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Necrophagous Bristle",
+        "Item": "",
+        "From": "Ogre lv56(17000XP)",
+        "Zone": "INFECTED DEN LV73",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corroded Giant Eyeball",
+        "Item": "",
+        "From": "Infected Behemoth lv58(25000XP,50K G,10K RC)",
+        "Zone": "INFECTED DEN LV74",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corroded Giant Eyeball",
+        "Item": "",
+        "From": "Infected Behemoth lv67(43500XP,50K G,10K RC)",
+        "Zone": "INFECTED DEN DEPTHS LV65",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "King Bliaut(LV58)",
+        "Item": "",
+        "From": "Chest, behind locked door",
+        "Zone": "INFECTED DEN DEPTHS LV66",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Healing Elixir",
+        "Item": "",
+        "From": "Chest, behind locked door",
+        "Zone": "INFECTED DEN DEPTHS LV67",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Red Liquor",
+        "Item": "",
+        "From": "Chests(min2,max 5 per run)",
+        "Zone": "PICTURESQUE GROTTO LV60",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Rock Finger",
+        "Item": "",
+        "From": "Chests(Including locked door)(min5, max 13 per run)",
+        "Zone": "PICTURESQUE GROTTO LV61",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Sandcrystal",
+        "Item": "",
+        "From": "Chests(min1,max 5 per run)",
+        "Zone": "PICTURESQUE GROTTO LV62",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Mithril Ingot",
+        "Item": "",
+        "From": "Chests",
+        "Zone": "PICTURESQUE GROTTO LV63",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Black Wood",
+        "Item": "",
+        "From": "Logging Spot",
+        "Zone": "PICTURESQUE GROTTO LV64",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Mithril ore",
+        "Item": "",
+        "From": "Mining Spots",
+        "Zone": "PICTURESQUE GROTTO LV65",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Throwing Rock(150dmg)",
+        "Item": "",
+        "From": "Mining Spots",
+        "Zone": "PICTURESQUE GROTTO LV66",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "",
+        "From": "Grimwarg lv60",
+        "Zone": "PICTURESQUE GROTTO LV67",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Beast Claw",
+        "Item": "",
+        "From": "Grimwarg lv60",
+        "Zone": "PICTURESQUE GROTTO LV68",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Beast Leather",
+        "Item": "",
+        "From": "Grimwarg lv60",
+        "Zone": "PICTURESQUE GROTTO LV69",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Strong Acid Slime Piece",
+        "Item": "",
+        "From": "Aqua Jelly lv60",
+        "Zone": "PICTURESQUE GROTTO LV70",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Highly Viscous Slime Liquid",
+        "Item": "",
+        "From": "Aqua Jelly lv60",
+        "Zone": "PICTURESQUE GROTTO LV71",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Black Tar",
+        "Item": "",
+        "From": "Sludgeman lv60",
+        "Zone": "PICTURESQUE GROTTO LV72",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Strong Viscous Liquid",
+        "Item": "",
+        "From": "Sludgeman lv60",
+        "Zone": "PICTURESQUE GROTTO LV73",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Magick Silt",
+        "Item": "",
+        "From": "Gargoyle lv60",
+        "Zone": "PICTURESQUE GROTTO LV74",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "",
+        "From": "Sulphur Saurian lv60",
+        "Zone": "PICTURESQUE GROTTO LV75",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "",
+        "From": "Sulphur Saurian lv60",
+        "Zone": "PICTURESQUE GROTTO LV76",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "",
+        "From": "Sulphur Saurian lv60",
+        "Zone": "PICTURESQUE GROTTO LV77",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Cockatrice Liquor",
+        "Item": "",
+        "From": "Cockatrice lv62(31000XP)",
+        "Zone": "PICTURESQUE GROTTO LV78",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Cockatrice Poison Gland",
+        "Item": "",
+        "From": "Cockatrice lv62(31000XP)",
+        "Zone": "PICTURESQUE GROTTO LV79",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Two-Edged",
+        "Item": "",
+        "From": "Cockatrice lv62(31000XP)",
+        "Zone": "PICTURESQUE GROTTO LV80",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Crest of Poison Prevention",
+        "Item": "",
+        "From": "Cockatrice lv62(31000XP)",
+        "Zone": "PICTURESQUE GROTTO LV81",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Crest of Sleep Prevention+",
+        "Item": "",
+        "From": "Cockatrice lv62(31000XP)",
+        "Zone": "PICTURESQUE GROTTO LV82",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Cockatrice Raven Pinion",
+        "Item": "",
+        "From": "Cockatrice lv62(31000XP)",
+        "Zone": "PICTURESQUE GROTTO LV83",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Golem Magickal Rock",
+        "Item": "",
+        "From": "Golem lv60(40000XP,30K G, 2,5K RC)*2",
+        "Zone": "PICTURESQUE GROTTO LV84",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Magick Medal",
+        "Item": "",
+        "From": "Golem lv60(40000XP,30K G, 2,5K RC)*2",
+        "Zone": "PICTURESQUE GROTTO LV85",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Black Ore",
+        "Item": "",
+        "From": "Golem lv60(40000XP,30K G, 2,5K RC)*2",
+        "Zone": "PICTURESQUE GROTTO LV86",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Stone Arm ",
+        "Item": "",
+        "From": "",
+        "Zone": "PICTURESQUE GROTTO LV86",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Stalactite Tip",
+        "Item": "",
+        "From": "Chests(minimum 2, maximum 7 per run)",
+        "Zone": "INFECTED DEN: INNERMOST DEPTHS LV65",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Luminescent Stalactite",
+        "Item": "",
+        "From": "Chests(minimum 3, maximum 7 per run)",
+        "Zone": "INFECTED DEN: INNERMOST DEPTHS LV66",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Sinister Black Cloth",
+        "Item": "",
+        "From": "Chests(minimum 1, maximum 6 per run)",
+        "Zone": "INFECTED DEN: INNERMOST DEPTHS LV67",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Iron Thread",
+        "Item": "",
+        "From": "Chests(minimum 2, maximum 5 per run)",
+        "Zone": "INFECTED DEN: INNERMOST DEPTHS LV68",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Black Wood",
+        "Item": "",
+        "From": "Logging Spots(min2,max4 per run)",
+        "Zone": "INFECTED DEN: INNERMOST DEPTHS LV69",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corroded Giant Eyeball",
+        "Item": "",
+        "From": "Infected Gorecyclops lv65(42000XP,55K G,15K RC)",
+        "Zone": "INFECTED DEN: INNERMOST DEPTHS LV70",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Discolored Spore-covered Feather",
+        "Item": "",
+        "From": "Infected Griffin lv66(43500XP,60K G,2K RC)",
+        "Zone": "INFECTED DEN: INNERMOST DEPTHS LV71",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Bluecurrant",
+        "Item": "",
+        "From": "Herb Spot(min6, max12 per run)",
+        "Zone": "CESSPOOL OF FILTH LV60",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Northern Oregano",
+        "Item": "",
+        "From": "Herb Spot(min2, max10 per run)",
+        "Zone": "CESSPOOL OF FILTH LV61",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Sinister Black Cloth",
+        "Item": "",
+        "From": "Chests(min1, max5 per run)",
+        "Zone": "CESSPOOL OF FILTH LV62",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Black Gunpowder",
+        "Item": "",
+        "From": "Chest(Locked door)(min2, max5 per run)",
+        "Zone": "CESSPOOL OF FILTH LV63",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Saltpetre Chunk",
+        "Item": "",
+        "From": "Chest(Locked door)(min3, max8 per run)",
+        "Zone": "CESSPOOL OF FILTH LV64",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Blow-Resistant Cloth",
+        "Item": "",
+        "From": "Chests",
+        "Zone": "CESSPOOL OF FILTH LV65",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Scroll Of Great Strength",
+        "Item": "",
+        "From": "Chests",
+        "Zone": "CESSPOOL OF FILTH LV67",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Smooth Leather",
+        "Item": "",
+        "From": "Blue Newt lv60",
+        "Zone": "CESSPOOL OF FILTH LV68",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "",
+        "From": "Blue Newt lv60",
+        "Zone": "CESSPOOL OF FILTH LV71",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "",
+        "From": "Blue Newt lv60",
+        "Zone": "CESSPOOL OF FILTH LV72",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Riftstone Shard (EX RARE)",
+        "Item": "",
+        "From": "Maneater lv60",
+        "Zone": "CESSPOOL OF FILTH LV73",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Beast's mane",
+        "Item": "",
+        "From": "Chimera lv60(35000XP)",
+        "Zone": "CESSPOOL OF FILTH LV74",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Strong Lizardscale Pelt",
+        "Item": "",
+        "From": "Chimera lv60(35000XP)",
+        "Zone": "CESSPOOL OF FILTH LV75",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Mutated Bone Lump",
+        "Item": "",
+        "From": "Chimera lv60(35000XP)",
+        "Zone": "CESSPOOL OF FILTH LV76",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Goat Horn",
+        "Item": "",
+        "From": "Chimera lv60(35000XP)",
+        "Zone": "CESSPOOL OF FILTH LV77",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Fiend's Helmet(LV32)",
+        "Item": "",
+        "From": "Chimera lv60(35000XP)",
+        "Zone": "CESSPOOL OF FILTH LV78",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Scroll of Thunder",
+        "Item": "",
+        "From": "Bolt Skeleton lv60",
+        "Zone": "CESSPOOL OF FILTH LV79",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corroded Giant Eyeball",
+        "Item": "",
+        "From": "Infected GorecyclopsLV60(40000XP,55K G,15K RC)",
+        "Zone": "CESSPOOL OF FILTH LV80",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Vision Quartz",
+        "Item": "",
+        "From": "Chests(locked door)(min0, max 2 per run)",
+        "Zone": "WATERFALL ECHO CAVERN LV68",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Stone Bouquet",
+        "Item": "",
+        "From": "Chests(locked door)(min1, max 5 per run)",
+        "Zone": "WATERFALL ECHO CAVERN LV69",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Phyton Liquid",
+        "Item": "",
+        "From": "Chests(locked door)(min3, max 7 per run)",
+        "Zone": "WATERFALL ECHO CAVERN LV70",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Superior Healing Potion",
+        "Item": "",
+        "From": "Chests(locked door)",
+        "Zone": "WATERFALL ECHO CAVERN LV71",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Large Pill of Savages",
+        "Item": "",
+        "From": "Chests(locked door)",
+        "Zone": "WATERFALL ECHO CAVERN LV72",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Demon Wolf's Sinewy Meat",
+        "Item": "",
+        "From": "Severly Infected Warg lv69",
+        "Zone": "WATERFALL ECHO CAVERN LV73",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "",
+        "From": "Bolt Grimwarg lv68",
+        "Zone": "WATERFALL ECHO CAVERN LV74",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Beast Claw",
+        "Item": "",
+        "From": "Bolt Grimwarg lv68",
+        "Zone": "WATERFALL ECHO CAVERN LV75",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Beast leather",
+        "Item": "",
+        "From": "Bolt Grimwarg lv68",
+        "Zone": "WATERFALL ECHO CAVERN LV76",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Beast's mane",
+        "Item": "",
+        "From": "Bolt Grimwarg lv68",
+        "Zone": "WATERFALL ECHO CAVERN LV77",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Demon Beast's Liver",
+        "Item": "",
+        "From": "Bolt Grimwarg lv68",
+        "Zone": "WATERFALL ECHO CAVERN LV78",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corroded Giant Eyeball",
+        "Item": "",
+        "From": "Infected Behemoth lv70(30000XP, 50K G, 10K RC)",
+        "Zone": "WATERFALL ECHO CAVERN LV79",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Beast's mane",
+        "Item": "",
+        "From": "Chimera lv68(45000XP)",
+        "Zone": "WATERFALL ECHO CAVERN LV80",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Strong Lizardscale Pelt",
+        "Item": "",
+        "From": "Chimera lv68(45000XP)",
+        "Zone": "WATERFALL ECHO CAVERN LV81",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Mutated Bone Lump",
+        "Item": "",
+        "From": "Chimera lv68(45000XP)",
+        "Zone": "WATERFALL ECHO CAVERN LV82",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Goat Horn",
+        "Item": "",
+        "From": "Chimera lv68(45000XP)",
+        "Zone": "WATERFALL ECHO CAVERN LV83",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Fiend's Helmet(LV32)",
+        "Item": "",
+        "From": "Chimera lv68(45000XP)",
+        "Zone": "WATERFALL ECHO CAVERN LV84",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Sharp Claw",
+        "Item": "",
+        "From": "Ghoul lv68(50000XP)",
+        "Zone": "WATERFALL ECHO CAVERN LV85",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corpse-Eater's Horn",
+        "Item": "",
+        "From": "Ghoul lv68(50000XP)",
+        "Zone": "WATERFALL ECHO CAVERN LV86",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Mystery Organs",
+        "Item": "",
+        "From": "Ghoul lv68(50000XP)",
+        "Zone": "WATERFALL ECHO CAVERN LV87",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Blob Flesh",
+        "Item": "",
+        "From": "Acid Blob lv68",
+        "Zone": "WATERFALL ECHO CAVERN LV88",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corroded Giant Eyeball",
+        "Item": "",
+        "From": "Infected Gorecyclops lv68(55000XP,55K G,15K RC)",
+        "Zone": "WATERFALL ECHO CAVERN LV89",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Pebble Bud",
+        "Item": "",
+        "From": "chests(min5, max 12per run)",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y73",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Gleipnir",
+        "Item": "",
+        "From": "Chest(locked door)",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y74",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Demon Thread",
+        "Item": "",
+        "From": "Chest(min1, max6 per run)",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y75",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Lapis Lazuli",
+        "Item": "",
+        "From": "Lapis Eye lv65",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y76",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Fluorite",
+        "Item": "",
+        "From": "Lapis Eye lv65",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y77",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Eye Gem",
+        "Item": "",
+        "From": "Lapis Eye lv65",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y78",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Discolored Spore-covered Feather",
+        "Item": "",
+        "From": "Infected Griffin lv67(42000XP,60K GOLD,2K RC)",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y79",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Strong Acid Slime Piece",
+        "Item": "",
+        "From": "Aqua Jelly lv60",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y80",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Highly Viscous Slime Liquid",
+        "Item": "",
+        "From": "Aqua Jelly lv60",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y81",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Water Dragon Fang",
+        "Item": "",
+        "From": "Lindwurm lv65(42000XP)lv67(43500XP)",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y82",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Dragon Hide",
+        "Item": "",
+        "From": "Lindwurm lv65(42000XP)lv67(43500XP)",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y83",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Bluish Gray Dragonscale",
+        "Item": "",
+        "From": "Lindwurm lv65(42000XP)lv67(43500XP)",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y84",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Lindwurm Fin",
+        "Item": "",
+        "From": "Lindwurm lv65(42000XP)lv67(43500XP)",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y85",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Dragon Beard",
+        "Item": "",
+        "From": "Lindwurm lv65(42000XP)lv67(43500XP)",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y86",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Long Dragon Beard",
+        "Item": "",
+        "From": "Lindwurm lv65(42000XP)lv67(43500XP)",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y87",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Blessed Long Dragon Beard",
+        "Item": "",
+        "From": "Lindwurm lv65(42000XP)lv67(43500XP)",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y88",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Fluorite Earrings EX rare",
+        "Item": "",
+        "From": "Lapis Eye lv65",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE LV65x48y89",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Infected Griffin lv 67(42000XP)",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE:Hall LV65",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Pebble Bud",
+        "Item": "",
+        "From": "chest x44 y-66 (random 1~5) per run",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE:Hall LV65",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Pebble Bud",
+        "Item": "",
+        "From": "chest x57 y-149",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE:Ore Path LV65",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Pebble Bud",
+        "Item": "",
+        "From": "chests x64 y-249,x36 y-248,x43 y-257 (min1, max5)",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE:LIMESTONE CAVE LV65",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "",
+        "Item": "",
+        "From": "Lindwurm lv67(43500XP)",
+        "Zone": "THE TUNNEL ACROSS THE BRIDGE:LIMESTONE CAVE LV65",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corroded Giant Eyeball",
+        "Item": "",
+        "From": "Infected Gorecyclops lv65(40000XP,55K G, 15K RC)",
+        "Zone": "DANGEROUS AREA LV65",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Silver Moss",
+        "Item": "",
+        "From": "Chest(min0, max1 per run)",
+        "Zone": "DRIED WELL BY THE TOWER LV63",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Luminescent Silver Moss",
+        "Item": "",
+        "From": "End Chest at X43Y-45",
+        "Zone": "DRIED WELL BY THE TOWER LV64",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "DRIED WELL BY THE TOWER LV65",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Scroll of Magickal Defense",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "DRIED WELL BY THE TOWER LV66",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Hematite",
+        "Item": "",
+        "From": "Mining Spots",
+        "Zone": "DRIED WELL BY THE TOWER LV67",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Amethyst",
+        "Item": "",
+        "From": "Mining Spots",
+        "Zone": "DRIED WELL BY THE TOWER LV68",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Lapis Lazuli",
+        "Item": "",
+        "From": "Mining Spots",
+        "Zone": "DRIED WELL BY THE TOWER LV69",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Sapphire",
+        "Item": "",
+        "From": "Mining Spots",
+        "Zone": "DRIED WELL BY THE TOWER LV70",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corroded Giant Eyeball",
+        "Item": "",
+        "From": "Infected Gorecyclops lv63(40000XP,55K G,15K RC)",
+        "Zone": "DRIED WELL BY THE TOWER LV71",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Marbled Beast-Steak",
+        "Item": "",
+        "From": "Eliminator lv63(30000XP)",
+        "Zone": "DRIED WELL BY THE TOWER LV72",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Gala Extract",
+        "Item": "",
+        "From": "Eliminator lv63(30000XP)",
+        "Zone": "DRIED WELL BY THE TOWER LV73",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Superior Healing Potion",
+        "Item": "",
+        "From": "Eliminator lv63(30000XP)",
+        "Zone": "DRIED WELL BY THE TOWER LV74",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Iron Ore, Drómi",
+        "Item": "",
+        "From": "Locked Chest at X60 Y-57",
+        "Zone": "DRIED WELL BY THE TOWER LV75",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Silver Moss",
+        "Item": "",
+        "From": "End Chest at X43Y-45",
+        "Zone": "DRIED WELL BY THE TOWER LV76",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Silver Moss",
+        "Item": "",
+        "From": "End Chest at X42Y-45",
+        "Zone": "DRIED WELL BY THE TOWER LV77",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Giant Caterpillar",
+        "Item": "",
+        "From": "Chest (amaount: 1-2)",
+        "Zone": "SAGE TOWER RUINS LV93",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corrupted Sealer Stone",
+        "Item": "",
+        "From": " 50/50 Dropchance ",
+        "Zone": "SAGE TOWER RUINS LV94",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": " Rose Magadosys",
+        "Item": "",
+        "From": "Chest",
+        "Zone": "SAGE TOWER RUINS LV95",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Iron Ore",
+        "Item": "",
+        "From": "Mining Spots,Chests",
+        "Zone": "SUNLIT UNDERGROUND CAVE LV63",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Black Ore",
+        "Item": "",
+        "From": "Mining Spots(min1, max5 per run)",
+        "Zone": "SUNLIT UNDERGROUND CAVE LV64",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Black Iron Ingot",
+        "Item": "",
+        "From": "Chests(min0, max4 per run)",
+        "Zone": "SUNLIT UNDERGROUND CAVE LV65",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Stagnant Shroom",
+        "Item": "",
+        "From": "Mushroom Spots",
+        "Zone": "SUNLIT UNDERGROUND CAVE LV66",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Coconut-Scented Milkcap",
+        "Item": "",
+        "From": "Mushroom Spots",
+        "Zone": "SUNLIT UNDERGROUND CAVE LV67",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corroded Giant Eyeball",
+        "Item": "",
+        "From": "Infected Gorecyclops lv63(40000XP, 55K G,15K RC)",
+        "Zone": "SUNLIT UNDERGROUND CAVE LV68",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corroded Giant Eyeball",
+        "Item": "",
+        "From": "Infected Behemoth lv63(25000XP, 50K G, 10K RC)",
+        "Zone": "SUNLIT UNDERGROUND CAVE LV69",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "White Shining Sand",
+        "Item": "",
+        "From": "Chests",
+        "Zone": "FRIGID ANCIENT PASSAGE LV60",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Strong Thread",
+        "Item": "",
+        "From": "Chests",
+        "Zone": "FRIGID ANCIENT PASSAGE LV61",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Ice Cube Fragment",
+        "Item": "",
+        "From": "Chests(min1, max7 per run)",
+        "Zone": "FRIGID ANCIENT PASSAGE LV62",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Ice Cube",
+        "Item": "",
+        "From": "Chests(min1, max2 per run)",
+        "Zone": "FRIGID ANCIENT PASSAGE LV63",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Gold Ore",
+        "Item": "",
+        "From": "Mining Spot",
+        "Zone": "FRIGID ANCIENT PASSAGE LV64",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Throwing Rock(150dmg)",
+        "Item": "",
+        "From": "Mining Spot",
+        "Zone": "FRIGID ANCIENT PASSAGE LV65",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Gold Ingot",
+        "Item": "",
+        "From": "Chests(always1)",
+        "Zone": "FRIGID ANCIENT PASSAGE LV67",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Energy Liquid",
+        "Item": "",
+        "From": "Water Spot(min2, max5 per run)",
+        "Zone": "FRIGID ANCIENT PASSAGE LV68",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Strong Acid Slime Piece",
+        "Item": "",
+        "From": "Aqua Jelly lv60",
+        "Zone": "FRIGID ANCIENT PASSAGE LV71",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Highly Viscous Slime Liquid",
+        "Item": "",
+        "From": "Aqua Jelly lv60",
+        "Zone": "FRIGID ANCIENT PASSAGE LV72",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Undead Nail Shaving",
+        "Item": "",
+        "From": "Frost Skeleton lv60",
+        "Zone": "FRIGID ANCIENT PASSAGE LV73",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Scroll of Ice",
+        "Item": "",
+        "From": "Frost Skeleton lv60",
+        "Zone": "FRIGID ANCIENT PASSAGE LV74",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "",
+        "From": "Frost Skeleton lv60",
+        "Zone": "FRIGID ANCIENT PASSAGE LV75",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Bone Meal",
+        "Item": "",
+        "From": "Frost Skeleton Brute lv61",
+        "Zone": "FRIGID ANCIENT PASSAGE LV76",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Riftstone Shard (EX RARE)",
+        "Item": "",
+        "From": "Maneater lv60",
+        "Zone": "FRIGID ANCIENT PASSAGE LV77",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Sharp Claw",
+        "Item": "",
+        "From": "Ghoul lv63(31500XP)",
+        "Zone": "FRIGID ANCIENT PASSAGE LV78",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corpse-Eater's Horn",
+        "Item": "",
+        "From": "Ghoul lv63(31500XP)",
+        "Zone": "FRIGID ANCIENT PASSAGE LV79",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Mystery Organs",
+        "Item": "",
+        "From": "Ghoul lv63(31500XP)",
+        "Zone": "FRIGID ANCIENT PASSAGE LV80",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Sinister Carrion",
+        "Item": "",
+        "From": "Frost Corpse Punisher/Torturer lv60",
+        "Zone": "FRIGID ANCIENT PASSAGE LV81",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Rusted Plate",
+        "Item": "",
+        "From": "Frost Corpse Punisher/Torturer lv60",
+        "Zone": "FRIGID ANCIENT PASSAGE LV82",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Scroll of Ice",
+        "Item": "",
+        "From": "Frost Corpse Punisher/Torturer lv60",
+        "Zone": "FRIGID ANCIENT PASSAGE LV83",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Eye Gem",
+        "Item": "",
+        "From": "Crystal Eye lv60/lv63",
+        "Zone": "FRIGID ANCIENT PASSAGE LV84",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Crystal",
+        "Item": "",
+        "From": "Crystal Eye lv60/lv63",
+        "Zone": "FRIGID ANCIENT PASSAGE LV85",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Rainbow Eye Gem",
+        "Item": "",
+        "From": "Crystal Eye lv60/lv63",
+        "Zone": "FRIGID ANCIENT PASSAGE LV86",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Magick-Tinged Bone",
+        "Item": "",
+        "From": "Wight lv64(35000XP)",
+        "Zone": "FRIGID ANCIENT PASSAGE LV87",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Orb of Darkness",
+        "Item": "",
+        "From": "Wight lv64(35000XP)",
+        "Zone": "FRIGID ANCIENT PASSAGE LV88",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Black Skull",
+        "Item": "",
+        "From": "Wight lv64(35000XP)",
+        "Zone": "FRIGID ANCIENT PASSAGE LV89",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Giant Bone",
+        "Item": "",
+        "From": "Frost Skeleton Cyclops lv65(38000XP)",
+        "Zone": "FRIGID ANCIENT PASSAGE LV90",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Cyclops Tusk",
+        "Item": "",
+        "From": "Frost Skeleton Cyclops lv65(38000XP)",
+        "Zone": "FRIGID ANCIENT PASSAGE LV91",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Bone Meal",
+        "Item": "",
+        "From": "Frost Skeleton Cyclops lv65(38000XP)",
+        "Zone": "FRIGID ANCIENT PASSAGE LV92",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Grimoire Scrap",
+        "Item": "",
+        "From": "Chests(min0, max3 per run)",
+        "Zone": "CRYPT OF MURMURS LV63",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Clear Water",
+        "Item": "",
+        "From": "Water Spot",
+        "Zone": "CRYPT OF MURMURS LV64",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "",
+        "From": "Mining Spot",
+        "Zone": "CRYPT OF MURMURS LV65",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Black Iron Ingot",
+        "Item": "",
+        "From": "Chests,Final chest(min2, max 7 per run)",
+        "Zone": "CRYPT OF MURMURS LV66",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Black Wood",
+        "Item": "",
+        "From": "Chests(always1)",
+        "Zone": "CRYPT OF MURMURS LV67",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Moonlight Mushroom",
+        "Item": "",
+        "From": "Mushroom Spots(min2, max 5 per run)",
+        "Zone": "CRYPT OF MURMURS LV68",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Special Mushroom Dip",
+        "Item": "",
+        "From": "Final Chest",
+        "Zone": "CRYPT OF MURMURS LV69",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Gala Pickling Liquor",
+        "Item": "",
+        "From": "Final Chest",
+        "Zone": "CRYPT OF MURMURS LV70",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Corroded Giant Eyeball",
+        "Item": "",
+        "From": "Infected Gorecyclops lv63(40000XP, 55K G,15K RC)",
+        "Zone": "CRYPT OF MURMURS LV71",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "",
+        "From": "Saurian Sage lv63",
+        "Zone": "CRYPT OF MURMURS LV72",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "",
+        "From": "Saurian Sage lv63",
+        "Zone": "CRYPT OF MURMURS LV73",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Riftstone Shard (EX RARE)",
+        "Item": "",
+        "From": "Maneater lv63",
+        "Zone": "CRYPT OF MURMURS LV74",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Blob Flesh",
+        "Item": "",
+        "From": "Acid Blob lv63",
+        "Zone": "CRYPT OF MURMURS LV75",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Superior Healing potion",
+        "Item": "",
+        "From": "Ghost Mail lv63",
+        "Zone": "CRYPT OF MURMURS LV76",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "White Dragon Gala Extract",
+        "Item": "",
+        "From": "Ghost Mail lv63",
+        "Zone": "CRYPT OF MURMURS LV77",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "",
+        "From": "Ghost Mail lv63",
+        "Zone": "CRYPT OF MURMURS LV78",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Spiritual Will Fragment",
+        "Item": "",
+        "From": "Ghost Mail lv63",
+        "Zone": "CRYPT OF MURMURS LV79",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Cursed Letter",
+        "Item": "",
+        "From": "Ghost Mail lv63",
+        "Zone": "CRYPT OF MURMURS LV80",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Discolored Spore-covered Feather",
+        "Item": "",
+        "From": "Infected Griffin lv63(42000XP,60K G,2K RC)",
+        "Zone": "CRYPT OF MURMURS LV81",
+        "Maps": "Bloodbane Isle"
+    },
+    {
+        "Name": "Grimoire Scrap",
+        "Item": "",
+        "From": "x51 y-69,x42 y-43",
+        "Zone": "CRYPT OF MURMURS LV82",
+        "Maps": "Bloodbane Isle"
+    }
+]
