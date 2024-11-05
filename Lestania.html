@@ -66,28 +66,26 @@
 </div>
 
 <!-- Script de zoom et navigation -->
-<script src="https://unpkg.com/@panzoom/panzoom@9.4.0/dist/panzoom.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@panzoom/panzoom@4.4.0/dist/panzoom.min.js"></script>
 <script>
-    // Initialisation de panzoom
+    // Initialisation de Panzoom
     const image = document.getElementById("fullscreen-image");
     const panzoom = Panzoom(image, { maxScale: 5 });
 
-    // Fonction de zoom avant
+    // Fonctions de zoom
     function zoomIn() {
         panzoom.zoomIn();
     }
 
-    // Fonction de zoom arrière
     function zoomOut() {
         panzoom.zoomOut();
     }
 
-    // Fonction de réinitialisation du zoom
     function resetZoom() {
         panzoom.reset();
     }
 
-    // Activer le déplacement en maintenant la souris enfoncée
+    // Activer le zoom avec la molette de la souris
     image.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
 </script>
 
