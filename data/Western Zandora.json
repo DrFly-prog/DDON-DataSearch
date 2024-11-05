@@ -1,0 +1,1143 @@
+[
+    {
+        "Name": "Transmuted Fur",
+        "Item": "IR10",
+        "From": "Damned Wolf lvl 45",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Chipped Gold Lump",
+        "Item": "IR10",
+        "From": "Damned Wolf lvl 45",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Cracked Black Horn",
+        "Item": "IR10",
+        "From": "Damned Goblin lvl 45",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Yellow Thyme",
+        "Item": "IR5",
+        "From": "Flower Spot (X274 Y92)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Zandoratalis ",
+        "Item": "IR 10",
+        "From": "Flower Spot (X275 Y93)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Orc Bringer lvl 44",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Orc Bringer lvl 44",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Orcish Cloth",
+        "Item": "IR7",
+        "From": "Orc Bringer lvl 44",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "Captain Orc lvl 46",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Orc Decoration",
+        "Item": "IR9",
+        "From": "Captain Orc lvl 46",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "Orc Tropper lvl 44",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "Orc Aimer lvl 44",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Orc Soldier lvl 44",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Orc Soldier lvl 44",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Orc's War Tusk",
+        "Item": "IR7",
+        "From": "Orc General lvl 46",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Pigeon Blood",
+        "Item": "IR9",
+        "From": "Orc General lvl 46",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Pearl Mushroom",
+        "Item": "IR9",
+        "From": "Mushroom Spot (X264 Y110)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "High Quality Gala Mushroom",
+        "Item": "IR7",
+        "From": "Mushroom Spot (X264 Y110)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Chipped Gold Lump",
+        "Item": "IR10",
+        "From": "Damned Goblin Fighter lvl 45",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Black Wood",
+        "Item": "IR9",
+        "From": "Wood Spot (X276 Y85)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Gold-Striped Hard Wood",
+        "Item": "IR10",
+        "From": "Wood Spot (X276 Y85)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Mining Spot (X279 Y81)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Alchemized Goblin lvl 46",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Alchemized Goblin lvl 46",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Alchemized Skeleton lvl 46",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Magick-Tinged Bone",
+        "Item": "IR5",
+        "From": "Skeleton Sorcerer lvl 46",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Ancient Grimoire",
+        "Item": "IR7",
+        "From": "Skeleton Sorcerer lvl 46",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Blank Scroll",
+        "Item": "IR2",
+        "From": "Skeleton Sorcerer lvl 46",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Sequoia Wood",
+        "Item": "IR8",
+        "From": "Wood Spot (X330 Y87)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Alchemized Harpy lvl 46",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "White Liquor",
+        "Item": "IR5",
+        "From": "Banded Fighter lvl 46",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Drilled Ore",
+        "Item": "IR5",
+        "From": "Mining Spot (X311 Y91)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Gold Ore",
+        "Item": "IR9",
+        "From": "Mining Spot (X311 Y91)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Blob Flesh",
+        "Item": "IR9",
+        "From": "Blob lvl 1",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Strong Viscous Liquid",
+        "Item": "IR4",
+        "From": "Blob lvl 1",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Mining Spot (X299 Y88)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Drilled Ore",
+        "Item": "IR5",
+        "From": "Mining Spot (X299 Y88)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Monster Gallstone",
+        "Item": "IR4",
+        "From": "Gathering Spot (X304 Y92)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Gathering Spot (X304 Y92)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Blob Flesh",
+        "Item": "IR9",
+        "From": "Blob lvl 1",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Blue Currant",
+        "Item": "IR8",
+        "From": "Flower Spot (X314 Y82)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Zandoratalis ",
+        "Item": "IR10",
+        "From": "Flower Spot (X314 Y82)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Blue Currant",
+        "Item": "IR8",
+        "From": "Flower Spot (X316 Y83)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Blue Flower",
+        "Item": "IR7",
+        "From": "Flower Spot (X316 Y83)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Pearl Mushroom",
+        "Item": "",
+        "From": "Mushroom Spot (X239Y95",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Pearl Mushroom",
+        "Item": "",
+        "From": "Mushroom Spot X236Y95",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Gold Ore",
+        "Item": "IR9",
+        "From": "Mining Spot (X334 Y90)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Mining Spot (X334 Y90)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Gold Ore",
+        "Item": "IR9",
+        "From": "Mining Spot (X339 Y83)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Steadfast Ring",
+        "Item": "IR10",
+        "From": "Chest (X300 Y76)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Drilled Ore",
+        "Item": "IR5",
+        "From": "Mining Spot (X294 Y52)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Mining Spot (X294 Y52)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Griffin Beak",
+        "Item": "IR6",
+        "From": "Alchemized Griffin lvl 49",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Alchemized Armor Plate",
+        "Item": "IR11",
+        "From": "Alchemized Griffin lvl 49",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Bright Gold Feather",
+        "Item": "IR11",
+        "From": "Alchemized Griffin lvl 49",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Hard Wood",
+        "Item": "IR3",
+        "From": "Wood Spot (X297 Y42)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Alchemic Wood",
+        "Item": "IR11",
+        "From": "Wood Spot (X297 Y42)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "IR6",
+        "From": "Saurian Sage lvl 48",
+        "Zone": "Sage's Old Well lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Giant Saurian lvl 48",
+        "Zone": "Sage's Old Well lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Giant Saurian lvl 48",
+        "Zone": "Sage's Old Well lvl 50",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Slime Liquid",
+        "Item": "IR1",
+        "From": "Slime lvl 40",
+        "Zone": "Sage's Old Well lvl 51",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Strong Viscious Liquid",
+        "Item": "IR4",
+        "From": "Slime lvl 40",
+        "Zone": "Sage's Old Well lvl 52",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Black Ore",
+        "Item": "IR10",
+        "From": "Mining Spot (X58 Y-27)",
+        "Zone": "Sage's Old Well lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "IR6",
+        "From": "Giant Saurian Sage lvl 48",
+        "Zone": "Sage's Old Well lvl 54",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Giant Saurian Sage lvl 48",
+        "Zone": "Sage's Old Well lvl 55",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Blank Scroll",
+        "Item": "IR2",
+        "From": "Chest (X61 Y-13)",
+        "Zone": "Sage's Old Well lvl 56",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Transmuted Fur",
+        "Item": "IR10",
+        "From": "Damned Wolf lvl 53",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Chipped Gold Lump",
+        "Item": "IR10",
+        "From": "Damned Goblin lvl 53",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Cracked Black Horn",
+        "Item": "IR10",
+        "From": "Damned Goblin lvl 53",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Magick-Tinged Bone",
+        "Item": "IR5",
+        "From": "Gather Spot (X64 Y-27)",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "White Shining Sand",
+        "Item": "IR8",
+        "From": "Gather Spot (X64 Y-27)",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Mining Spot (X47 Y40)",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Sandcrystal ",
+        "Item": "IR9",
+        "From": "Chest (X46 Y-50)",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Lava Rock",
+        "Item": "IR8",
+        "From": "Geo Saurian lvl 54",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Rock Scale",
+        "Item": "IR6",
+        "From": "Geo Saurian lvl 54",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Superior Saurian Tail",
+        "Item": "IR6",
+        "From": "Geo Saurian lvl 54",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Black Ore",
+        "Item": "IR10",
+        "From": "Mining Spot (X57 Y-93)",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Scroll of Sorcery",
+        "Item": "IR4",
+        "From": "Gather Spot (X44 Y-93)",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Emerald",
+        "Item": "IR9",
+        "From": "Chest (X61 Y-168)",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Giant Saurian Sage lvl 55",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Strong Lizardscale Pelt",
+        "Item": "IR6",
+        "From": "Giant Saurian Sage lvl 55",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "IR6",
+        "From": "Giant Saurian Sage lvl 55",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Saurian Sage lvl 48",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Saurian Gland",
+        "Item": "IR6",
+        "From": "Saurian Sage lvl 48",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Mithril Ore",
+        "Item": "IR9",
+        "From": "Chest (X54 Y-200)",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Mithril Ingot",
+        "Item": "IR9",
+        "From": "Chest (X54 Y-200)",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Giant Bone",
+        "Item": "IR3",
+        "From": "Gather Spot (X64 Y-221)",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "White Shining Sand",
+        "Item": "IR8",
+        "From": "Gather Spot (X64 Y-221)",
+        "Zone": "Mergoda Flood Channels lvl 53",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "White Liquor",
+        "Item": "IR5",
+        "From": "Banded Fighter lvl 48",
+        "Zone": "Ruins Site Cellar lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "White Liquor",
+        "Item": "IR5",
+        "From": "Banded Seeker lvl 48",
+        "Zone": "Ruins Site Cellar lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "White Liquor",
+        "Item": "IR5",
+        "From": "Banded Healer lvl 48",
+        "Zone": "Ruins Site Cellar lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Gathering Spot (X44 Y44)",
+        "Zone": "Ruins Site Cellar lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Blank Scroll",
+        "Item": "IR2",
+        "From": "Gathering Spot (X58 Y44)",
+        "Zone": "Ruins Site Cellar lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Large Beast-Steak",
+        "Item": "IR5",
+        "From": "Gathering Spot (X58 Y44)",
+        "Zone": "Ruins Site Cellar lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Scroll of Power",
+        "Item": "IR4",
+        "From": "Gathering Spot (X55 Y36)",
+        "Zone": "Ruins Site Cellar lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Gathering Spot (X55 Y36)",
+        "Zone": "Ruins Site Cellar lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "IR6",
+        "From": "Gather Spot (X51 Y-11)",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Sandcrystal",
+        "Item": "IR9",
+        "From": "Gather Spot (X51 Y-11)",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Alchemized Sling Goblin lvl 48",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Alchemized Sling Goblin lvl 48",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "IR6",
+        "From": "Gather Spot (X47 Y-23)",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Chipped Gold Lump",
+        "Item": "IR10",
+        "From": "Gather Spot (X47 Y-23)",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Bone Meal",
+        "Item": "IR10",
+        "From": "Alchemized Skeleton lvl 49",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Alchemized Skeleton lvl 49",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Alchemized Skeleton lvl 49",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Animal Pelt",
+        "Item": "IR1",
+        "From": "Alchemized Wolf lvl 48",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Alchemized Wolf lvl 48",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Blue Alluvial Gold",
+        "Item": "IR6",
+        "From": "Chest (X53 Y-45)",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Chipped Gold Lump",
+        "Item": "IR10",
+        "From": "Chest (X53 Y-45)",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Dirty Sheet Metal",
+        "Item": "IR10",
+        "From": "Damned Golem lvl 45",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Chipped Gold Lump",
+        "Item": "IR10",
+        "From": "Damned Golem lvl 45",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Magick-Tinged Bone",
+        "Item": "IR5",
+        "From": "Wight lvl 50",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Chest (X51 Y-72)",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Black Ore",
+        "Item": "IR10",
+        "From": "Chest (X51 Y-72)",
+        "Zone": "Old Underground Laboratory lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Max HP UP Fountian",
+        "Item": "x",
+        "From": "x",
+        "Zone": "Neophyte's Cellar lvl 48",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Transmuted Fur",
+        "Item": "IR10",
+        "From": "Damned Wolf lvl 50",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Chipped Gold Lump",
+        "Item": "IR10",
+        "From": "Damned Wolf lvl 50",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Chipped Gold Lump",
+        "Item": "IR10",
+        "From": "Damned Goblin lvl 50",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Cracked Black Horn",
+        "Item": "IR10",
+        "From": "Damned Goblin lvl 50",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Chipped Gold Lump",
+        "Item": "IR10",
+        "From": "Damned Golem lvl 55",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Dirty Sheet Metal",
+        "Item": "IR10",
+        "From": "Damned Golem lvl 55",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Ambrosial Beast-Steak",
+        "Item": "IR8",
+        "From": "Griffin lvl 57",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Griffin Beak",
+        "Item": "IR6",
+        "From": "Griffin lvl 57",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Griffin Feather",
+        "Item": "IR6",
+        "From": "Griffin lvl 57",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Griffin Glossy Plume",
+        "Item": "IR12",
+        "From": "Griffin lvl 57",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "IR7",
+        "From": "Chest (X118 Y108)",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Ogre Claw",
+        "Item": "IR6",
+        "From": "Ogre lvl 55",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Necrophagous Bristle",
+        "Item": "IR7",
+        "From": "Ogre lvl 55",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Rugged Leather",
+        "Item": "IR5",
+        "From": "Armored Cyclops lvl 56",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Giant Eyeball",
+        "Item": "IR3",
+        "From": "Armored Cyclops lvl 56",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Giant Bone",
+        "Item": "IR8",
+        "From": "Armored Cyclops lvl 56",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Large Metal Plate",
+        "Item": "IR5",
+        "From": "Armored Cyclops lvl 56",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Cyclops Tusk",
+        "Item": "IR5",
+        "From": "Armored Cyclops lvl 56",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Beast Claw",
+        "Item": "IR8",
+        "From": "Grimwarg lvl 50",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Beast Leather",
+        "Item": "IR9",
+        "From": "Grimwarg lvl 50",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "IR8",
+        "From": "Grimwarg lvl 50",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Blank Scroll",
+        "Item": "IR2",
+        "From": "Skeleton Mage lvl 49",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Dry Bone",
+        "Item": "IR2",
+        "From": "Skeleton Mage lvl 49",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Copper Ore",
+        "Item": "IR2",
+        "From": "Skeleton lvl 48",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Dry Bone",
+        "Item": "IR2",
+        "From": "Skeleton lvl 48",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Skeleton lvl 48",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Skeleton Knight lvl 51",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Rusted Plate",
+        "Item": "IR6",
+        "From": "Skeleton Knight lvl 51",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Cursed Skull",
+        "Item": "IR11",
+        "From": "Skull Lord lvl 55",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Bone Meal",
+        "Item": "IR10",
+        "From": "Skull Lord lvl 55",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Black Ore ",
+        "Item": "IR10",
+        "From": "Chest (X139 Y70)",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Magick-Tinged Bone",
+        "Item": "IR5",
+        "From": "Wight lvl 56",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Orb of Darkness",
+        "Item": "IR3",
+        "From": "Wight lvl 56",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Black Skull",
+        "Item": "IR6",
+        "From": "Wight lvl 56",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Spirit Silver Ingot",
+        "Item": "IR8",
+        "From": "Chest (X129 Y71)",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Alchemite",
+        "Item": "IR12",
+        "From": "Goliath lvl 55",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Alchemized Armor Plate",
+        "Item": "IR11",
+        "From": "Goliath lvl 55",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Gather Spot (X89 Y86)",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Alchemite",
+        "Item": "IR12",
+        "From": "Gather Spot (X86 Y93)",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Gather Spot (X86 Y93)",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Alchemite",
+        "Item": "IR12",
+        "From": "Chest (X55 Y122)",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Mergoda Security District lvl 49",
+        "Item": "",
+        "From": "Down ramp from portcrystal",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Platinum Blood",
+        "Item": "IR55",
+        "From": "White Griffin lvl 55",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Dazzling Silver Plume",
+        "Item": "IR45",
+        "From": "White Griffin lvl 55",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Winged Beast's Heart",
+        "Item": "IR85",
+        "From": "White Griffin lvl 55",
+        "Zone": "Mergoda Security District lvl 49",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Dark Metal",
+        "Item": "x",
+        "From": "Giant Machina Lv ?",
+        "Zone": "Pit of Screams lvl 70",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Refined Paraffin",
+        "Item": "",
+        "From": "Chest x43y-40",
+        "Zone": "Pit of Screams lvl 70",
+        "Maps": "Western Zandora"
+    },
+    {
+        "Name": "Prism Crystal",
+        "Item": "",
+        "From": "Chest x75y-63",
+        "Zone": "Pit of Screams lvl 70",
+        "Maps": "Western Zandora"
+    }
+]

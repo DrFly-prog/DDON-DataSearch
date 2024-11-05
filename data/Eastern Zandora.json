@@ -1,0 +1,338 @@
+[
+    {
+        "Name": "Scroll of Fire",
+        "Item": "IR5",
+        "From": "Flame Skeleton Brute lvl 50",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Bonemeal",
+        "Item": "IR10",
+        "From": "Flame Skeleton Brute lvl 50",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Lava Rock",
+        "Item": "IR8",
+        "From": "Geo Golem lvl 55",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "High Quality Magick Medal",
+        "Item": "IR10",
+        "From": "Geo Golem lvl 55",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Magick Medal",
+        "Item": "IR7",
+        "From": "Geo Golem lvl 55",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Scroll of Great Sorcery",
+        "Item": "IR7",
+        "From": "chest x383 y148",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Shadowy Claw",
+        "Item": "",
+        "From": "Shadow Chimera X345Y146",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Sinister Horn",
+        "Item": "",
+        "From": "Shadow Chimera X345Y146",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Chipped Gold Lump",
+        "Item": "IR10",
+        "From": "Damned Golem lvl 49",
+        "Zone": "Ruins Site Cellar lvl 47",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Dirty Sheet Metal",
+        "Item": "IR10",
+        "From": "Damned Golem lvl 49",
+        "Zone": "Ruins Site Cellar lvl 48",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Chipped Gold Lump",
+        "Item": "IR10",
+        "From": "Damned Goblin lvl 50",
+        "Zone": "Ruins Site Cellar lvl 49",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Cracked Black Horn",
+        "Item": "IR10",
+        "From": "Damned Goblin lvl 50",
+        "Zone": "Ruins Site Cellar lvl 50",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Chest (X48 Y43)",
+        "Zone": "Ruins Site Cellar lvl 51",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Animal Bone",
+        "Item": "IR1",
+        "From": "Gather Spot (X50 Y47)",
+        "Zone": "Ruins Site Cellar lvl 52",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Large Beast-Steak",
+        "Item": "IR5",
+        "From": "Gather Spot (X50 Y47)",
+        "Zone": "Ruins Site Cellar lvl 53",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Blank Scroll",
+        "Item": "IR2",
+        "From": "Chest (X52 Y52)",
+        "Zone": "Old Capital Ruins lvl 47",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Chipped Gold Lump",
+        "Item": "IR10",
+        "From": "Damned Goblin lvl 50",
+        "Zone": "Water Channel Ruins lvl 47",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Cracked Black Horn",
+        "Item": "IR10",
+        "From": "Damned Goblin lvl 50",
+        "Zone": "Water Channel Ruins lvl 47",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Beautiful Conch Shell",
+        "Item": "IR5",
+        "From": "Gather Spot (X54 Y-41)",
+        "Zone": "Water Channel Ruins lvl 47",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Sharp Claw",
+        "Item": "IR7",
+        "From": "Silver Roar lvl 52",
+        "Zone": "Water Channel Ruins lvl 47",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Silver Ore",
+        "Item": "IR7",
+        "From": "Mining Spot (X55 Y-38)",
+        "Zone": "Water Channel Ruins lvl 47",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Transmuted Fur",
+        "Item": "IR10",
+        "From": "Shadow Wolf lvl 50",
+        "Zone": "Empty Chapel lvl 50",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "Shadow Wolf lvl 50",
+        "Zone": "Empty Chapel lvl 50",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Cracked Black Horn",
+        "Item": "IR10",
+        "From": "Shadow Goblin lvl 52",
+        "Zone": "Empty Chapel lvl 50",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "Shadow Goblin lvl 52",
+        "Zone": "Empty Chapel lvl 50",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Coconut-Scented Milk Cap",
+        "Item": "IR6",
+        "From": "Mushroom Spot (X54 Y-9)",
+        "Zone": "Empty Chapel lvl 50",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "High Quality Gala Mushroom",
+        "Item": "IR7",
+        "From": "Mushroom Spot (X54 Y-9)",
+        "Zone": "Empty Chapel lvl 50",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Harpy Flight Feather",
+        "Item": "IR6",
+        "From": "Shadow Harpy lvl 52",
+        "Zone": "Empty Chapel lvl 50",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Demonic Gem",
+        "Item": "IR10",
+        "From": "Shadow Harpy lvl 52",
+        "Zone": "Empty Chapel lvl 50",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "High Quality Magick Medal",
+        "Item": "",
+        "From": "Chest x29,y-88",
+        "Zone": "Empty Chapel lvl 50",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Bristly Felt ",
+        "Item": "",
+        "From": "chest x51 -y188 1~5",
+        "Zone": "Mysterious Mausoleum: Deepest Level LV 65",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Ancient Beast Pelt",
+        "Item": "",
+        "From": "chest x51 -y188 1~5",
+        "Zone": "Mysterious Mausoleum: Deepest Level LV 65",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Topaz Pendant",
+        "Item": "IR 8",
+        "From": "Empress Ghost LV70(77500XP)",
+        "Zone": "Mysterious Mausoleum: Deepest Level LV 65",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Water of Ruin",
+        "Item": "45",
+        "From": "Wight LV 50",
+        "Zone": "Shrine of Resentment LV48",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Droplets of Ruin",
+        "Item": "45",
+        "From": "Witch LV 50",
+        "Zone": "Shrine of Resentment LV48",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Abyssal Ice of Chaos",
+        "Item": "11",
+        "From": "",
+        "Zone": "Shrine of Resentment LV48",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Gold Ore",
+        "Item": "",
+        "From": "Chest x66 y-105",
+        "Zone": "Shrine of Resentment LV48",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Gold Ore",
+        "Item": "",
+        "From": "chest (1~5)",
+        "Zone": "Shrine of Resentment LV48",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Coarse Sand",
+        "Item": "",
+        "From": "Mud Man",
+        "Zone": "Shrine of Resentment LV48",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Silken Sand",
+        "Item": "",
+        "From": "Mud Man",
+        "Zone": "Shrine of Resentment LV48",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Magic Silt",
+        "Item": "",
+        "From": "Mud Man",
+        "Zone": "Shrine of Resentment LV48",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Ancient Knight's Scripture",
+        "Item": "IR 60",
+        "From": "Death Knight lv60",
+        "Zone": "Dead Lord's Ladybrinth LV60",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Ancient Knight's Letter",
+        "Item": "",
+        "From": "Death Knight lv60",
+        "Zone": "Dead Lord's Ladybrinth LV60",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Ancient Knight's Book",
+        "Item": "",
+        "From": "Death Knight lv60",
+        "Zone": "Dead Lord's Ladybrinth LV60",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Exquisite Metal Plate",
+        "Item": "",
+        "From": "Skeleton Lord Lv?",
+        "Zone": "Dead Lord's Ladybrinth LV60",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Phantom Ore",
+        "Item": "",
+        "From": "Mining Spot(x45y-121)",
+        "Zone": "Dead Lord's Ladybrinth LV60",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Mithril Ingot",
+        "Item": "IR 9",
+        "From": "Gather spot (x42y-234)",
+        "Zone": "Dead Lord's Ladybrinth LV60",
+        "Maps": "Eastern Zandora"
+    },
+    {
+        "Name": "Random BBI item exchange",
+        "Item": "",
+        "From": "Death LV70 ???",
+        "Zone": "Dead Lord's Ladybrinth LV60",
+        "Maps": "Eastern Zandora"
+    }
+]

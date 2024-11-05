@@ -1,0 +1,2200 @@
+[
+    {
+        "Name": "Small Horn",
+        "Item": "IR1",
+        "From": "Goblin Figher lv1",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Clear Insect Wing",
+        "Item": "IR1",
+        "From": "Killer Bee lv1",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Baby Herb",
+        "Item": "IR1",
+        "From": "Green plants",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Lestania Herb",
+        "Item": "IR2",
+        "From": "Yellow flower plants",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "IR8",
+        "From": "Grimwarg lv3",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Orc Soldier lv5",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Thin Wood",
+        "Item": "IR1",
+        "From": "Logging Spot",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Bird Feather",
+        "Item": "IR1",
+        "From": "Crates(X207Y262)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Animal Bone",
+        "Item": "IR1",
+        "From": "Crates(X207Y262)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Animal Pelt",
+        "Item": "IR1",
+        "From": "Crates(X207Y262)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Saurian lv3",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Rock scale",
+        "Item": "IR6",
+        "From": "Saurian lv3",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Apophyllite",
+        "Item": "IR4",
+        "From": "Saurain lv3",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Giant Apophyllite",
+        "Item": "IR85",
+        "From": "Saurian lv3",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ore Fragment",
+        "Item": "IR3",
+        "From": "Skeleton Knight lv2",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Spider Thread",
+        "Item": "IR1",
+        "From": "Chest (X210Y258)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Skeleton Knight lv2",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Magick-Tinged Bone",
+        "Item": "IR5",
+        "From": "Skeleton Sorcerer",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Animal Bone",
+        "Item": "IR1",
+        "From": "Crates(X220Y264)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Animal Pelt",
+        "Item": "IR1",
+        "From": "Crates(X220Y264)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Bird Feather",
+        "Item": "IR1",
+        "From": "Crates(X220Y264)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Small Thief's key",
+        "Item": "IR4",
+        "From": "Crates(X220Y264)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Small Fang",
+        "Item": "IR2",
+        "From": "Wolf lv5",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Animal Fur",
+        "Item": "IR1",
+        "From": "Wolf lv5",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Ape Fur",
+        "Item": "IR3",
+        "From": "Brute Ape lv5",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Ape Pelt",
+        "Item": "IR3",
+        "From": "Brute Ape lv5",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "White Seashell",
+        "Item": "IR2",
+        "From": "Debrees Spot(riverside)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Clear Water",
+        "Item": "IR2",
+        "From": "Water Spot (river)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Animal Pelt",
+        "Item": "IR1",
+        "From": "Local Fauna (Deers etc)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Animal Bone",
+        "Item": "IR1",
+        "From": "Local Fauna (Deers etc)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Sphinx Azure Pinion",
+        "Item": "IR4",
+        "From": "Sphinx lv15 (X239Y310)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Gala Mushroom",
+        "Item": "IR1",
+        "From": "Mushroom Stump Spot",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Quality Gala Mushroom",
+        "Item": "IR2",
+        "From": "Mushroom Stump Spot",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Bronze Ore",
+        "Item": "IR1",
+        "From": "Locked Chest(X239Y299)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Terry Cloth",
+        "Item": "IR2",
+        "From": "Chest(X242Y300)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Pine Lumber",
+        "Item": "IR6",
+        "From": "Logging Spot (X258Y322)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Spider Thread",
+        "Item": "IR1",
+        "From": "Spider lv1 (behind Catacombs)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Spider Mesh",
+        "Item": "IR45",
+        "From": "Spider lv1 (behind Catacombs)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Bird Feather",
+        "Item": "IR1",
+        "From": "Crates(Demon Bridge)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Animal Bone",
+        "Item": "IR1",
+        "From": "Crates(Demon Bridge)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Animal Pelt",
+        "Item": "IR1",
+        "From": "Crates(Demon Bridge)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Goblin lv5 (Near TelClops)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Giant Bone",
+        "Item": "IR3",
+        "From": "Cyclops lv10(1100XP)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Cyclops Tusk",
+        "Item": "IR5",
+        "From": "Cyclops lv10(1100XP)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Filament",
+        "Item": "IR2",
+        "From": "Chest(X194Y295)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Hidell Medal ",
+        "Item": "IR8",
+        "From": "Chest (X265Y323)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Spider Thread",
+        "Item": "IR1",
+        "From": "Spider lv1",
+        "Zone": "TRAINING CHAPEL LV.3",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Spider Mesh",
+        "Item": "IR45",
+        "From": "Spider lv1",
+        "Zone": "TRAINING CHAPEL LV.4",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Small Horn",
+        "Item": "IR1",
+        "From": "Shield Goblin lv5",
+        "Zone": "TRAINING CHAPEL LV.5",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Goblin Fighter lv10",
+        "Zone": "TRAINING CHAPEL LV.6",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Giant Bone",
+        "Item": "IR3",
+        "From": "Cyclops lv7(700XP)",
+        "Zone": "TRAINING CHAPEL LV.7",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Cyclops Tusk",
+        "Item": "IR5",
+        "From": "Cyclops lv7(700XP)",
+        "Zone": "TRAINING CHAPEL LV.8",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Orc Tusk",
+        "Item": "IR3",
+        "From": "Orc Soldier lv10",
+        "Zone": "ABANDONED WELL ON HIDELL ROAD LV6. X:190 Y262",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Saurian lv6",
+        "Zone": "ABANDONED WELL ON HIDELL ROAD LV6. X:190 Y262",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Saurian lv6",
+        "Zone": "ABANDONED WELL ON HIDELL ROAD LV6. X:190 Y262",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Clear Water",
+        "Item": "IR2",
+        "From": "Water Spot",
+        "Zone": "ABANDONED WELL ON HIDELL ROAD LV6. X:190 Y262",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Lead Ore",
+        "Item": "IR2",
+        "From": "Mining Spot",
+        "Zone": "ABANDONED WELL ON HIDELL ROAD LV6. X:190 Y262",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Copper ore",
+        "Item": "IR2",
+        "From": "Mining Spot",
+        "Zone": "ABANDONED WELL ON HIDELL ROAD LV6. X:190 Y262",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Fluorite",
+        "Item": "IR2",
+        "From": "Locked Chest",
+        "Zone": "ABANDONED WELL ON HIDELL ROAD LV6. X:190 Y262",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Undead Carrion",
+        "Item": "IR1",
+        "From": "Undead lv10",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Burial Shroud",
+        "Item": "IR2",
+        "From": "Undead lv10",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Beast's Mane",
+        "Item": "IR5",
+        "From": "Chimera lv12",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Mutated Bone Lump",
+        "Item": "IR7",
+        "From": "Chimera lv12",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Strong Lizardscale Pelt",
+        "Item": "IR7",
+        "From": "Chimera lv12",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Stagnant Shroom",
+        "Item": "IR3",
+        "From": "Shroom Spot",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Rotten Lump",
+        "Item": "IR3",
+        "From": "Stout Undead lv12",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Lantern Kindling",
+        "Item": "IR1",
+        "From": "Chest 1",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Agate",
+        "Item": "IR7",
+        "From": "Witch lv10",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Magickal Potion",
+        "Item": "IR9",
+        "From": "Witch lv10",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ore Fragment",
+        "Item": "IR3",
+        "From": "Chest 2",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Dry Bone",
+        "Item": "IR2",
+        "From": "Skeleton Mage lv10",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Magick-Tinged Bone",
+        "Item": "IR5",
+        "From": "Skeleton Sorcerer lv10",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Giant Bone",
+        "Item": "IR3",
+        "From": "Cyclops lv13",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Large Metal Plate",
+        "Item": "IR5",
+        "From": "Cyclops lv13",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Cyclops Tusk",
+        "Item": "IR5",
+        "From": "Cyclops lv13",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Quality Gala Mushroom",
+        "Item": "IR2",
+        "From": "Shroom Spot",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Burial Shroud",
+        "Item": "IR2",
+        "From": "Chest 3&4",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Lockpick",
+        "Item": "IR1",
+        "From": "Chest 4",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Rotten Lump",
+        "Item": "IR3",
+        "From": "Undead Warrior lv11",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Sinister Carrion",
+        "Item": "IR9",
+        "From": "Undead Warrior lv11",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Burial Shroud",
+        "Item": "IR2",
+        "From": "Sword Undead lv10",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Undead Carrion",
+        "Item": "IR1",
+        "From": "Sword Undead lv10",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Ogre Fur",
+        "Item": "IR6",
+        "From": "Ogre lv15",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Ogre Claw",
+        "Item": "IR6",
+        "From": "Ogre lv15",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Blank Scroll",
+        "Item": "IR2",
+        "From": "Chest 6",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ore Fragment",
+        "Item": "IR3",
+        "From": "Locked Chest (7)",
+        "Zone": "SMALL CAVE TOMBS LV10 X:207 Y:255",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Small Horn",
+        "Item": "IR1",
+        "From": "Shield Goblin lv14",
+        "Zone": "PLAINS ABANDONED HOUSE CELLAR LV14 X:235 Y:284",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Shield Goblin lv14",
+        "Zone": "PLAINS ABANDONED HOUSE CELLAR LV14 X:235 Y:284",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Fluorite",
+        "Item": "IR2",
+        "From": "Locked Chest",
+        "Zone": "PLAINS ABANDONED HOUSE CELLAR LV14 X:235 Y:284",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Undead Carrion",
+        "Item": "IR1",
+        "From": "Undead lv13",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Burial Shroud",
+        "Item": "IR2",
+        "From": "Undead lv13",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Sinister Carrion",
+        "Item": "IR9",
+        "From": "Warrior undead lv13",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Rotten Lump",
+        "Item": "IR3",
+        "From": "Warrior undead lv13",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Rotten Lump",
+        "Item": "IR3",
+        "From": "Stout undead lv13",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Undead Carrion",
+        "Item": "IR1",
+        "From": "Warrior undead lv13(chimera area)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Burial Shroud",
+        "Item": "IR2",
+        "From": "Warrior undead lv13(chimera area)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Burial Shroud",
+        "Item": "IR2",
+        "From": "Sword Undead lv13(chimera area)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Undead Carrion",
+        "Item": "IR1",
+        "From": "Sword Undead lv13(chimera area)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Beast's Mane",
+        "Item": "IR5",
+        "From": "Chimera lv13",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Mutated Bone Lump",
+        "Item": "IR7",
+        "From": "Chimera lv13",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Strong Lizardscale Pelt",
+        "Item": "IR6",
+        "From": "Chimera lv13",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Linen ",
+        "Item": "IR3",
+        "From": "Chest (1)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Purple Anise",
+        "Item": "IR3",
+        "From": "Herb Spot",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Baby Herb",
+        "Item": "IR1",
+        "From": "Herb Spot",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Bronze Ingot",
+        "Item": "IR1",
+        "From": "Locked Chest(X42Y-49)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Ogre Fur",
+        "Item": "IR6",
+        "From": "Ogre lv15",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Ogre Claw",
+        "Item": "IR6",
+        "From": "Ogre lv15",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Copper Ore",
+        "Item": "IR2",
+        "From": "Mining Spot",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ore",
+        "Item": "IR4",
+        "From": "Mining Spot",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Fluorite",
+        "Item": "IR2",
+        "From": "Locked Chest(Ogre area)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Wild Herb",
+        "Item": "IR3",
+        "From": "Herb Spot",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ore Fragment",
+        "Item": "IR3",
+        "From": "Chest (3) (X42Y-66)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ore",
+        "Item": "IR4",
+        "From": "Chest (3) (X42Y-66)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Small Horn",
+        "Item": "IR1",
+        "From": "Goblin Fighter lv13",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Goblin Fighter lv13",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Copper Ore",
+        "Item": "IR2",
+        "From": "Chest (4) (X40Y-66)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Polishing Sand",
+        "Item": "IR3",
+        "From": "Chest (4) (X40Y-66)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Dual Leather Bracelet",
+        "Item": "IR4/LV16",
+        "From": "Chest (4) (X40Y-66)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Magick-Tinged Bone",
+        "Item": "IR5",
+        "From": "Skeleton Sorcerer lv13",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Dry Bone",
+        "Item": "IR2",
+        "From": "Skeleton mage lv14",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Copper Ore",
+        "Item": "IR2",
+        "From": "Skeleton lv14/lv13",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Dry Bone",
+        "Item": "IR2",
+        "From": "Skeleton lv14",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Skeleton lv14/lv13",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Scroll Of Sorcery",
+        "Item": "IR4",
+        "From": "Locked Chest (X65Y-75)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Scroll Of Power",
+        "Item": "IR4",
+        "From": "Locked Chest (X65Y-75)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Copper Ore",
+        "Item": "IR2",
+        "From": "Skeleton Brute lv15",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Dry Bone",
+        "Item": "IR2",
+        "From": "Skeleton Brute lv15",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Skeleton Brute lv15",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Peridot",
+        "Item": "IR4",
+        "From": "Locked Chest (X68Y-105)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ingot",
+        "Item": "IR4",
+        "From": "Chest (5) (X52Y-110)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Magick-Tinged Bone",
+        "Item": "IR5",
+        "From": "Wight lv10",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Bone Meal",
+        "Item": "IR10",
+        "From": "Wight lv10",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Giant Bone",
+        "Item": "IR3",
+        "From": "Skeleton Cyclops lv18",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Cyclops Tusk",
+        "Item": "IR5",
+        "From": "Skeleton Cyclops lv18",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ingot",
+        "Item": "IR4",
+        "From": "Keydoor Chest(X66Y-138)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Leather Cord",
+        "Item": "IR4",
+        "From": "Locked Chest(X36Y-138)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ingot",
+        "Item": "IR4",
+        "From": "Locked Chest(X36Y-138)",
+        "Zone": "HIDELL CATACOMBS LV13 X:230 Y:307",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Undead Carrion",
+        "Item": "IR1",
+        "From": "Sword Undead lv28",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Rusted Plate",
+        "Item": "IR6",
+        "From": "Sword Undead lv28",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Burial Shroud",
+        "Item": "IR2",
+        "From": "Sword Undead lv28",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Moonglow",
+        "Item": "IR5",
+        "From": "Plant Spot/Shroom Spot",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Spun Yarn",
+        "Item": "IR5",
+        "From": "Chest (1)",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Spun Yarn",
+        "Item": "IR5",
+        "From": "Chest (2)",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Blank Scroll",
+        "Item": "IR2",
+        "From": "Skeleton Mage Lv28",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Dry Bone",
+        "Item": "IR2",
+        "From": "Skeleton Mage Lv28",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Magick-Tinged Bone",
+        "Item": "IR5",
+        "From": "Skeleton Mage Lv28",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Stagnant Shroom",
+        "Item": "IR3",
+        "From": "Shroom Spot",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Scroll Of Darkness",
+        "Item": "IR6",
+        "From": "Locked Chest (X91Y-33)",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Rusted Plate",
+        "Item": "IR6",
+        "From": "Skeleton Knight lv28",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ore Fragment",
+        "Item": "IR3",
+        "From": "Skeleton Knight lv28",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Skeleton Knight lv28",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Insect Venom",
+        "Item": "IR1",
+        "From": "Worm lv1",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Healing Elixir",
+        "Item": "IR5",
+        "From": "Chest (4)",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "IR8",
+        "From": "Grimwarg lv29",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Spun Yarn",
+        "Item": "IR5",
+        "From": "Chest (5)",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Coarse Sand",
+        "Item": "IR2",
+        "From": "Mudman lv28",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Silken Sand",
+        "Item": "IR3",
+        "From": "Mudman lv28",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Magick Silt",
+        "Item": "IR6",
+        "From": "Mudman lv28",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Marbled Beast-Steak",
+        "Item": "IR7",
+        "From": "Eliminator lv31",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ore Fragment",
+        "Item": "IR3",
+        "From": "Mining Spot (X57Y-90)",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ore",
+        "Item": "IR4",
+        "From": "Mining Spot (X57Y-90)",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Thread",
+        "Item": "IR6",
+        "From": "Locked Chest (X30Y-88)",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ore",
+        "Item": "IR4",
+        "From": "Mining Spots (X42Y-102)",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Throwing Rock",
+        "Item": "IR4",
+        "From": "Mining Spots (X42Y-102)",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ore Fragment",
+        "Item": "IR3",
+        "From": "Mining Spots (X42Y-102)",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Ogre Claw",
+        "Item": "IR6",
+        "From": "Ogre LV33",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Ogre Fur",
+        "Item": "IR6",
+        "From": "Ogre LV33",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Necrophagous Bristle",
+        "Item": "IR7",
+        "From": "Ogre LV33",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Thread",
+        "Item": "IR6",
+        "From": "Locked Chest (X70Y-97)",
+        "Zone": "HIDELL CATACOMBS DEPTHS LV28 X:49 Y-122",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Gala Mushroom",
+        "Item": "IR1",
+        "From": "Mushroom Spot",
+        "Zone": "ABANDONED HOUSE CELLAR LV4 X:196 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Goblin lv4",
+        "Zone": "ABANDONED HOUSE CELLAR LV4 X:196 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Small Horn",
+        "Item": "IR1",
+        "From": "Goblin lv4",
+        "Zone": "ABANDONED HOUSE CELLAR LV4 X:196 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Bird Feather",
+        "Item": "IR1",
+        "From": "Crates",
+        "Zone": "ABANDONED HOUSE CELLAR LV4 X:196 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Animal Pelt",
+        "Item": "IR1",
+        "From": "Crates",
+        "Zone": "ABANDONED HOUSE CELLAR LV4 X:196 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Common Cloth",
+        "Item": "IR1",
+        "From": "Locked Chest (X54Y51)",
+        "Zone": "ABANDONED HOUSE CELLAR LV4 X:196 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Goblin lv18",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Small Horn",
+        "Item": "IR1",
+        "From": "Goblin lv18",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Mutated Bone Lump",
+        "Item": "IR7",
+        "From": "Chimera lv20",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Strong Lizardscale Pelt",
+        "Item": "IR6",
+        "From": "Chimera lv20",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Monster Gallstone",
+        "Item": "IR4",
+        "From": "Chest (1) (Chimera room)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Chest (1) (Chimera room)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Green Grass Ring",
+        "Item": "IR1/LV1",
+        "From": "Chest (1) (Chimera room)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Rough Thread",
+        "Item": "IR3",
+        "From": "Chest (2)(Chimera room)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Monster Gallstone",
+        "Item": "IR4",
+        "From": "Chest (2)(Chimera room)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Purple Anise",
+        "Item": "IR3",
+        "From": "Plant Spot",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Monster Gallstone",
+        "Item": "IR4",
+        "From": "Chest (3)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Chest (3)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Small Thief's Key",
+        "Item": "IR4",
+        "From": "Locked Chest (X42Y-48)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Linen",
+        "Item": "IR3",
+        "From": "Locked Chest (X42Y-48)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Amethyst",
+        "Item": "IR3",
+        "From": "Locked Chest (X42Y-48)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Ogre Fur",
+        "Item": "IR6",
+        "From": "Ogre lv21",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ore",
+        "Item": "IR4",
+        "From": "Mining Spot (Ogre room)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Hematite Sand",
+        "Item": "IR4",
+        "From": "Mining Spot (Ogre room)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Unrefined Demon Wine",
+        "Item": "IR4",
+        "From": "Chest (4)(Ogre room)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Baby Herb",
+        "Item": "IR1",
+        "From": "Plant Spot",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Bird Feather",
+        "Item": "IR1",
+        "From": "Harpy lv15",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Harpy lv15",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Beast Fur",
+        "Item": "IR8",
+        "From": "Chest (5)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Magick Medal",
+        "Item": "IR7",
+        "From": "Golem lv23",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Leather Cord",
+        "Item": "IR4",
+        "From": "Locked Chest (X64Y-113)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Jasper Ornamental Pin",
+        "Item": "IR3/LV11",
+        "From": "Locked Chest (X64Y-113)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ingot",
+        "Item": "IR4",
+        "From": "Locked Chest (X64Y-113)",
+        "Zone": "BLOCKED PASSAGE LV 18 X:52 Y:50",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Saurian lv5",
+        "Zone": "TEL'S WITHERED WELL LV5 X:35 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Saurian lv5",
+        "Zone": "TEL'S WITHERED WELL LV5 X:35 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Gala Mushroom",
+        "Item": "IR1",
+        "From": "Mushroom Spot",
+        "Zone": "TEL'S WITHERED WELL LV5 X:35 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Bronze Ore",
+        "Item": "IR1",
+        "From": "Mining Spot",
+        "Zone": "TEL'S WITHERED WELL LV5 X:35 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Copper Ore",
+        "Item": "IR2",
+        "From": "Mining Spot",
+        "Zone": "TEL'S WITHERED WELL LV5 X:35 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Clear Water",
+        "Item": "IR2",
+        "From": "Water Spot",
+        "Zone": "TEL'S WITHERED WELL LV5 X:35 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Burial Shroud",
+        "Item": "IR2",
+        "From": "Undead lv30",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Undead Carrion",
+        "Item": "IR1",
+        "From": "Undead lv30",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Undead Extract",
+        "Item": "IR6",
+        "From": "Undead lv30",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Cedar Wood",
+        "Item": "IR5",
+        "From": "Chest (1)",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "High Quality Gala Mushroom",
+        "Item": "IR7",
+        "From": "Chest (1)",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Large Fang",
+        "Item": "IR5",
+        "From": "Crate (right room at entrance)",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Undead Carrion",
+        "Item": "IR1",
+        "From": "Sword Undead lv31",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Burial Shroud",
+        "Item": "IR2",
+        "From": "Sword Undead lv31",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Marbled Beast-Steak",
+        "Item": "IR7",
+        "From": "Eliminator Slay lv31",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Sinister Carrion",
+        "Item": "IR9",
+        "From": "Warrior Undead lv31",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Cedar Wood",
+        "Item": "IR5",
+        "From": "Chest (2)",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "High Quality Gala Mushroom",
+        "Item": "IR7",
+        "From": "Chest (2)",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Magick Silt",
+        "Item": "IR6",
+        "From": "Gargoyle lv33($)",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Dry Bone",
+        "Item": "IR2",
+        "From": "Skeleton mage lv31",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Magick-Tinged Bone",
+        "Item": "IR5",
+        "From": "Skeleton Sorcerer lv33",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Blank Scroll",
+        "Item": "IR2",
+        "From": "Skeleton Sorcerer lv33",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Dry Bone",
+        "Item": "IR2",
+        "From": "Skeleton Mage Lv33",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Blank Scroll",
+        "Item": "IR2",
+        "From": "Skeleton Mage Lv33",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "magick-Tinged Bone",
+        "Item": "IR5",
+        "From": "Skeleton Mage Lv33",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Slime Liquid",
+        "Item": "IR1",
+        "From": "Slime lv35",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Strong Viscous Liquid",
+        "Item": "IR4",
+        "From": "Slime lv35",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Large Fang",
+        "Item": "IR5",
+        "From": "Crate (next to slimes)",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Throwblast",
+        "Item": "IR6",
+        "From": "Locked Chest(X41Y-77)",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "High Quality Wood",
+        "Item": "IR6",
+        "From": "Locked Chest(X41Y-77)",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Demon Arming Points",
+        "Item": "IR11",
+        "From": "Living Armor lv34",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Silver ore",
+        "Item": "IR7",
+        "From": "Locked Box(X59Y-80)",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Silver ingot",
+        "Item": "IR7",
+        "From": "Locked Box(X59Y-80)",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Thread",
+        "Item": "IR6",
+        "From": "Locked Chest(X48Y-80)",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Rusted Plate",
+        "Item": "IR6",
+        "From": "Skeleton Knight lv33",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ore Fragment",
+        "Item": "IR3",
+        "From": "Skeleton Knight lv33",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Skeleton Knight lv33",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Skeleton Warrior lv33",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Rusted Plate",
+        "Item": "IR6",
+        "From": "Skeleton Warrior lv33",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Undead Nail Shaving",
+        "Item": "IR85",
+        "From": "Dark Skeleton Brute lv35",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Dark Skeleton Brute lv35",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Undead Nail Shaving",
+        "Item": "IR85",
+        "From": "Flame Skeleton lv35",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Silver ore",
+        "Item": "IR7",
+        "From": "Locked Chest(X51Y-106)",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Rotten Lump",
+        "Item": "IR3",
+        "From": "Warrior undead lv33",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Sinister Black Cloth",
+        "Item": "IR9",
+        "From": "Death Knight lv34",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Ancient Knight's Emblem",
+        "Item": "IR12",
+        "From": "Death Knight lv34",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Agate",
+        "Item": "IR7",
+        "From": "Locked Box(X45Y-140)",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Onyx",
+        "Item": "IR6",
+        "From": "Locked Box(X45Y-140)",
+        "Zone": "HIDELL CATACOMBS INNERMOST DEPTHS LV30 X:43 Y:-113",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Small Horn",
+        "Item": "IR1",
+        "From": "Goblin lv5",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Ogre Fur",
+        "Item": "IR6",
+        "From": "Ogre lv7",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Animal Bone",
+        "Item": "IR1",
+        "From": "Crates",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Animal Pelt",
+        "Item": "IR1",
+        "From": "Crates",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Bronze Ore",
+        "Item": "IR1",
+        "From": "Mining Spot",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Lead Ore",
+        "Item": "IR2",
+        "From": "Mining Spot",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Small Fang",
+        "Item": "IR2",
+        "From": "Wolf lv5",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Animal Pelt",
+        "Item": "IR1",
+        "From": "Chest (1)",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Gala Mushroom",
+        "Item": "IR1",
+        "From": "Chest (1)",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Common Cloth",
+        "Item": "IR1",
+        "From": "Locked Chest(X31Y-41)",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Filament",
+        "Item": "IR2",
+        "From": "Locked Chest(X31Y-41)",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Strong Acid Slime Piece",
+        "Item": "IR7",
+        "From": "Aqua Jelly lv5",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Highly Viscous Slime Liquid",
+        "Item": "IR80",
+        "From": "Aqua Jelly lv5",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Saurian Tail",
+        "Item": "IR2",
+        "From": "Saurian lv5",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Lizardscale Pelt",
+        "Item": "IR2",
+        "From": "Saurian lv5",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Fluorite",
+        "Item": "IR2",
+        "From": "Mining Spot (Green)",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Clear Water",
+        "Item": "IR2",
+        "From": "Water Spot",
+        "Zone": "HUNTER´S SECRET PASSAGE LV5 X:193 Y:301",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Animal Pelt",
+        "Item": "IR1",
+        "From": "Alchemized Wolf lv16",
+        "Zone": "THE ARK LV16 X:184 Y:310",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Alchemized Wolf lv16",
+        "Zone": "THE ARK LV16 X:184 Y:310",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Alchemized Goblin lv16",
+        "Zone": "THE ARK LV16 X:184 Y:310",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Alchemized Goblin lv16",
+        "Zone": "THE ARK LV16 X:184 Y:310",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Harpy Flight Feather",
+        "Item": "IR6",
+        "From": "Alchemized Harpy lv16",
+        "Zone": "THE ARK LV16 X:184 Y:310",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Alchemized Harpy lv16",
+        "Zone": "THE ARK LV16 X:184 Y:310",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Alchemized Skeleton lv17",
+        "Zone": "THE ARK LV16 X:184 Y:310",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Alchemized Skeleton lv16",
+        "Zone": "THE ARK LV16 X:184 Y:310",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Bone Meal",
+        "Item": "IR10",
+        "From": "Alchemized Skeleton lv16",
+        "Zone": "THE ARK LV16 X:184 Y:310",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Iron Ore",
+        "Item": "IR4",
+        "From": "Locked Chest(X52Y-151)",
+        "Zone": "THE ARK LV16 X:184 Y:310",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Locked Chest(X52Y-151)",
+        "Zone": "THE ARK LV16 X:184 Y:310",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Alchemite",
+        "Item": "IR12",
+        "From": "Alchemy Eye lv60",
+        "Zone": "THE ARK`S LOWER LEVEL: DANGEROUS AREA LV 57 X:42 Y:-128",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Drilled Ore",
+        "Item": "IR5",
+        "From": "Alchemy Eye lv60",
+        "Zone": "THE ARK`S LOWER LEVEL: DANGEROUS AREA LV 57 X:42 Y:-128",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Alchemized Harpy lv60",
+        "Zone": "THE ARK`S LOWER LEVEL: DANGEROUS AREA LV 57 X:42 Y:-128",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Griffin Beak",
+        "Item": "IR6",
+        "From": "Alchemized Griffin lv60",
+        "Zone": "THE ARK`S LOWER LEVEL: DANGEROUS AREA LV 57 X:42 Y:-128",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Alchemized Armor Plate",
+        "Item": "IR11",
+        "From": "Alchemized Griffin lv60",
+        "Zone": "THE ARK`S LOWER LEVEL: DANGEROUS AREA LV 57 X:42 Y:-128",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Alchemite",
+        "Item": "IR12",
+        "From": "Goliath lv64",
+        "Zone": "THE ARK`S LOWER LEVEL: DANGEROUS AREA LV 57 X:42 Y:-128",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Alchemized Armor Plate",
+        "Item": "IR11",
+        "From": "Goliath lv64",
+        "Zone": "THE ARK`S LOWER LEVEL: DANGEROUS AREA LV 57 X:42 Y:-128",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Exquisite Metal Plate",
+        "Item": "IR11",
+        "From": "Goliath lv64",
+        "Zone": "THE ARK`S LOWER LEVEL: DANGEROUS AREA LV 57 X:42 Y:-128",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Animal Pelt",
+        "Item": "IR1",
+        "From": "Alchemized Wolf lv57",
+        "Zone": "THE ARK`S LOWER LEVEL LV57 X:185 Y:312",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Alchemized Wolf lv57",
+        "Zone": "THE ARK`S LOWER LEVEL LV57 X:185 Y:312",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Training Stakes",
+        "Item": "IR11",
+        "From": "Alchemized Wolf lv57",
+        "Zone": "THE ARK`S LOWER LEVEL LV57 X:185 Y:312",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Alchemized Goblin lv57",
+        "Zone": "THE ARK`S LOWER LEVEL LV57 X:185 Y:312",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Alchemized Goblin lv57",
+        "Zone": "THE ARK`S LOWER LEVEL LV57 X:185 Y:312",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Alchemite",
+        "Item": "IR12",
+        "From": "Goliath lv60",
+        "Zone": "THE ARK`S LOWER LEVEL LV57 X:185 Y:312",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Alchemized Armor Plate",
+        "Item": "IR11",
+        "From": "Goliath lv60",
+        "Zone": "THE ARK`S LOWER LEVEL LV57 X:185 Y:312",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Exquisite Metal Plate",
+        "Item": "IR11",
+        "From": "Goliath lv60",
+        "Zone": "THE ARK`S LOWER LEVEL LV57 X:185 Y:312",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Training Stakes",
+        "Item": "IR11",
+        "From": "Alchemized Goblin lv57",
+        "Zone": "THE ARK`S LOWER LEVEL: STORAGE LV57 X:44 Y:-45",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Alchemized Goblin lv57",
+        "Zone": "THE ARK`S LOWER LEVEL: STORAGE LV57 X:44 Y:-45",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Goblin Horn",
+        "Item": "IR3",
+        "From": "Alchemized Goblin lv57",
+        "Zone": "THE ARK`S LOWER LEVEL: STORAGE LV57 X:44 Y:-45",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Alchemized Harpy lv57",
+        "Zone": "THE ARK`S LOWER LEVEL: STORAGE LV57 X:44 Y:-45",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Alchemite",
+        "Item": "IR12",
+        "From": "Goliath lv60",
+        "Zone": "THE ARK`S LOWER LEVEL: STORAGE LV57 X:44 Y:-45",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Alchemized Armor Plate",
+        "Item": "IR11",
+        "From": "Goliath lv60",
+        "Zone": "THE ARK`S LOWER LEVEL: STORAGE LV57 X:44 Y:-45",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Exquisite Metal Plate",
+        "Item": "IR11",
+        "From": "Goliath lv60",
+        "Zone": "THE ARK`S LOWER LEVEL: STORAGE LV57 X:44 Y:-45",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Sandcrystal",
+        "Item": "IR9",
+        "From": "Chest (1) (Left of Goliath)",
+        "Zone": "THE ARK`S LOWER LEVEL: STORAGE LV57 X:44 Y:-45",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Mithril Ore",
+        "Item": "IR9",
+        "From": "Locked Chest(X59Y-129",
+        "Zone": "THE ARK`S LOWER LEVEL: STORAGE LV57 X:44 Y:-45",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Alchemite",
+        "Item": "IR12",
+        "From": "Alchemy Eye lv60",
+        "Zone": "THE ARK`S LOWER LEVEL: TREASURY LV57 X:56 Y:-130",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Drilled Ore",
+        "Item": "IR5",
+        "From": "Alchemy Eye lv60",
+        "Zone": "THE ARK`S LOWER LEVEL: TREASURY LV57 X:56 Y:-130",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Rainbow Eye Gem",
+        "Item": "IR12",
+        "From": "Alchemy Eye lv60",
+        "Zone": "THE ARK`S LOWER LEVEL: TREASURY LV57 X:56 Y:-130",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Alchemized Skeleton lv60",
+        "Zone": "THE ARK`S LOWER LEVEL: TREASURY LV57 X:56 Y:-130",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Bone Meal",
+        "Item": "IR10",
+        "From": "Alchemized Skeleton lv60",
+        "Zone": "THE ARK`S LOWER LEVEL: TREASURY LV57 X:56 Y:-130",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Alchemized Skeleton lv60",
+        "Zone": "THE ARK`S LOWER LEVEL: TREASURY LV57 X:56 Y:-130",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Griffin Beak",
+        "Item": "IR6",
+        "From": "Alchemized Griffin lv62",
+        "Zone": "THE ARK`S LOWER LEVEL: TREASURY LV57 X:56 Y:-130",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Alchemized Armor Plate",
+        "Item": "IR11",
+        "From": "Alchemized Griffin lv62",
+        "Zone": "THE ARK`S LOWER LEVEL: TREASURY LV57 X:56 Y:-130",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Mysterius Thief`s Mask.",
+        "Item": "IR12/LV55",
+        "From": "Final Chests",
+        "Zone": "THE ARK`S LOWER LEVEL: TREASURY LV57 X:56 Y:-130",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Unappraised Moon Trinket(Soldier)",
+        "Item": "IR15",
+        "From": "Final Chests",
+        "Zone": "THE ARK`S LOWER LEVEL: TREASURY LV57 X:56 Y:-130",
+        "Maps": "Hidell Plains"
+    },
+    {
+        "Name": "Ornament Arms★.",
+        "Item": "IR12/LV55",
+        "From": "Final Chests",
+        "Zone": "THE ARK`S LOWER LEVEL: TREASURY LV57 X:56 Y:-130",
+        "Maps": "Hidell Plains"
+    }
+]

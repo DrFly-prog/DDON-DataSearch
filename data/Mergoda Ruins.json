@@ -1,0 +1,184 @@
+[
+    {
+        "Name": "Zandoratalis",
+        "Item": "IR10",
+        "From": "Flower Spot (X43 205)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Baby Herb",
+        "Item": "IR1",
+        "From": "Flower Spot (X43 205)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Drilled Ore",
+        "Item": "IR5",
+        "From": "Mining Spot (X42 Y203)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Black Ore",
+        "Item": "IR10",
+        "From": "Mining Spot (X42 Y203)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Zandoratalis",
+        "Item": "IR10",
+        "From": "Flower Spot (X42 203)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Dragon Hide",
+        "Item": "IR8",
+        "From": "Wyrm lvl 60",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Huge Dragon Bone Lump",
+        "Item": "IR12",
+        "From": "Wyrm lvl 60",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Azure Dragonscale",
+        "Item": "IR12",
+        "From": "Wyrm lvl 60",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Alchemized Wolf lvl 52",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Animal Pelt",
+        "Item": "IR1",
+        "From": "Alchemized Wolf lvl 52",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Training Stakes",
+        "Item": "IR11",
+        "From": "Alchemized Wolf lvl 52",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Fine Bleached Bone",
+        "Item": "IR3",
+        "From": "Alchemized Skeleton lvl 53",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Mysterious Gold Lump",
+        "Item": "IR4",
+        "From": "Alchemized Skeleton lvl 53",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Alchemite",
+        "Item": "IR12",
+        "From": "Alchemy Eye lvl 55",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Drilled Ore",
+        "Item": "IR5",
+        "From": "Alchemy Eye lvl 55",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Aliment Extractant",
+        "Item": "IR11",
+        "From": "Mergan Hunter lvl 53",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Mergan Ring",
+        "Item": "IR11",
+        "From": "Mergan Hunter lvl 53",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Harpy Pinion",
+        "Item": "IR2",
+        "From": "Alchemized Harpy lvl 53",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Alchemic Wood",
+        "Item": "IR11",
+        "From": "Wood Spot (X60 Y115)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Gold-Striped Wood",
+        "Item": "IR10",
+        "From": "Wood Spot (X60 Y115)",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Alchemite",
+        "Item": "IR12",
+        "From": "Goliath lvl 56",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Alchemized Armor Plate",
+        "Item": "IR11",
+        "From": "Goliath lvl 56",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Exquisite Metal Plate",
+        "Item": "IR11",
+        "From": "Goliath lvl 56",
+        "Zone": "OUTDOORS DROPS",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Gold Ingot",
+        "Item": "IR9",
+        "From": "Gather Spot (X53 Y44)",
+        "Zone": "Alchemist's House lvl 51",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Alkahest",
+        "Item": "IR11",
+        "From": "Chest (X53 Y47)",
+        "Zone": "Alchemist's House lvl 51",
+        "Maps": "Mergoda Ruins"
+    },
+    {
+        "Name": "Gold Stained Animal Fur",
+        "Item": "",
+        "From": "x77y63",
+        "Zone": "Mergoda Ruins Royal Palace ",
+        "Maps": "Mergoda Ruins"
+    }
+]

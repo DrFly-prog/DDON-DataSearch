@@ -1,5 +1,5 @@
 // Déclarez le tableau global des zones disponibles
-const zones = ["Bloodbane Isle", "Phindym", "Misc", "Breya Coast", "Volden Mines", "Dowe Valley", "Mysree Grove", "Deenan Woods", "Betland Plains", "N.Betland Plains"]; // Assurez-vous que ces noms correspondent aux fichiers JSON dans le dossier 'data'
+const zones = ["Bloodbane Isle", "Phindym", "Misc", "Breya Coast", "Volden Mines", "Dowe Valley", "Mysree Grove", "Deenan Woods", "Betland Plains", "N.Betland Plains", "Hidell Plains", "Western Zandora", "Eastern Zandora", "Mergoda Ruins"]; // Assurez-vous que ces noms correspondent aux fichiers JSON dans le dossier 'data'
 
 // Variable globale pour stocker les données actuellement chargées
 let currentData = [];
