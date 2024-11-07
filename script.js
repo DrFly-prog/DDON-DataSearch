@@ -74,7 +74,7 @@ function search() {
 
     // Filtre les données actuelles : conserve les résultats qui correspondent à au moins un des noms
     const filteredData = currentData.filter(result =>
-        searchTerms.some(term => result.Name.toLowerCase().includes(term))
+        searchTerms.some(term => result.Name.toLowerCase().includes(term.toLowerCase()))
     );
     
     // Affiche les données filtrées
